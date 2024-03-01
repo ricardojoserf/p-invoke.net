@@ -7,4 +7,4 @@ public static extern bool DdeFreeDataHandle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

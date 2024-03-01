@@ -8,4 +8,4 @@ public static extern uint TraceEvent(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

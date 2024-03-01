@@ -7,4 +7,4 @@ public static extern bool LockServiceDatabase(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-lockservicedatabase)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-lockservicedatabase)

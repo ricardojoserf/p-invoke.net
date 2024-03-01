@@ -9,4 +9,4 @@ public static extern bool SaferiIsExecutableFileType(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

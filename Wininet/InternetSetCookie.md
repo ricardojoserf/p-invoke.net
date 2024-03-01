@@ -9,4 +9,4 @@ public static extern bool InternetSetCookie(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-internetsetcookiea)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-internetsetcookiea)

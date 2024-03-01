@@ -8,4 +8,4 @@ public static extern uint GetConsoleProcessList(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsoleprocesslist)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsoleprocesslist)

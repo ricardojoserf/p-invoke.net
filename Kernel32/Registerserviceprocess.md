@@ -7,4 +7,4 @@ public static extern bool RegisterServiceProcess(uint dwProcessId,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

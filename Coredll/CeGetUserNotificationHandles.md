@@ -7,4 +7,4 @@ public static extern IntPtr CeGetUserNotificationHandles(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

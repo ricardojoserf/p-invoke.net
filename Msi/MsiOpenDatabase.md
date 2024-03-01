@@ -9,4 +9,4 @@ public static extern int MsiOpenDatabase(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

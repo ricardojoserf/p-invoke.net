@@ -8,4 +8,4 @@ public static extern bool EnableThemeDialogTexture(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-enablethemedialogtexture)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-enablethemedialogtexture)

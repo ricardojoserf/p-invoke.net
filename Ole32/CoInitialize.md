@@ -7,4 +7,4 @@ public static extern int CoInitialize(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

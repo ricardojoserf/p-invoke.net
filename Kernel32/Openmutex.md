@@ -8,4 +8,4 @@ public static extern IntPtr OpenMutex(uint dwDesiredAccess,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-openmutexw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-openmutexw)

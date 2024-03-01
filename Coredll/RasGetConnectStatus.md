@@ -8,4 +8,4 @@ public static extern int RasGetConnectStatus(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

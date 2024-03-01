@@ -8,4 +8,4 @@ public static extern int CoQueryAuthenticationServices(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-coqueryauthenticationservices)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-coqueryauthenticationservices)

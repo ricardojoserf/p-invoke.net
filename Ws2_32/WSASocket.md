@@ -12,4 +12,4 @@ public static extern IntPtr WSASocket(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

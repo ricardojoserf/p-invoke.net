@@ -9,4 +9,4 @@ public static extern uint HttpInitialize(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/http/nf-http-httpinitialize)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/http/nf-http-httpinitialize)

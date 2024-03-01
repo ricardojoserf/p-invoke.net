@@ -9,4 +9,4 @@ public static extern int MsiOpenPackageEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiopenpackageexw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiopenpackageexw)

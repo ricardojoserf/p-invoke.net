@@ -9,4 +9,4 @@ public static extern uint NetGetJoinInformation(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

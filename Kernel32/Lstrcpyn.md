@@ -8,4 +8,4 @@ public static extern IntPtr lstrcpyn(StringBuilder lpString1,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

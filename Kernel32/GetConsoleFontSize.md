@@ -8,4 +8,4 @@ public static extern bool GetConsoleFontSize(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsolefontsize)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsolefontsize)

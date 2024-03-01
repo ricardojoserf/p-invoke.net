@@ -9,4 +9,4 @@ public static extern uint NetServerGetInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmserver/nf-lmserver-netservergetinfo)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmserver/nf-lmserver-netservergetinfo)

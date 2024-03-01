@@ -7,4 +7,4 @@ public static extern void DsFreePasswordCredentials(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsfreepasswordcredentials)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsfreepasswordcredentials)

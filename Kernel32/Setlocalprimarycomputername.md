@@ -6,4 +6,4 @@ public static extern bool SetLocalPrimaryComputerName(string lpComputerName
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

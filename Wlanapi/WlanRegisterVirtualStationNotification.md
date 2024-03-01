@@ -9,4 +9,4 @@ public static extern uint WlanRegisterVirtualStationNotification(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wlanapi/nf-wlanapi-wlanregistervirtualstationnotification)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wlanapi/nf-wlanapi-wlanregistervirtualstationnotification)

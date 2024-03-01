@@ -8,4 +8,4 @@ public static extern int MsiRecordGetInteger(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

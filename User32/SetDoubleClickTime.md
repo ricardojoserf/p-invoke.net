@@ -7,4 +7,4 @@ public static extern bool SetDoubleClickTime(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setdoubleclicktime)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setdoubleclicktime)

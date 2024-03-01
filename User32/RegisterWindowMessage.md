@@ -7,4 +7,4 @@ public static extern uint RegisterWindowMessage(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerwindowmessagew)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerwindowmessagew)

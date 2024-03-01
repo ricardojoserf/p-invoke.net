@@ -9,4 +9,4 @@ public static extern int SQLExecDirect(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlexecdirect-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlexecdirect-function)

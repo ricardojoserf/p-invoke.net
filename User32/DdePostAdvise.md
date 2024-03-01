@@ -9,4 +9,4 @@ public static extern bool DdePostAdvise(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -8,4 +8,4 @@ public static extern bool GetCPInfoEx(string CodePage,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getcpinfoexw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getcpinfoexw)

@@ -9,4 +9,4 @@ public static extern uint NetShareCheck(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmshare/nf-lmshare-netsharecheck)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmshare/nf-lmshare-netsharecheck)

@@ -13,4 +13,4 @@ public static extern int SCardTransmit(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winscard/nf-winscard-scardtransmit)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winscard/nf-winscard-scardtransmit)

@@ -8,4 +8,4 @@ public static extern uint NetFileClose(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmshare/nf-lmshare-netfileclose)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmshare/nf-lmshare-netfileclose)

@@ -8,4 +8,4 @@ public static extern uint QueryDosDevice(string lpDeviceName,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

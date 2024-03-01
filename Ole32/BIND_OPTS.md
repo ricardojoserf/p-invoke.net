@@ -6,4 +6,4 @@ public static extern int GetBindOptions(out BIND_OPTS pbindopts
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

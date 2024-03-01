@@ -8,4 +8,4 @@ public static extern int MsiRecordDataSize(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

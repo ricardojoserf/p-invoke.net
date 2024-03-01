@@ -9,4 +9,4 @@ public static extern int SB_GETTEXT(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -10,4 +10,4 @@ public static extern int SQLSetEnvAttr(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlsetenvattr-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlsetenvattr-function)

@@ -10,4 +10,4 @@ public static extern uint NetUseAdd(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmuse/nf-lmuse-netuseadd)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmuse/nf-lmuse-netuseadd)

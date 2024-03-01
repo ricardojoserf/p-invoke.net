@@ -13,4 +13,4 @@ public static extern uint RegGetValue(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-reggetvaluea)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-reggetvaluea)

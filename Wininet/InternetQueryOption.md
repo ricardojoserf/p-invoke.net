@@ -10,4 +10,4 @@ public static extern bool InternetQueryOption(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-internetqueryoptiona)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-internetqueryoptiona)

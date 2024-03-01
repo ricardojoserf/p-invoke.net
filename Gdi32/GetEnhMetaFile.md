@@ -7,4 +7,4 @@ public static extern IntPtr GetEnhMetaFile(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getenhmetafilea)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getenhmetafilea)

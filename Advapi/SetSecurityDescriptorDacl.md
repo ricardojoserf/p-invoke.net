@@ -10,4 +10,4 @@ public static extern bool SetSecurityDescriptorDacl(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

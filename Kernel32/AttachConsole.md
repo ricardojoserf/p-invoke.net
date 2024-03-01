@@ -7,4 +7,4 @@ public static extern bool AttachConsole(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/attachconsole)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/attachconsole)

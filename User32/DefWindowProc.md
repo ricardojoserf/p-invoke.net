@@ -9,4 +9,4 @@ public static extern IntPtr DefWindowProcA(IntPtr hWnd,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-defwindowproca)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-defwindowproca)

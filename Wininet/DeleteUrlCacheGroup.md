@@ -9,4 +9,4 @@ public static extern bool DeleteUrlCacheGroup(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-deleteurlcachegroup)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-deleteurlcachegroup)

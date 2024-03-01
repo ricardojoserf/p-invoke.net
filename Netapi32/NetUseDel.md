@@ -9,4 +9,4 @@ public static extern uint NetUseDel(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmuse/nf-lmuse-netusedel)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmuse/nf-lmuse-netusedel)

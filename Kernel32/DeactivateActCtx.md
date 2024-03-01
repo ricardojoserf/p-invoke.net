@@ -8,4 +8,4 @@ public static extern bool DeactivateActCtx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-deactivateactctx)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-deactivateactctx)

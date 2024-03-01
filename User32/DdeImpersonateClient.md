@@ -7,4 +7,4 @@ public static extern bool DdeImpersonateClient(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

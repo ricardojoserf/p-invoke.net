@@ -7,4 +7,4 @@ public static extern IntPtr ImageList_Duplicate(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/commctrl/nf-commctrl-imagelist_duplicate)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/commctrl/nf-commctrl-imagelist_duplicate)

@@ -10,4 +10,4 @@ public static extern uint DdeQueryStringA(IntPtr idInst,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

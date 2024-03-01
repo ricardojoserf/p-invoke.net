@@ -8,4 +8,4 @@ public static extern int CreateObjrefMoniker(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objbase/nf-objbase-createobjrefmoniker)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/objbase/nf-objbase-createobjrefmoniker)

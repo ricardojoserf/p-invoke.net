@@ -8,4 +8,4 @@ public static extern IntPtr DdeAccessData(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

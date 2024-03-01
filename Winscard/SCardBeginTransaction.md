@@ -7,4 +7,4 @@ public static extern int SCardBeginTransaction(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winscard/nf-winscard-scardbegintransaction)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winscard/nf-winscard-scardbegintransaction)

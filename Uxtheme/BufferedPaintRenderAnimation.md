@@ -8,4 +8,4 @@ public static extern HRESULT BufferedPaintRenderAnimation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-bufferedpaintrenderanimation)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-bufferedpaintrenderanimation)

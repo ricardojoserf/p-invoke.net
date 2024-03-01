@@ -14,4 +14,4 @@ public static extern int SQLDataSources(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqldatasources-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqldatasources-function)

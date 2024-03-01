@@ -7,4 +7,4 @@ public static extern uint GetTimeZoneInformation(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

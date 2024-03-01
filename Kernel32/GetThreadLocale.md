@@ -7,4 +7,4 @@ public static extern uint GetThreadLocale(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getthreadlocale)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getthreadlocale)

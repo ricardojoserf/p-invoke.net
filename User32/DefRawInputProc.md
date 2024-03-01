@@ -8,4 +8,4 @@ public static extern IntPtr DefRawInputProcA(IntPtr paRawInput,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

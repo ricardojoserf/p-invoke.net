@@ -8,4 +8,4 @@ public static extern uint PowerGetActiveScheme(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

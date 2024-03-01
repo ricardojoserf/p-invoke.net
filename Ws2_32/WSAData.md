@@ -7,4 +7,4 @@ public static extern IntPtr WSAData(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

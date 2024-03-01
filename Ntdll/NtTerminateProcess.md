@@ -8,4 +8,4 @@ public static extern int NtTerminateProcess(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

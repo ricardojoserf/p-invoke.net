@@ -9,4 +9,4 @@ public static extern IntPtr DdeInitializeA(ref uint pidInst,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

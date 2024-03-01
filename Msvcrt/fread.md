@@ -10,4 +10,4 @@ public static extern size_t fread(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fread)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fread)

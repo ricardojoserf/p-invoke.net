@@ -9,4 +9,4 @@ public static extern uint WinVerifyTrust(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wintrust/nf-wintrust-winverifytrust)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wintrust/nf-wintrust-winverifytrust)

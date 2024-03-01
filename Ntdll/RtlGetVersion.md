@@ -7,4 +7,4 @@ public static extern int RtlGetVersion(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

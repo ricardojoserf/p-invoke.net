@@ -10,4 +10,4 @@ public static extern uint MprAdminUserGetInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

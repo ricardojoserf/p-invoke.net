@@ -13,4 +13,4 @@ public static extern uint NetQueryDisplayInformation(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

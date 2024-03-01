@@ -8,4 +8,4 @@ public static extern bool InitializeCriticalSectionAndSpinCount(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

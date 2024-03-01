@@ -8,4 +8,4 @@ public static extern bool ConvertStringSidToSid(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

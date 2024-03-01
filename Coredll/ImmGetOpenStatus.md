@@ -7,4 +7,4 @@ public static extern bool ImmGetOpenStatus(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/imm/nf-imm-immgetopenstatus)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/imm/nf-imm-immgetopenstatus)

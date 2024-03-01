@@ -7,4 +7,4 @@ public static extern IntPtr MB_GetString(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

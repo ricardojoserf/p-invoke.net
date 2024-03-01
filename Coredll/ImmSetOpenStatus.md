@@ -8,4 +8,4 @@ public static extern bool ImmSetOpenStatus(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/imm/nf-imm-immsetopenstatus)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/imm/nf-imm-immsetopenstatus)

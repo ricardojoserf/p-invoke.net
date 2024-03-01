@@ -12,4 +12,4 @@ public static extern uint DhcpEnumSubnets(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

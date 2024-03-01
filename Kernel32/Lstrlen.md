@@ -6,4 +6,4 @@ public static extern int lstrlen(string lpString
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

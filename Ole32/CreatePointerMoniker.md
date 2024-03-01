@@ -8,4 +8,4 @@ public static extern int CreatePointerMoniker(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objbase/nf-objbase-createpointermoniker)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/objbase/nf-objbase-createpointermoniker)

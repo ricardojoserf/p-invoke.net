@@ -8,4 +8,4 @@ public static extern int SHQueryRecycleBin(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -6,4 +6,4 @@ public static extern uint WTSGetActiveConsoleSessionId(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

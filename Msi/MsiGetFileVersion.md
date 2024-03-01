@@ -11,4 +11,4 @@ public static extern int MsiGetFileVersion(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetfileversionw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetfileversionw)

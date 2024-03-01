@@ -8,4 +8,4 @@ public static extern int PropStgNameToFmtId(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

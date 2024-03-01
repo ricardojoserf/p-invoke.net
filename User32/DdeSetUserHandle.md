@@ -9,4 +9,4 @@ public static extern IntPtr DdeSetUserHandle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

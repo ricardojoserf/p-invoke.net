@@ -9,4 +9,4 @@ public static extern bool GetExplicitEntriesFromAcl(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/aclapi/nf-aclapi-getexplicitentriesfromacla)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/aclapi/nf-aclapi-getexplicitentriesfromacla)

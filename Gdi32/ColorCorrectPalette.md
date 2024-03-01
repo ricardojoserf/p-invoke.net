@@ -11,4 +11,4 @@ public static extern bool ColorCorrectPalette(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-colorcorrectpalette)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-colorcorrectpalette)

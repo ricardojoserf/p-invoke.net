@@ -11,4 +11,4 @@ public static extern bool FlushPrinter(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

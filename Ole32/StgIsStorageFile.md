@@ -7,4 +7,4 @@ public static extern int StgIsStorageFile(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

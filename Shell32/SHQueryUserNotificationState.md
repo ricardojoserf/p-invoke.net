@@ -7,4 +7,4 @@ public static extern int SHQueryUserNotificationState(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

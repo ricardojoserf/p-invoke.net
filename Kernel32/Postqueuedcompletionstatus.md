@@ -9,4 +9,4 @@ public static extern bool PostQueuedCompletionStatus(IntPtr CompletionPort,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ioapiset/nf-ioapiset-postqueuedcompletionstatus)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ioapiset/nf-ioapiset-postqueuedcompletionstatus)

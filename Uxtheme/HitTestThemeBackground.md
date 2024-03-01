@@ -15,4 +15,4 @@ public static extern HRESULT HitTestThemeBackground(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-hittestthemebackground)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-hittestthemebackground)

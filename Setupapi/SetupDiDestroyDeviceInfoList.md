@@ -7,4 +7,4 @@ public static extern bool SetupDiDestroyDeviceInfoList(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

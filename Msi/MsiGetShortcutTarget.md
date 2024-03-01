@@ -10,4 +10,4 @@ public static extern int MsiGetShortcutTarget(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetshortcuttargetw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetshortcuttargetw)

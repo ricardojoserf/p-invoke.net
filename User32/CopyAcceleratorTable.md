@@ -9,4 +9,4 @@ public static extern int CopyAcceleratorTable(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-copyacceleratortablea)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-copyacceleratortablea)

@@ -10,4 +10,4 @@ public static extern int MsiRecordGetString(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

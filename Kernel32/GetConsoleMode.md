@@ -8,4 +8,4 @@ public static extern bool GetConsoleMode(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsolemode)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsolemode)

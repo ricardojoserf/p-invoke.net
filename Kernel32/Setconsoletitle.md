@@ -6,4 +6,4 @@ public static extern bool SetConsoleTitle(string lpConsoleTitle
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/setconsoletitle)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/setconsoletitle)

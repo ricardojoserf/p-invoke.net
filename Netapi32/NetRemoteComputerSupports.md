@@ -9,4 +9,4 @@ public static extern uint NetRemoteComputerSupports(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

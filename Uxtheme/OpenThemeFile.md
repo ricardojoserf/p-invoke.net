@@ -9,4 +9,4 @@ public static extern IntPtr OpenThemeFile(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

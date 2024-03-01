@@ -7,4 +7,4 @@ public static extern bool Set(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

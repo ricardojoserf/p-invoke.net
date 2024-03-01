@@ -6,4 +6,4 @@ public static extern bool SetTimeZoneInformation([In] ref TIME_ZONE_INFORMATION 
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-settimezoneinformation)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-settimezoneinformation)

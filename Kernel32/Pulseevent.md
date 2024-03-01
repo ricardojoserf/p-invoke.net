@@ -6,4 +6,4 @@ public static extern bool PulseEvent(IntPtr hEvent
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

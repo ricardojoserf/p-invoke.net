@@ -14,4 +14,4 @@ public static extern uint NetServerEnum(string ServerName,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmserver/nf-lmserver-netserverenum)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmserver/nf-lmserver-netserverenum)

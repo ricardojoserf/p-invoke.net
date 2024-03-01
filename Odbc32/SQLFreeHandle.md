@@ -8,4 +8,4 @@ public static extern int SQLFreeHandle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlfreehandle-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlfreehandle-function)

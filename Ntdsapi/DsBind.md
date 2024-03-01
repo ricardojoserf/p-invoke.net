@@ -9,4 +9,4 @@ public static extern int DsBind(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsbindw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsbindw)

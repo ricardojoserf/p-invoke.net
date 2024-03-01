@@ -7,4 +7,4 @@ public static extern IntPtr SOCKET_OPTION_NAME(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

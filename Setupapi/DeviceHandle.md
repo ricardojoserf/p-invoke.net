@@ -10,4 +10,4 @@ public static extern IntPtr DeviceHandle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

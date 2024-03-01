@@ -6,4 +6,4 @@ public static extern bool ReleaseActCtx(IntPtr hActCtx
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-releaseactctx)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-releaseactctx)

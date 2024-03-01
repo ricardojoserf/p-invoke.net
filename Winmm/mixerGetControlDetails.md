@@ -9,4 +9,4 @@ public static extern uint mixerGetControlDetails(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

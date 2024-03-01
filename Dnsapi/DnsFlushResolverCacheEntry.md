@@ -7,4 +7,4 @@ public static extern bool DnsFlushResolverCacheEntry(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

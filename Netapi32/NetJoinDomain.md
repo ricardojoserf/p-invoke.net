@@ -12,4 +12,4 @@ public static extern uint NetJoinDomain(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

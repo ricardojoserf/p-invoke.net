@@ -11,4 +11,4 @@ public static extern bool CryptGetMsgParam(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

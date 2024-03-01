@@ -8,4 +8,4 @@ public static extern int MsiSetInternalUI(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msisetinternalui)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msisetinternalui)

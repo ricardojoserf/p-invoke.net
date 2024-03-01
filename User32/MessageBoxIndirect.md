@@ -7,4 +7,4 @@ public static extern int MessageBoxIndirect(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxindirectw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxindirectw)

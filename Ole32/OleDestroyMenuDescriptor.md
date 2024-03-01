@@ -7,4 +7,4 @@ public static extern int OleDestroyMenuDescriptor(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

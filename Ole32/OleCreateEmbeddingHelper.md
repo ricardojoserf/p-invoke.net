@@ -11,4 +11,4 @@ public static extern int OleCreateEmbeddingHelper(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-olecreateembeddinghelper)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-olecreateembeddinghelper)

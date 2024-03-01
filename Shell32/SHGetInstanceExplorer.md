@@ -7,4 +7,4 @@ public static extern int SHGetInstanceExplorer(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shgetinstanceexplorer)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shgetinstanceexplorer)

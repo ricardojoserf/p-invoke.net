@@ -7,4 +7,4 @@ public static extern bool EndDocPrinter(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -9,4 +9,4 @@ public static extern bool HeapFree(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/heapapi/nf-heapapi-heapfree)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/heapapi/nf-heapapi-heapfree)

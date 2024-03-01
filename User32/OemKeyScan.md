@@ -7,4 +7,4 @@ public static extern uint OemKeyScan(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

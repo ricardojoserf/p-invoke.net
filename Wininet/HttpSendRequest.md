@@ -11,4 +11,4 @@ public static extern bool HttpSendRequest(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-httpsendrequesta)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-httpsendrequesta)

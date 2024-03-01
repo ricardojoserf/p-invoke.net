@@ -7,4 +7,4 @@ public static extern IntPtr PathAddBackslash(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-pathaddbackslashw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-pathaddbackslashw)

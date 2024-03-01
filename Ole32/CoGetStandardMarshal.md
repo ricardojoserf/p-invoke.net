@@ -12,4 +12,4 @@ public static extern int CoGetStandardMarshal(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-cogetstandardmarshal)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-cogetstandardmarshal)

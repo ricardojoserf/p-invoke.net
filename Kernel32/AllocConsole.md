@@ -7,4 +7,4 @@ public static extern bool AllocConsole(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/allocconsole)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/allocconsole)

@@ -7,4 +7,4 @@ public static extern SafeTimerQueueHandle CreateTimerQueue(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

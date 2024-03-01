@@ -14,4 +14,4 @@ public static extern int StgCreateStorageEx(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern bool HeapWalk(IntPtr hHeap,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/heapapi/nf-heapapi-heapwalk)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/heapapi/nf-heapapi-heapwalk)

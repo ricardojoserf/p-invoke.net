@@ -9,4 +9,4 @@ public static extern uint mixerGetDevCaps(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

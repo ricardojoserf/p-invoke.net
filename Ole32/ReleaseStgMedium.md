@@ -7,4 +7,4 @@ public static extern void ReleaseStgMedium(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

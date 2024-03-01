@@ -7,4 +7,4 @@ public static extern void OleUninitialize(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-oleuninitialize)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-oleuninitialize)

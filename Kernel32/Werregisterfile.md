@@ -10,4 +10,4 @@ public static extern HRESULT WerRegisterFile(string pwzFile,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

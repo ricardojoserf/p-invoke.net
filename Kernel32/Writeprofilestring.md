@@ -8,4 +8,4 @@ public static extern bool WriteProfileString(string lpAppName,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-writeprofilestringw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-writeprofilestringw)

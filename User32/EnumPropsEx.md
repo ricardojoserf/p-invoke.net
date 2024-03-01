@@ -8,4 +8,4 @@ public static extern int EnumPropsExA(IntPtr hWnd,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumpropsexa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumpropsexa)

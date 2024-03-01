@@ -9,4 +9,4 @@ public static extern bool DnsHostnameToComputerName(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

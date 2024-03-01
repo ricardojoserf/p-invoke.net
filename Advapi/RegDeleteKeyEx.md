@@ -10,4 +10,4 @@ public static extern uint RegDeleteKeyEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-regdeletekeyexa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-regdeletekeyexa)

@@ -10,4 +10,4 @@ public static extern bool WriteConsoleOutput(IntPtr hConsoleOutput,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/writeconsoleoutput)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/writeconsoleoutput)

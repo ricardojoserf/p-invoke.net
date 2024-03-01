@@ -7,4 +7,4 @@ public static extern IntPtr SOCKET_TYPE(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -9,4 +9,4 @@ public static extern int CoUnmarshalInterface(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-counmarshalinterface)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-counmarshalinterface)

@@ -9,4 +9,4 @@ public static extern uint DdeQueryConvInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

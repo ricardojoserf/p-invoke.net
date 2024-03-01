@@ -8,4 +8,4 @@ public static extern bool SetupComm(IntPtr hFile,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setupcomm)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setupcomm)

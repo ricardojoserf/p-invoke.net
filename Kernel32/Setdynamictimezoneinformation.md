@@ -6,4 +6,4 @@ public static extern bool SetDynamicTimeZoneInformation([In] ref DYNAMIC_TIME_ZO
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-setdynamictimezoneinformation)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-setdynamictimezoneinformation)

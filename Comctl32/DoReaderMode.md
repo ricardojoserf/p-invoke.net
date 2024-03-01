@@ -8,4 +8,4 @@ public static extern bool DoReaderMode(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

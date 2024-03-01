@@ -7,4 +7,4 @@ public static extern uint UnregisterTraceGuids(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/evntrace/nf-evntrace-unregistertraceguids)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/evntrace/nf-evntrace-unregistertraceguids)

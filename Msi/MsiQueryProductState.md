@@ -7,4 +7,4 @@ public static extern int MsiQueryProductState(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

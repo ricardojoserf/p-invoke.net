@@ -16,4 +16,4 @@ public static extern bool AccessCheckAndAuditAlarm(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

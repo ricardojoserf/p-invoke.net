@@ -9,4 +9,4 @@ public static extern uint NetGetDCName(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

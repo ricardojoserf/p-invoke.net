@@ -11,4 +11,4 @@ public static extern bool SetMenuItemBitmaps(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

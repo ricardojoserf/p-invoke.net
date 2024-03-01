@@ -10,4 +10,4 @@ public static extern int MsiFormatRecord(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

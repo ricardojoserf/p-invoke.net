@@ -7,4 +7,4 @@ public static extern int CreateAntiMoniker(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objbase/nf-objbase-createantimoniker)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/objbase/nf-objbase-createantimoniker)

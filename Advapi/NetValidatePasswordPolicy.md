@@ -12,4 +12,4 @@ public static extern uint NetValidatePasswordPolicy(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

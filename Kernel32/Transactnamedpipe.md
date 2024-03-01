@@ -12,4 +12,4 @@ public static extern bool TransactNamedPipe(IntPtr hNamedPipe,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/namedpipeapi/nf-namedpipeapi-transactnamedpipe)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/namedpipeapi/nf-namedpipeapi-transactnamedpipe)

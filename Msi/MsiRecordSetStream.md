@@ -9,4 +9,4 @@ public static extern int MsiRecordSetStream(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

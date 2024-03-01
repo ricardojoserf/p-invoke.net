@@ -11,4 +11,4 @@ public static extern CREDUI_RETURN CredPackAuthenticationBuffer(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

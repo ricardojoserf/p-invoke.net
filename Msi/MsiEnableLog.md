@@ -9,4 +9,4 @@ public static extern int MsiEnableLog(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msienablelogw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msienablelogw)

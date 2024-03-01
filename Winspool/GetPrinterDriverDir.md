@@ -12,4 +12,4 @@ public static extern bool GetPrinterDriverDir(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

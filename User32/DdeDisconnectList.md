@@ -7,4 +7,4 @@ public static extern bool DdeDisconnectList(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

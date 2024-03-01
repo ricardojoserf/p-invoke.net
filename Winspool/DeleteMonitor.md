@@ -9,4 +9,4 @@ public static extern bool DeleteMonitor(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

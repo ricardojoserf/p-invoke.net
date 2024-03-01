@@ -12,4 +12,4 @@ public static extern uint waveOutOpen(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

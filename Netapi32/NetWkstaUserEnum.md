@@ -13,4 +13,4 @@ public static extern uint NetWkstaUserEnum(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmwksta/nf-lmwksta-netwkstauserenum)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmwksta/nf-lmwksta-netwkstauserenum)

@@ -6,4 +6,4 @@ public static extern bool SetEvent(IntPtr hEvent
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-setevent)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-setevent)

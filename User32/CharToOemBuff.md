@@ -9,4 +9,4 @@ public static extern bool CharToOemBuff(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-chartooembuffw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-chartooembuffw)

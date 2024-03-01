@@ -10,4 +10,4 @@ public static extern int OleCreateRemoteClass(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

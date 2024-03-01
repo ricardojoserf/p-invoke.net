@@ -10,4 +10,4 @@ public static extern bool CryptWriteSerializedData(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

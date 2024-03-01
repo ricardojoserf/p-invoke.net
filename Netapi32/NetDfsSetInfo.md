@@ -11,4 +11,4 @@ public static extern uint NetDfsSetInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmdfs/nf-lmdfs-netdfssetinfo)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmdfs/nf-lmdfs-netdfssetinfo)

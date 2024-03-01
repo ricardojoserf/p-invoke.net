@@ -7,4 +7,4 @@ public static extern int GetWindowTextLength(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

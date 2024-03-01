@@ -8,4 +8,4 @@ public static extern bool SetActivePwrScheme(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-setactivepwrscheme)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-setactivepwrscheme)

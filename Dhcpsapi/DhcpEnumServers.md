@@ -10,4 +10,4 @@ public static extern uint DhcpEnumServers(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

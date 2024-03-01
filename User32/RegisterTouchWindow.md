@@ -8,4 +8,4 @@ public static extern bool RegisterTouchWindow(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registertouchwindow)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registertouchwindow)

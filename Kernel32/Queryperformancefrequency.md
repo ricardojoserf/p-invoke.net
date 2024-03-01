@@ -6,4 +6,4 @@ public static extern bool QueryPerformanceFrequency(out long lpFrequency
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/profileapi/nf-profileapi-queryperformancefrequency)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/profileapi/nf-profileapi-queryperformancefrequency)

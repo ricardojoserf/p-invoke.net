@@ -10,4 +10,4 @@ public static extern int VarBstrFromDisp(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-varbstrfromdisp)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-varbstrfromdisp)

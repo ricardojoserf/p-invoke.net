@@ -14,4 +14,4 @@ public static extern uint LCMapStringEx(string lpLocaleName,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-lcmapstringex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-lcmapstringex)

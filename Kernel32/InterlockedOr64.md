@@ -8,4 +8,4 @@ public static extern ulong InterlockedOr64(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-interlockedor64)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-interlockedor64)

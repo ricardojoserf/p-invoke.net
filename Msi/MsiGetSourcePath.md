@@ -10,4 +10,4 @@ public static extern int MsiGetSourcePath(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

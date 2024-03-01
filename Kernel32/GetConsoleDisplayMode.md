@@ -7,4 +7,4 @@ public static extern bool GetConsoleDisplayMode(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsoledisplaymode)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsoledisplaymode)

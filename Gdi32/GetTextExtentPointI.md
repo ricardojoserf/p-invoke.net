@@ -10,4 +10,4 @@ public static extern bool GetTextExtentPointI(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

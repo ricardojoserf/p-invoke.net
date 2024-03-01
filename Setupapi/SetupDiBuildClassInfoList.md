@@ -10,4 +10,4 @@ public static extern bool SetupDiBuildClassInfoList(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

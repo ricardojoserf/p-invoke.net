@@ -10,4 +10,4 @@ public static extern int MsiGetTargetPath(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

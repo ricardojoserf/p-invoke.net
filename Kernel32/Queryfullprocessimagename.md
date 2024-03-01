@@ -9,4 +9,4 @@ public static extern bool QueryFullProcessImageName(IntPtr hProcess,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

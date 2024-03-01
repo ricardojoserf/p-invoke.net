@@ -9,4 +9,4 @@ public static extern uint RegConnectRegistry(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-regconnectregistryw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-regconnectregistryw)

@@ -8,4 +8,4 @@ public static extern bool TranslateMDISysAccel(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-translatemdisysaccel)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-translatemdisysaccel)

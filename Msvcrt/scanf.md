@@ -8,4 +8,4 @@ public static extern int scanf(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -9,4 +9,4 @@ public static extern uint waveOutGetErrorText(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

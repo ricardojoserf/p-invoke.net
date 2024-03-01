@@ -7,4 +7,4 @@ public static extern bool EnumTimeFormatsA(TimeFmtEnumProc lpTimeFmtEnumProc,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-enumtimeformatsa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-enumtimeformatsa)

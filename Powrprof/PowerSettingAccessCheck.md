@@ -7,4 +7,4 @@ public static extern uint PowerSettingAccessCheck(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-powersettingaccesscheck)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-powersettingaccesscheck)

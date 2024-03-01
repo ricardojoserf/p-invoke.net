@@ -11,4 +11,4 @@ public static extern uint PowerWriteFriendlyName(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-powerwritefriendlyname)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-powerwritefriendlyname)

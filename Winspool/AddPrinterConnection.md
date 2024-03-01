@@ -7,4 +7,4 @@ public static extern bool AddPrinterConnection(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

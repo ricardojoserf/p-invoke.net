@@ -15,4 +15,4 @@ public static extern bool DrawArc(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -11,4 +11,4 @@ public static extern bool FillConsoleOutputCharacter(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

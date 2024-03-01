@@ -10,4 +10,4 @@ public static extern int DsMapSchemaGuids(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsmapschemaguidsw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsmapschemaguidsw)

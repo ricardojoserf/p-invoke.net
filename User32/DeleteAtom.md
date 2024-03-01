@@ -7,4 +7,4 @@ public static extern IntPtr DeleteAtom(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

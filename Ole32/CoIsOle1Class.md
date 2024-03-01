@@ -7,4 +7,4 @@ public static extern int CoIsOle1Class(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

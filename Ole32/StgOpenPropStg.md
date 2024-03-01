@@ -11,4 +11,4 @@ public static extern int StgOpenPropStg(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

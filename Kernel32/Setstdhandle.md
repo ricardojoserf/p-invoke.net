@@ -7,4 +7,4 @@ public static extern bool SetStdHandle(uint nStdHandle,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/setstdhandle)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/setstdhandle)

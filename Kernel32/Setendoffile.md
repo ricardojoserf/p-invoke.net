@@ -6,4 +6,4 @@ public static extern bool SetEndOfFile(IntPtr hFile
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -8,4 +8,4 @@ public static extern bool FtpRemoveDirectory(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-ftpremovedirectorya)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-ftpremovedirectorya)

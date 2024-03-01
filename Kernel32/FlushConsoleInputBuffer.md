@@ -7,4 +7,4 @@ public static extern bool FlushConsoleInputBuffer(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

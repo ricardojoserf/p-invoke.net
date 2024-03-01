@@ -9,4 +9,4 @@ public static extern IntPtr freopen(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

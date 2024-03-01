@@ -9,4 +9,4 @@ public static extern uint midiOutGetDevCaps(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

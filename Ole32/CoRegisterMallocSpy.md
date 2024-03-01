@@ -7,4 +7,4 @@ public static extern void CoRegisterMallocSpy(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

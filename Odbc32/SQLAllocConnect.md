@@ -8,4 +8,4 @@ public static extern int SQLAllocConnect(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlallocconnect-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlallocconnect-function)

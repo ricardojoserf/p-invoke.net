@@ -7,4 +7,4 @@ public static extern IntPtr GetModuleHandle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern int CoRevokeClassObject(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-corevokeclassobject)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-corevokeclassobject)

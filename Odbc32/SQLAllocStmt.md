@@ -8,4 +8,4 @@ public static extern int SQLAllocStmt(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlallocstmt-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlallocstmt-function)

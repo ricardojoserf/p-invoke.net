@@ -7,4 +7,4 @@ public static extern bool GetSystemPowerStatusEx(ref SYSTEM_POWER_STATUS_EX lpSy
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

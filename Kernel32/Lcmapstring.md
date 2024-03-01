@@ -11,4 +11,4 @@ public static extern uint LCMapString(uint Locale,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-lcmapstringw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-lcmapstringw)

@@ -9,4 +9,4 @@ public static extern int GetWindowText(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

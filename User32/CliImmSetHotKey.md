@@ -8,4 +8,4 @@ public static extern void CliImmSetHotKey(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

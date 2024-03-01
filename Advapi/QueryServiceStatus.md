@@ -8,4 +8,4 @@ public static extern bool QueryServiceStatus(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-queryservicestatus)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-queryservicestatus)

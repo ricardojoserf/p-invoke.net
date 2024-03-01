@@ -7,4 +7,4 @@ public static extern bool HeapDestroy(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/heapapi/nf-heapapi-heapdestroy)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/heapapi/nf-heapapi-heapdestroy)

@@ -8,4 +8,4 @@ public static extern uint HttpTerminate(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/http/nf-http-httpterminate)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/http/nf-http-httpterminate)

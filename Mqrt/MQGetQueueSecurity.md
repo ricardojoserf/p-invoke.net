@@ -11,4 +11,4 @@ public static extern uint MQGetQueueSecurity(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

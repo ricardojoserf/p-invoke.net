@@ -11,4 +11,4 @@ public static extern IntPtr DdeConnectList(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

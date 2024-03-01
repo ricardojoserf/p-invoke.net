@@ -7,4 +7,4 @@ public static extern bool GetCPInfo(uint CodePage,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getcpinfo)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getcpinfo)

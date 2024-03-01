@@ -9,4 +9,4 @@ public static extern uint waveOutPrepareHeader(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

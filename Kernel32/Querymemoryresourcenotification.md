@@ -7,4 +7,4 @@ public static extern bool QueryMemoryResourceNotification(IntPtr ResourceNotific
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

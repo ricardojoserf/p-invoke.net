@@ -10,4 +10,4 @@ public static extern IntPtr CreateDC(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern int RevokeDragDrop(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-revokedragdrop)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-revokedragdrop)

@@ -7,4 +7,4 @@ public static extern bool CeClearUserNotification(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

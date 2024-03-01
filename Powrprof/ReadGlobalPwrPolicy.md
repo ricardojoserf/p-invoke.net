@@ -7,4 +7,4 @@ public static extern bool ReadGlobalPwrPolicy(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-readglobalpwrpolicy)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-readglobalpwrpolicy)

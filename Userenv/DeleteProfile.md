@@ -9,4 +9,4 @@ public static extern bool DeleteProfile(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-deleteprofilew)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-deleteprofilew)

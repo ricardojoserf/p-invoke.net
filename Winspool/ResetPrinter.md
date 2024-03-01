@@ -8,4 +8,4 @@ public static extern bool ResetPrinter(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

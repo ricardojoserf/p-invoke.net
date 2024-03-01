@@ -9,4 +9,4 @@ public static extern uint RealGetWindowClass(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

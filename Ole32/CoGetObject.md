@@ -10,4 +10,4 @@ public static extern int CoGetObject(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

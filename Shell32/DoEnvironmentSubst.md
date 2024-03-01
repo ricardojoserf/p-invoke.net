@@ -8,4 +8,4 @@ public static extern uint DoEnvironmentSubst(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

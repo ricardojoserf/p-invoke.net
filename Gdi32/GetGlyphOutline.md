@@ -13,4 +13,4 @@ public static extern uint GetGlyphOutline(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

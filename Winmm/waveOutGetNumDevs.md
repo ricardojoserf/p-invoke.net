@@ -7,4 +7,4 @@ public static extern uint waveOutGetNumDevs(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

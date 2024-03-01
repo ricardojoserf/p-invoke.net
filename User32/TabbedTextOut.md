@@ -14,4 +14,4 @@ public static extern int TabbedTextOut(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-tabbedtextoutw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-tabbedtextoutw)

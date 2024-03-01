@@ -11,4 +11,4 @@ public static extern IntPtr CreateConsoleScreenBuffer(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/createconsolescreenbuffer)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/createconsolescreenbuffer)

@@ -7,4 +7,4 @@ public static extern bool FindCloseChangeNotification(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findclosechangenotification)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findclosechangenotification)

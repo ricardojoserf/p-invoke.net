@@ -7,4 +7,4 @@ public static extern void GwesPowerOffSystem(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

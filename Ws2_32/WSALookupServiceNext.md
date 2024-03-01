@@ -10,4 +10,4 @@ public static extern int WSALookupServiceNext(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

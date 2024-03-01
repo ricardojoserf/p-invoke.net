@@ -10,4 +10,4 @@ public static extern int MsiEnumRelatedProducts(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msienumrelatedproductsw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msienumrelatedproductsw)

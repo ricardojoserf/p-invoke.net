@@ -11,4 +11,4 @@ public static extern uint midiOutOpen(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

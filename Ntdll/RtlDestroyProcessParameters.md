@@ -7,4 +7,4 @@ public static extern void RtlDestroyProcessParameters(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

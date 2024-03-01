@@ -8,4 +8,4 @@ public static extern uint timeGetDevCaps(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -10,4 +10,4 @@ public static extern IntPtr CreateScalableFontResource(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createscalablefontresourcea)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createscalablefontresourcea)

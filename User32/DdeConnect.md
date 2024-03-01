@@ -10,4 +10,4 @@ public static extern IntPtr DdeConnect(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern int fclose(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fclose-fcloseall)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fclose-fcloseall)

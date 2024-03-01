@@ -10,4 +10,4 @@ public static extern uint RegGetKeySecurity(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-reggetkeysecurity)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-reggetkeysecurity)

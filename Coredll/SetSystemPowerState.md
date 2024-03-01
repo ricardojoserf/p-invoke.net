@@ -9,4 +9,4 @@ public static extern bool SetSystemPowerState(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

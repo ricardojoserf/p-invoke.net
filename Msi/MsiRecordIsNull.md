@@ -8,4 +8,4 @@ public static extern bool MsiRecordIsNull(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

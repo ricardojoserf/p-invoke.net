@@ -11,4 +11,4 @@ public static extern uint GetTabbedTextExtent(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

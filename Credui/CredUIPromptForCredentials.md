@@ -16,4 +16,4 @@ public static extern CREDUI_RETURN CredUIPromptForCredentials(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

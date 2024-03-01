@@ -8,4 +8,4 @@ public static extern uint ExpandEnvironmentStringsA(string lpSrc,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

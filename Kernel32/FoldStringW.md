@@ -11,4 +11,4 @@ public static extern uint FoldStringW(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-foldstringw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-foldstringw)

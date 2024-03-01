@@ -9,4 +9,4 @@ public static extern bool SetDevicePower(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

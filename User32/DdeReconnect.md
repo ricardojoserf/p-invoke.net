@@ -7,4 +7,4 @@ public static extern IntPtr DdeReconnect(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

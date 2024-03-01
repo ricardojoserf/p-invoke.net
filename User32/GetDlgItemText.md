@@ -10,4 +10,4 @@ public static extern int GetDlgItemText(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -8,4 +8,4 @@ public static extern uint GetConsoleTitle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsoletitle)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsoletitle)

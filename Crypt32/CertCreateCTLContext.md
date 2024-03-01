@@ -9,4 +9,4 @@ public static extern IntPtr CertCreateCTLContext(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-certcreatectlcontext)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-certcreatectlcontext)

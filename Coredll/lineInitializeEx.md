@@ -12,4 +12,4 @@ public static extern int lineInitializeEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/tapi/nf-tapi-lineinitializeexw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/tapi/nf-tapi-lineinitializeexw)

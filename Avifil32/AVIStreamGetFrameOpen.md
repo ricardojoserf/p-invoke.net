@@ -8,4 +8,4 @@ public static extern uint AVIStreamGetFrameOpen(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-avistreamgetframeopen)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-avistreamgetframeopen)

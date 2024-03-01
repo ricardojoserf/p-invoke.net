@@ -11,4 +11,4 @@ public static extern void UnRegisterTypeLib(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-unregistertypelib)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-unregistertypelib)

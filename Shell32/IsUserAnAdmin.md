@@ -7,4 +7,4 @@ public static extern bool IsUserAnAdmin(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

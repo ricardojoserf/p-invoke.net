@@ -9,4 +9,4 @@ public static extern bool CryptUpdateProtectedState(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptupdateprotectedstate)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptupdateprotectedstate)

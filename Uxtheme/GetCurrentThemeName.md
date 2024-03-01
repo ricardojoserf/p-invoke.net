@@ -12,4 +12,4 @@ public static extern HRESULT GetCurrentThemeName(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-getcurrentthemename)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-getcurrentthemename)

@@ -7,4 +7,4 @@ public static extern uint AVIFileRelease(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-avifilerelease)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-avifilerelease)

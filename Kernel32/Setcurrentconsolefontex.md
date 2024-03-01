@@ -8,4 +8,4 @@ public static extern bool SetCurrentConsoleFontEx(IntPtr hConsoleOutput,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/setcurrentconsolefontex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/setcurrentconsolefontex)

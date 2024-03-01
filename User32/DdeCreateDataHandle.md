@@ -13,4 +13,4 @@ public static extern IntPtr DdeCreateDataHandle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

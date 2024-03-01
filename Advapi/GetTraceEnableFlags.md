@@ -7,4 +7,4 @@ public static extern uint GetTraceEnableFlags(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/evntrace/nf-evntrace-gettraceenableflags)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/evntrace/nf-evntrace-gettraceenableflags)

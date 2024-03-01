@@ -10,4 +10,4 @@ public static extern int RtlSetProcessIsCritical(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

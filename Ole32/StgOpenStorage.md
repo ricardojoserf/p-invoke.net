@@ -12,4 +12,4 @@ public static extern int StgOpenStorage(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

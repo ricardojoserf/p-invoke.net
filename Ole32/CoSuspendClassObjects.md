@@ -7,4 +7,4 @@ public static extern int CoSuspendClassObjects(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-cosuspendclassobjects)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-cosuspendclassobjects)

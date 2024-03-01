@@ -7,4 +7,4 @@ public static extern bool SetConsoleCtrlHandler(ConsoleCtrlHandlerRoutine Handle
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/setconsolectrlhandler)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/setconsolectrlhandler)

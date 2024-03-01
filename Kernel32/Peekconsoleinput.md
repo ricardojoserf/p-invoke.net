@@ -9,4 +9,4 @@ public static extern bool PeekConsoleInput(IntPtr hConsoleInput,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/peekconsoleinput)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/peekconsoleinput)

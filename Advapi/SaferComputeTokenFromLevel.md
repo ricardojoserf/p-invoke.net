@@ -11,4 +11,4 @@ public static extern bool SaferComputeTokenFromLevel(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsafer/nf-winsafer-safercomputetokenfromlevel)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winsafer/nf-winsafer-safercomputetokenfromlevel)

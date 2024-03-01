@@ -8,4 +8,4 @@ public static extern int SHGetIconOverlayIndex(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

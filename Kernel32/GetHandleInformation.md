@@ -8,4 +8,4 @@ public static extern bool GetHandleInformation(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

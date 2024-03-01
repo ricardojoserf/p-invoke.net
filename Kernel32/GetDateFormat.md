@@ -12,4 +12,4 @@ public static extern uint GetDateFormat(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

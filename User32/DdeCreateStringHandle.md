@@ -9,4 +9,4 @@ public static extern IntPtr DdeCreateStringHandle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

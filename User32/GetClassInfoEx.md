@@ -8,4 +8,4 @@ public static extern bool GetClassInfoExA(IntPtr hinst,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getclassinfoexa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getclassinfoexa)

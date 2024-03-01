@@ -7,4 +7,4 @@ public static extern bool SaferCloseLevel(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsafer/nf-winsafer-safercloselevel)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winsafer/nf-winsafer-safercloselevel)

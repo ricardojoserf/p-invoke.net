@@ -14,4 +14,4 @@ public static extern uint HttpQueryServiceConfiguration(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/http/nf-http-httpqueryserviceconfiguration)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/http/nf-http-httpqueryserviceconfiguration)

@@ -8,4 +8,4 @@ public static extern void CoFreeUnusedLibrariesEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-cofreeunusedlibrariesex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-cofreeunusedlibrariesex)

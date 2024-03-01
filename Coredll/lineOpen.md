@@ -15,4 +15,4 @@ public static extern int lineOpen(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/tapi/nf-tapi-lineopenw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/tapi/nf-tapi-lineopenw)

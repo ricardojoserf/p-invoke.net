@@ -8,4 +8,4 @@ public static extern bool CheckAppInitBlockedServiceIdentity(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

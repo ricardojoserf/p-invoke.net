@@ -8,4 +8,4 @@ public static extern uint GetRasterizerCaps(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getrasterizercaps)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getrasterizercaps)

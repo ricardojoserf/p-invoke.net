@@ -11,4 +11,4 @@ public static extern bool GetPrinter(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

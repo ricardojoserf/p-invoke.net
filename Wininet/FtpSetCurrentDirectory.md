@@ -8,4 +8,4 @@ public static extern bool FtpSetCurrentDirectory(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-ftpsetcurrentdirectorya)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-ftpsetcurrentdirectorya)

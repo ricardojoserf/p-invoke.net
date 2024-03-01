@@ -16,4 +16,4 @@ public static extern int RtlCreateUserThread(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

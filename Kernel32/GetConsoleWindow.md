@@ -7,4 +7,4 @@ public static extern uint GetConsoleWindow(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsolewindow)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsolewindow)

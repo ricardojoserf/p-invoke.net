@@ -7,4 +7,4 @@ public static extern int EnumPropsA(IntPtr hWnd,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumpropsa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumpropsa)

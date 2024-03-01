@@ -11,4 +11,4 @@ public static extern bool FindResourceEx(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

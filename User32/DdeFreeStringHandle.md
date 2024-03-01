@@ -8,4 +8,4 @@ public static extern bool DdeFreeStringHandle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

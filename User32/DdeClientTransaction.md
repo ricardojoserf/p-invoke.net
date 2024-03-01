@@ -14,4 +14,4 @@ public static extern IntPtr DdeClientTransaction(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -16,4 +16,4 @@ public static extern bool AlphaBlend(IntPtr hdcDest,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-alphablend)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-alphablend)

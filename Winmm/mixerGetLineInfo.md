@@ -9,4 +9,4 @@ public static extern uint mixerGetLineInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

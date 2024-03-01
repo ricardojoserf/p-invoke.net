@@ -17,4 +17,4 @@ public static extern bool CryptVerifyTimeStampSignatureWithTimeStampArrayEx(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

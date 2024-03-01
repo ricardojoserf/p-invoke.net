@@ -10,4 +10,4 @@ public static extern IntPtr DdeGetData(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern void DsFreeSchemaGuidMap(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

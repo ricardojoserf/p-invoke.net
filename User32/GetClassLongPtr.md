@@ -7,4 +7,4 @@ public static extern IntPtr GetClassLongPtrA(IntPtr hWnd,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getclasslongptra)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getclasslongptra)

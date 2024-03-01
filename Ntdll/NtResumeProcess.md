@@ -7,4 +7,4 @@ public static extern int NtResumeProcess(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

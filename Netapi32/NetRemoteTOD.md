@@ -8,4 +8,4 @@ public static extern uint NetRemoteTOD(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

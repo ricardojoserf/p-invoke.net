@@ -6,4 +6,4 @@ public static extern bool SetConsoleActiveScreenBuffer(IntPtr hConsoleOutput
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -11,4 +11,4 @@ public static extern int CallNtPowerInformation(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

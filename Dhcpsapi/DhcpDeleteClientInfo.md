@@ -9,4 +9,4 @@ public static extern uint DhcpDeleteClientInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -9,4 +9,4 @@ public static extern bool ImpersonateDdeClientWindow(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

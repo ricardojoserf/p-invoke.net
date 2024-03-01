@@ -8,4 +8,4 @@ public static extern bool ImmReleaseContext(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/imm/nf-imm-immreleasecontext)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/imm/nf-imm-immreleasecontext)

@@ -11,4 +11,4 @@ public static extern IntPtr FtpFindFirstFile(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-ftpfindfirstfilea)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-ftpfindfirstfilea)

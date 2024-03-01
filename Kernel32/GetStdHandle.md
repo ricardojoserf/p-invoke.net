@@ -7,4 +7,4 @@ public static extern uint GetStdHandle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getstdhandle)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getstdhandle)

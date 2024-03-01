@@ -9,4 +9,4 @@ public static extern int sprintf(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

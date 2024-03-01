@@ -8,4 +8,4 @@ public static extern uint GetCurrentApplicationUserModelId(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -12,4 +12,4 @@ public static extern int DocumentProperties(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

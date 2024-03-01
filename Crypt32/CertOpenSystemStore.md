@@ -8,4 +8,4 @@ public static extern IntPtr CertOpenSystemStore(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

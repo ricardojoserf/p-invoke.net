@@ -7,4 +7,4 @@ public static extern bool PFXIsPFXBlob(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-pfxispfxblob)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-pfxispfxblob)

@@ -13,4 +13,4 @@ public static extern SafeFileHandle CreateFile(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

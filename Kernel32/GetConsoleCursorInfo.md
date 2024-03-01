@@ -8,4 +8,4 @@ public static extern bool GetConsoleCursorInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsolecursorinfo)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsolecursorinfo)

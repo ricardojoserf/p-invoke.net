@@ -11,4 +11,4 @@ public static extern bool InitiateShutdown(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

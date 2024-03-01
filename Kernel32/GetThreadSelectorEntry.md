@@ -9,4 +9,4 @@ public static extern bool GetThreadSelectorEntry(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

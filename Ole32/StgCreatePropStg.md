@@ -12,4 +12,4 @@ public static extern int StgCreatePropStg(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

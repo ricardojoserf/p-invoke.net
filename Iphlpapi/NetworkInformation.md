@@ -7,4 +7,4 @@ public static extern int NetworkInformation(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

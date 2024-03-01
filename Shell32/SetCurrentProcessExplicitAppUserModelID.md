@@ -7,4 +7,4 @@ public static extern int SetCurrentProcessExplicitAppUserModelID(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

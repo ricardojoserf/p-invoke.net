@@ -8,4 +8,4 @@ public static extern bool GetPerformanceInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-getperformanceinfo)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-getperformanceinfo)

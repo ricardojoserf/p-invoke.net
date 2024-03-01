@@ -7,4 +7,4 @@ public static extern IntPtr inet_ntoa(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-inet_ntoa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-inet_ntoa)

@@ -7,4 +7,4 @@ public static extern int newfunction(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

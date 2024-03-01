@@ -16,4 +16,4 @@ public static extern uint RegisterTraceGuids(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -9,4 +9,4 @@ public static extern bool GetCurrentConsoleFontEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getcurrentconsolefontex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getcurrentconsolefontex)

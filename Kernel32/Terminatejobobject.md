@@ -7,4 +7,4 @@ public static extern bool TerminateJobObject(IntPtr hJob,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

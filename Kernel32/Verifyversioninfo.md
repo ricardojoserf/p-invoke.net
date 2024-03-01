@@ -8,4 +8,4 @@ public static extern bool VerifyVersionInfo([In] ref OSVERSIONINFOEX lpVersionIn
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-verifyversioninfow)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-verifyversioninfow)

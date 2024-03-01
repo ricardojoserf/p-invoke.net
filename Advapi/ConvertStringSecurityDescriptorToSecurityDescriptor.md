@@ -10,4 +10,4 @@ public static extern bool ConvertStringSecurityDescriptorToSecurityDescriptor(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

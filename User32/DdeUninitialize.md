@@ -7,4 +7,4 @@ public static extern bool DdeUninitialize(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

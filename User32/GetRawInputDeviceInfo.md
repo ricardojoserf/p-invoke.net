@@ -10,4 +10,4 @@ public static extern uint GetRawInputDeviceInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

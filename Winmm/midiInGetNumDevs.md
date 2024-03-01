@@ -7,4 +7,4 @@ public static extern uint midiInGetNumDevs(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

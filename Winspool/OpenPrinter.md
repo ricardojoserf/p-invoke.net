@@ -9,4 +9,4 @@ public static extern bool OpenPrinter(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

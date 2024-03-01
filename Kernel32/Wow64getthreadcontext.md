@@ -7,4 +7,4 @@ public static extern bool Wow64GetThreadContext(IntPtr hThread,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wow64apiset/nf-wow64apiset-wow64getthreadcontext)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wow64apiset/nf-wow64apiset-wow64getthreadcontext)

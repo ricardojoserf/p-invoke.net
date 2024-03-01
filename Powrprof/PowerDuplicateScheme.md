@@ -8,4 +8,4 @@ public static extern bool PowerDuplicateScheme(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-powerduplicatescheme)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-powerduplicatescheme)

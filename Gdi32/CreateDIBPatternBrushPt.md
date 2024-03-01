@@ -8,4 +8,4 @@ public static extern IntPtr CreateDIBPatternBrushPt(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createdibpatternbrushpt)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createdibpatternbrushpt)

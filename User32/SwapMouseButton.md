@@ -7,4 +7,4 @@ public static extern bool SwapMouseButton(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-swapmousebutton)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-swapmousebutton)

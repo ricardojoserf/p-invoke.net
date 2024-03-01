@@ -10,4 +10,4 @@ public static extern int MapWindowPoints(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mapwindowpoints)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mapwindowpoints)

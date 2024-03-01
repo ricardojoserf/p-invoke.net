@@ -10,4 +10,4 @@ public static extern SafeFileHandle CreateIoCompletionPort(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ioapiset/nf-ioapiset-createiocompletionport)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ioapiset/nf-ioapiset-createiocompletionport)

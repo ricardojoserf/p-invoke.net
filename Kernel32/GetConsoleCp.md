@@ -6,4 +6,4 @@ public static extern ushort GetConsoleCP(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsolecp)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsolecp)

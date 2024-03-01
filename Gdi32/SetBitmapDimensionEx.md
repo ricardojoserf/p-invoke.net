@@ -10,4 +10,4 @@ public static extern bool SetBitmapDimensionEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-setbitmapdimensionex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-setbitmapdimensionex)

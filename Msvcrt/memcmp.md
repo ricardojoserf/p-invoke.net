@@ -9,4 +9,4 @@ public static extern int memcmp(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

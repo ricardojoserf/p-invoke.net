@@ -8,4 +8,4 @@ public static extern HRESULT EndBufferedAnimation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-endbufferedanimation)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/uxtheme/nf-uxtheme-endbufferedanimation)

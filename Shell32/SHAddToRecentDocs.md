@@ -8,4 +8,4 @@ public static extern void SHAddToRecentDocs(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

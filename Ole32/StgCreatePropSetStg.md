@@ -9,4 +9,4 @@ public static extern int StgCreatePropSetStg(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -8,4 +8,4 @@ public static extern int SHIsFileAvailableOffline(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

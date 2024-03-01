@@ -15,4 +15,4 @@ public static extern int CompareStringEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-comparestringex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-comparestringex)

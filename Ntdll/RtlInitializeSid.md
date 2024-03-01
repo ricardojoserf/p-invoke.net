@@ -9,4 +9,4 @@ public static extern int RtlInitializeSid(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

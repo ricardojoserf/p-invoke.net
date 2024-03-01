@@ -10,4 +10,4 @@ public static extern bool ReadConsoleOutput(IntPtr hConsoleOutput,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/readconsoleoutput)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/readconsoleoutput)

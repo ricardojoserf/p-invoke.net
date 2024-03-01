@@ -13,4 +13,4 @@ public static extern bool CryptStringToBinary(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

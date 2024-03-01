@@ -7,4 +7,4 @@ public static extern void FatalAppExitA(uint uAction,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

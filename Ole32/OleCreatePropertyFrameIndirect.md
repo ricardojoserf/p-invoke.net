@@ -7,4 +7,4 @@ public static extern int OleCreatePropertyFrameIndirect(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

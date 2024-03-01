@@ -6,4 +6,4 @@ public static extern bool RemoveDirectory(string lpPathName
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-removedirectoryw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-removedirectoryw)

@@ -9,4 +9,4 @@ public static extern uint ExpandEnvironmentStrings(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

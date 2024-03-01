@@ -16,4 +16,4 @@ public static extern int NtMapViewOfSection(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

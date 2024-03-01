@@ -9,4 +9,4 @@ public static extern bool CheckDlgButton(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-checkdlgbutton)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-checkdlgbutton)

@@ -11,4 +11,4 @@ public static extern uint timeSetEvent(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

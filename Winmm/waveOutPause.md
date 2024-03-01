@@ -7,4 +7,4 @@ public static extern uint waveOutPause(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

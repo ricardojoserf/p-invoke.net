@@ -10,4 +10,4 @@ public static extern int MsiGetProperty(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

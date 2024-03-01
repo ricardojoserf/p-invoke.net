@@ -10,4 +10,4 @@ public static extern int IsAccelerator(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

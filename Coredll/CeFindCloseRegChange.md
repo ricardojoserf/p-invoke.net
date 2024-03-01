@@ -7,4 +7,4 @@ public static extern bool CeFindCloseRegChange(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

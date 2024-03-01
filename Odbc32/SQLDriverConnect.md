@@ -14,4 +14,4 @@ public static extern int SQLDriverConnect(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqldriverconnect-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqldriverconnect-function)

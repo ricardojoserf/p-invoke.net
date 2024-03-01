@@ -7,4 +7,4 @@ public static extern bool SetConsoleScreenBufferInfoEx(IntPtr hConsoleOutput,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/setconsolescreenbufferinfoex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/setconsolescreenbufferinfoex)

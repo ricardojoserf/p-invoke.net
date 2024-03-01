@@ -7,4 +7,4 @@ public static extern IntPtr lstrcpy(StringBuilder lpString1,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

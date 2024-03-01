@@ -9,4 +9,4 @@ public static extern bool CeFindNextRegChange(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

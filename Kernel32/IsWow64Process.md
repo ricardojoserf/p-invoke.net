@@ -8,4 +8,4 @@ public static extern bool IsWow64Process(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

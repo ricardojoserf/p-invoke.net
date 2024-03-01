@@ -8,4 +8,4 @@ public static extern bool CheckDesktopByThreadId(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

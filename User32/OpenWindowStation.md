@@ -9,4 +9,4 @@ public static extern IntPtr OpenWindowStation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-openwindowstationw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-openwindowstationw)

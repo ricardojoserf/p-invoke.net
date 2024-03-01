@@ -9,4 +9,4 @@ public static extern int ZwOpenSection(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

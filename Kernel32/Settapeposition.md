@@ -11,4 +11,4 @@ public static extern bool SetTapePosition(IntPtr hDevice,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-settapeposition)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-settapeposition)

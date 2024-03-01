@@ -8,4 +8,4 @@ public static extern CREDUI_RETURN CredUIConfirmCredentials(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

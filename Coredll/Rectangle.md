@@ -11,4 +11,4 @@ public static extern bool Rectangle(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

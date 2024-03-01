@@ -7,4 +7,4 @@ public static extern int CreateDataAdviseHolder(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

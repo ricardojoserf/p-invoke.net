@@ -13,4 +13,4 @@ public static extern int NtQueryDirectoryObject(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

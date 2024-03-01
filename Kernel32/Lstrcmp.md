@@ -7,4 +7,4 @@ public static extern int lstrcmp(string lpString1,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -9,4 +9,4 @@ public static extern void LoadTypeLibEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-loadtypelibex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-loadtypelibex)

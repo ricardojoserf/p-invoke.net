@@ -12,4 +12,4 @@ public static extern bool InitiateSystemShutdownEx(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

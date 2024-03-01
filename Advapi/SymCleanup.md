@@ -7,4 +7,4 @@ public static extern bool SymCleanup(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dbghelp/nf-dbghelp-symcleanup)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/dbghelp/nf-dbghelp-symcleanup)

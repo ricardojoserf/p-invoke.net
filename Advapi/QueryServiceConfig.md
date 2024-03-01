@@ -10,4 +10,4 @@ public static extern bool QueryServiceConfig(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-queryserviceconfiga)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-queryserviceconfiga)

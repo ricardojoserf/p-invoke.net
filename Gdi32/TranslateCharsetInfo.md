@@ -9,4 +9,4 @@ public static extern bool TranslateCharsetInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-translatecharsetinfo)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-translatecharsetinfo)

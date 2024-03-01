@@ -9,4 +9,4 @@ public static extern int WriteFmtUserTypeStg(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-writefmtusertypestg)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-writefmtusertypestg)

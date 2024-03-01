@@ -8,4 +8,4 @@ public static extern bool UnregisterHotKey(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-unregisterhotkey)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-unregisterhotkey)

@@ -11,4 +11,4 @@ public static extern bool GetMailslotInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

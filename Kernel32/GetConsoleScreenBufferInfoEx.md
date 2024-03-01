@@ -8,4 +8,4 @@ public static extern bool GetConsoleScreenBufferInfoEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsolescreenbufferinfoex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsolescreenbufferinfoex)

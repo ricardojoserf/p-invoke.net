@@ -7,4 +7,4 @@ public static extern bool GetKeyboardLayoutName(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

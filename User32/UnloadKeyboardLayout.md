@@ -7,4 +7,4 @@ public static extern bool UnloadKeyboardLayout(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-unloadkeyboardlayout)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-unloadkeyboardlayout)

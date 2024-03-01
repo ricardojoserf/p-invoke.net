@@ -7,4 +7,4 @@ public static extern IntPtr LocalAlloc(uint uFlags,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-localalloc)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-localalloc)

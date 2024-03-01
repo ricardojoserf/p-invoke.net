@@ -15,4 +15,4 @@ public static extern int CoGetInstanceFromIStorage(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

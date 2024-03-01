@@ -7,4 +7,4 @@ public static extern IntPtr PowerRegisterSuspendResumeNotification(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

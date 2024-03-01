@@ -13,4 +13,4 @@ public static extern IntPtr CreateIconFromResourceEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createiconfromresourceex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createiconfromresourceex)

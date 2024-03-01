@@ -9,4 +9,4 @@ public static extern bool DdeSetQualityOfService(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

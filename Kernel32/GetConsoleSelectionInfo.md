@@ -7,4 +7,4 @@ public static extern bool GetConsoleSelectionInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsoleselectioninfo)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsoleselectioninfo)

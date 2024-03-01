@@ -9,4 +9,4 @@ public static extern bool CreateEnvironmentBlock(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-createenvironmentblock)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-createenvironmentblock)

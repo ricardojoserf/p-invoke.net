@@ -10,4 +10,4 @@ public static extern bool GetFileVersionInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winver/nf-winver-getfileversioninfow)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winver/nf-winver-getfileversioninfow)

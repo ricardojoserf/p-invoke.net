@@ -10,4 +10,4 @@ public static extern int StgCreateDocfileOnILockBytes(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

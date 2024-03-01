@@ -9,4 +9,4 @@ public static extern bool UserHandleGrantAccess(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-userhandlegrantaccess)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-userhandlegrantaccess)

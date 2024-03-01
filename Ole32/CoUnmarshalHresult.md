@@ -8,4 +8,4 @@ public static extern int CoUnmarshalHresult(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-counmarshalhresult)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-counmarshalhresult)

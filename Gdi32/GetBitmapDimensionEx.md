@@ -8,4 +8,4 @@ public static extern bool GetBitmapDimensionEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getbitmapdimensionex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getbitmapdimensionex)

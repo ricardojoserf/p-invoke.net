@@ -7,4 +7,4 @@ public static extern bool SetConsoleMode(IntPtr hConsoleHandle,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/setconsolemode)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/setconsolemode)

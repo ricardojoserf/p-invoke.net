@@ -8,4 +8,4 @@ public static extern int SipGetCurrentIM(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

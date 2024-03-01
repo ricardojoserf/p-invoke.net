@@ -12,4 +12,4 @@ public static extern int MsiProvideAssembly(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiprovideassemblyw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiprovideassemblyw)

@@ -7,4 +7,4 @@ public static extern bool WaitForDebugEvent([Out] out DEBUG_EVENT lpDebugEvent,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-waitfordebugevent)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-waitfordebugevent)

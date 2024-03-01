@@ -7,4 +7,4 @@ public static extern bool IsCatalogFile(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

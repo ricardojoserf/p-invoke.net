@@ -7,4 +7,4 @@ public static extern bool SetThreadAffinityMask(IntPtr hThread,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

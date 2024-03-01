@@ -10,4 +10,4 @@ public static extern IntPtr CreateEnhMetaFile(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

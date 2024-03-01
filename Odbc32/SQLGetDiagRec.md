@@ -14,4 +14,4 @@ public static extern int SQLGetDiagRec(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlgetdiagrec-function)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/sql/odbc/reference/syntax/sqlgetdiagrec-function)

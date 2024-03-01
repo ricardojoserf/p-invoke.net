@@ -7,4 +7,4 @@ public static extern uint GetLastError(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

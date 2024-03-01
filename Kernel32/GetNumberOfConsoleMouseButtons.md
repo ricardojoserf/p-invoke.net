@@ -7,4 +7,4 @@ public static extern bool GetNumberOfConsoleMouseButtons(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getnumberofconsolemousebuttons)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getnumberofconsolemousebuttons)

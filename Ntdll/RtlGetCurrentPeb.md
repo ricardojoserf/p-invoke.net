@@ -7,4 +7,4 @@ public static extern IntPtr RtlGetCurrentPeb(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern IntPtr gluErrorString(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/opengl/gluerrorstring)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/opengl/gluerrorstring)

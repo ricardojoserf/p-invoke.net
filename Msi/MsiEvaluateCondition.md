@@ -8,4 +8,4 @@ public static extern int MsiEvaluateCondition(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

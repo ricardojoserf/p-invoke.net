@@ -7,4 +7,4 @@ public static extern uint waveOutReset(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

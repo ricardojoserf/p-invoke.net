@@ -7,4 +7,4 @@ public static extern int DwmGetColorizationParameters(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

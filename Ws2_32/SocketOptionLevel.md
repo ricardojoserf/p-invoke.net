@@ -7,4 +7,4 @@ public static extern IntPtr SocketOptionLevel(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

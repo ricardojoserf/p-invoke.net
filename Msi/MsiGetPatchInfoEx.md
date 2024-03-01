@@ -13,4 +13,4 @@ public static extern int MsiGetPatchInfoEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetpatchinfoexw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetpatchinfoexw)

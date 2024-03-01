@@ -12,4 +12,4 @@ public static extern uint GetCurrencyFormat(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getcurrencyformatw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getcurrencyformatw)

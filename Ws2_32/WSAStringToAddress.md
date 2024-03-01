@@ -10,4 +10,4 @@ public static extern int WSAStringToAddress(
    ref int lp
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

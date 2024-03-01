@@ -15,4 +15,4 @@ public static extern bool GrayString(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

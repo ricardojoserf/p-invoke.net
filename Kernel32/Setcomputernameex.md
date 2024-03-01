@@ -7,4 +7,4 @@ public static extern bool SetComputerNameEx(COMPUTER_NAME_FORMAT NameType,
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

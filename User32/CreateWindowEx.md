@@ -17,4 +17,4 @@ public static extern IntPtr CreateWindowExA(uint dwExStyle,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowexa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowexa)

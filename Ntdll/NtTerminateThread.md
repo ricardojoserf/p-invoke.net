@@ -8,4 +8,4 @@ public static extern int NtTerminateThread(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

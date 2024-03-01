@@ -7,4 +7,4 @@ public static extern uint midiOutClose(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

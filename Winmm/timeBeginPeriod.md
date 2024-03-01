@@ -7,4 +7,4 @@ public static extern uint timeBeginPeriod(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

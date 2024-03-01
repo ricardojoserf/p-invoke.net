@@ -9,4 +9,4 @@ public static extern bool ShutdownBlockReasonQuery(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-shutdownblockreasonquery)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-shutdownblockreasonquery)

@@ -8,4 +8,4 @@ public static extern uint GetSystemWow64Directory(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

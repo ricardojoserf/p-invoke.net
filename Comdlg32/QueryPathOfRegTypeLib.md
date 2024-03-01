@@ -11,4 +11,4 @@ public static extern HRESULT QueryPathOfRegTypeLib(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

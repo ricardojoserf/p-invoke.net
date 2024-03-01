@@ -14,4 +14,4 @@ public static extern bool CryptVerifyTimeStampSignatureForNoChain(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

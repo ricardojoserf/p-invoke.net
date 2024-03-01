@@ -10,4 +10,4 @@ public static extern int GetLocaleInfoEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getlocaleinfoex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getlocaleinfoex)

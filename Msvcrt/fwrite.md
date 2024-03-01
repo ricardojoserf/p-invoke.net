@@ -10,4 +10,4 @@ public static extern size_t fwrite(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fwrite)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fwrite)

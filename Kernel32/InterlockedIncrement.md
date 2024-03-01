@@ -7,4 +7,4 @@ public static extern int InterlockedIncrement(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-interlockedincrement)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-interlockedincrement)

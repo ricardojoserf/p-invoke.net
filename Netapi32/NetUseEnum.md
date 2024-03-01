@@ -13,4 +13,4 @@ public static extern uint NetUseEnum(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmuse/nf-lmuse-netuseenum)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/lmuse/nf-lmuse-netuseenum)

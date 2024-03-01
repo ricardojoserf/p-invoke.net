@@ -7,4 +7,4 @@ public static extern bool PrintDlgEx(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

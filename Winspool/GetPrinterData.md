@@ -12,4 +12,4 @@ public static extern bool GetPrinterData(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

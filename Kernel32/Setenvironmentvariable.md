@@ -7,4 +7,4 @@ public static extern bool SetEnvironmentVariable(string lpName,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/processenv/nf-processenv-setenvironmentvariablew)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/processenv/nf-processenv-setenvironmentvariablew)

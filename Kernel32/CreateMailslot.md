@@ -10,4 +10,4 @@ public static extern SafeMailslotHandle CreateMailslot(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

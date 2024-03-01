@@ -7,4 +7,4 @@ public static extern bool CancelWaitableTimer(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-cancelwaitabletimer)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-cancelwaitabletimer)

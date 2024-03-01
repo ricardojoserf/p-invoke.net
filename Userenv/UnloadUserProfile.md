@@ -8,4 +8,4 @@ public static extern bool UnloadUserProfile(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-unloaduserprofile)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-unloaduserprofile)

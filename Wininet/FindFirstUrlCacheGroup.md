@@ -12,4 +12,4 @@ public static extern IntPtr FindFirstUrlCacheGroup(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-findfirsturlcachegroup)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-findfirsturlcachegroup)

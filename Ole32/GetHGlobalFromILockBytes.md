@@ -8,4 +8,4 @@ public static extern int GetHGlobalFromILockBytes(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

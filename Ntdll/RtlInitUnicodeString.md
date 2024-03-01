@@ -8,4 +8,4 @@ public static extern void RtlInitUnicodeString(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

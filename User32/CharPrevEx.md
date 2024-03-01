@@ -10,4 +10,4 @@ public static extern IntPtr CharPrevEx(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -10,4 +10,4 @@ public static extern uint GetSystemPreferredUILanguages(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getsystempreferreduilanguages)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getsystempreferreduilanguages)

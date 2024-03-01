@@ -7,4 +7,4 @@ public static extern bool AbortPrinter(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

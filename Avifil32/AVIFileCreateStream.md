@@ -9,4 +9,4 @@ public static extern uint AVIFileCreateStream(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-avifilecreatestream)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-avifilecreatestream)

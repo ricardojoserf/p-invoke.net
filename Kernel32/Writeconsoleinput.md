@@ -9,4 +9,4 @@ public static extern bool WriteConsoleInput(IntPtr hConsoleInput,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/writeconsoleinput)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/writeconsoleinput)

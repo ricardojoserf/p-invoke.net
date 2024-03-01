@@ -8,4 +8,4 @@ public static extern int StgGetIFillLockBytesOnILockBytes(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

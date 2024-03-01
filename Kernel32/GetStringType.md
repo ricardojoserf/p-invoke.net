@@ -11,4 +11,4 @@ public static extern bool GetStringType(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

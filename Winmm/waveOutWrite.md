@@ -9,4 +9,4 @@ public static extern uint waveOutWrite(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

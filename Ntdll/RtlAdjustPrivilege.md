@@ -10,4 +10,4 @@ public static extern int RtlAdjustPrivilege(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

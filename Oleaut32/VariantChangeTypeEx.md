@@ -11,4 +11,4 @@ public static extern int VariantChangeTypeEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-variantchangetypeex)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-variantchangetypeex)

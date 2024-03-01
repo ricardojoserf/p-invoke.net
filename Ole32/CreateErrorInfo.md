@@ -7,4 +7,4 @@ public static extern int CreateErrorInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

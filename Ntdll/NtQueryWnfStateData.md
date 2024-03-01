@@ -12,4 +12,4 @@ public static extern int NtQueryWnfStateData(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

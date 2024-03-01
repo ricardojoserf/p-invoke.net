@@ -11,4 +11,4 @@ public static extern bool GetProductInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern bool DeleteUrlCacheEntry(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-deleteurlcacheentrya)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-deleteurlcacheentrya)

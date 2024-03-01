@@ -11,4 +11,4 @@ public static extern int CM_Request_Device_Eject(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

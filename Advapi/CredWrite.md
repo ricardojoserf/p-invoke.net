@@ -8,4 +8,4 @@ public static extern bool CredWrite(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-credwritea)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-credwritea)

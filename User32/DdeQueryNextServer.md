@@ -8,4 +8,4 @@ public static extern IntPtr DdeQueryNextServer(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

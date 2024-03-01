@@ -7,4 +7,4 @@ public static extern uint GetIdleTime(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

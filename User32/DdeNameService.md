@@ -10,4 +10,4 @@ public static extern IntPtr DdeNameService(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

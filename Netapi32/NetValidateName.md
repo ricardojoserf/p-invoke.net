@@ -11,4 +11,4 @@ public static extern uint NetValidateName(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

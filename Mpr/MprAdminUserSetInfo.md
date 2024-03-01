@@ -11,4 +11,4 @@ public static extern uint MprAdminUserSetInfo(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

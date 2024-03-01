@@ -9,4 +9,4 @@ public static extern bool CredMarshalCredential(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-credmarshalcredentiala)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-credmarshalcredentiala)

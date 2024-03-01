@@ -7,4 +7,4 @@ public static extern bool RevertToSelf(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

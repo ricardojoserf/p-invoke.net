@@ -12,4 +12,4 @@ public static extern uint GetTimeFormat(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

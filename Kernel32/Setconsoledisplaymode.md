@@ -8,4 +8,4 @@ public static extern bool SetConsoleDisplayMode(IntPtr hConsoleOutput,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/setconsoledisplaymode)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/setconsoledisplaymode)

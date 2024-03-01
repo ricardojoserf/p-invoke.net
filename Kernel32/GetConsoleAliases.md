@@ -9,4 +9,4 @@ public static extern uint GetConsoleAliases(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/console/getconsolealiases)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/console/getconsolealiases)

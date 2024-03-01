@@ -7,4 +7,4 @@ public static extern bool CloseHandle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)

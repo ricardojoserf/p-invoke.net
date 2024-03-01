@@ -9,4 +9,4 @@ public static extern uint MQSetQueueSecurity(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

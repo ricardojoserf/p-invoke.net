@@ -11,4 +11,4 @@ public static extern uint NetRenameMachineInDomain(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

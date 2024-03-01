@@ -7,4 +7,4 @@ public static extern IntPtr HandleRef(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

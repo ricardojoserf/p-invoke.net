@@ -17,4 +17,4 @@ public static extern int NtCreateThreadEx(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

@@ -10,4 +10,4 @@ public static extern bool CertRDNValueToStr(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-certrdnvaluetostrw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-certrdnvaluetostrw)

@@ -12,4 +12,4 @@ public static extern uint GetCharacterPlacement(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

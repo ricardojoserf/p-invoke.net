@@ -8,4 +8,4 @@ public static extern IntPtr DuplicateIcon(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-duplicateicon)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-duplicateicon)

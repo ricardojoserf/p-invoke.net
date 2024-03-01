@@ -10,4 +10,4 @@ public static extern int MsiExtractPatchXMLData(
 );
 ```
 
-[Microsoft documentation](TODO)
+Microsoft documentation: (TODO)

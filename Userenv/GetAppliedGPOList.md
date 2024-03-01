@@ -11,4 +11,4 @@ public static extern bool GetAppliedGPOList(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-getappliedgpolistw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-getappliedgpolistw)
