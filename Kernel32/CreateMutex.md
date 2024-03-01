@@ -4,8 +4,7 @@
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafeWaitHandle CreateMutex(
    IntPtr lpMutexAttributes,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bInitialOwner,
+   [MarshalAs(UnmanagedType.Bool)] bool bInitialOwner,
    string lpName
 );
 ```

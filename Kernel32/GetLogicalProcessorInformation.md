@@ -1,4 +1,4 @@
-## GetLogicalProzessorInformation
+## GetLogicalProcessorInformation
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]

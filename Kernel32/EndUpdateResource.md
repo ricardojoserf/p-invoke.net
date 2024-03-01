@@ -4,8 +4,7 @@
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool EndUpdateResource(
    IntPtr hUpdate,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fDiscard
+   [MarshalAs(UnmanagedType.Bool)] bool fDiscard
 );
 ```
 

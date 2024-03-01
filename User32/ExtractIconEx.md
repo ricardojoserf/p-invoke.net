@@ -2,8 +2,7 @@
 
 ```
 [DllImport("shell32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern uint ExtractIconExA(
-   string lpszFile,
+public static extern uint ExtractIconExA(string lpszFile,
    int nIconIndex,
    IntPtr[] phiconLarge,
    IntPtr[] phiconSmall,

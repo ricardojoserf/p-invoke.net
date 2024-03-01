@@ -4,8 +4,7 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleNoteObjectVisible(
    IOleObject pObject,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fVisible
+   [MarshalAs(UnmanagedType.Bool)] bool fVisible
 );
 ```
 

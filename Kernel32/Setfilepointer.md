@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)]
-public static extern uint SetFilePointer(
-   IntPtr hFile,
+public static extern uint SetFilePointer(IntPtr hFile,
    int lDistanceToMove,
    IntPtr lpDistanceToMoveHigh,
    uint dwMoveMethod

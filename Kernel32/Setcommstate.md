@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetCommState(
-   IntPtr hFile,
+public static extern bool SetCommState(IntPtr hFile,
    ref DCB lpDCB
 );
 ```

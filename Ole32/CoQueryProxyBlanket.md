@@ -6,8 +6,7 @@ public static extern int CoQueryProxyBlanket(
    IUnknown pProxy,
    out IntPtr pAuthnSvc,
    out IntPtr pAuthzSvc,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] out string pServerPrincName,
+   [MarshalAs(UnmanagedType.LPWStr)] out string pServerPrincName,
    out IntPtr pAuthnLevel,
    out IntPtr pImpLevel,
    out IntPtr pPrivs,

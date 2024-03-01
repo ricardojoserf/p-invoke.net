@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true)]
-public static extern IntPtr DispatchMessageA(
-   [In] ref MSG lpmsg
+public static extern IntPtr DispatchMessageA([In] ref MSG lpmsg
 );
 ```
 

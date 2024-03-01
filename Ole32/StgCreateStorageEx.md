@@ -3,8 +3,7 @@
 ```
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StgCreateStorageEx(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pwcsName,
+   [MarshalAs(UnmanagedType.LPWStr)] string pwcsName,
    uint grfMode,
    uint stgfmt,
    uint grfAttrs,

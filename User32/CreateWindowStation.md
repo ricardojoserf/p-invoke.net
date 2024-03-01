@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern IntPtr CreateWindowStationA(
-   string lpwinsta,
+public static extern IntPtr CreateWindowStationA(string lpwinsta,
    uint dwReserved,
    uint dwDesiredAccess,
    IntPtr lpsa

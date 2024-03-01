@@ -5,12 +5,9 @@
 public static extern int TaskDialog(
    IntPtr hwndOwner,
    IntPtr hInstance,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszWindowTitle,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszMainInstruction,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszContent,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszWindowTitle,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszMainInstruction,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszContent,
    int dwCommonButtons,
    IntPtr pszIcon,
    out int pnButton

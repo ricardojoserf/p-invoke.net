@@ -4,8 +4,7 @@
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathRenameExtension(
    StringBuilder pszPath,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszExt
+   [MarshalAs(UnmanagedType.LPWStr)] string pszExt
 );
 ```
 

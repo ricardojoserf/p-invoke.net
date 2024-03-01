@@ -4,14 +4,11 @@
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern uint SHMessageBoxCheck(
    IntPtr hwnd,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszText,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszCaption,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszText,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszCaption,
    uint uType,
    int iDefault,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszRegVal
+   [MarshalAs(UnmanagedType.LPWStr)] string pszRegVal
 );
 ```
 

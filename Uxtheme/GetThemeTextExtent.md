@@ -7,8 +7,7 @@ public static extern HRESULT GetThemeTextExtent(
    HDC hdc,
    int iPartId,
    int iStateId,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszText,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszText,
    int cchCharCount,
    uint dwTextFlags,
    ref RECT pBoundingRect,

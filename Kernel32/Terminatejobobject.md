@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool TerminateJobObject(
-   IntPtr hJob,
+public static extern bool TerminateJobObject(IntPtr hJob,
    uint uExitCode
 );
 ```

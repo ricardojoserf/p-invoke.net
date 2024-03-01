@@ -4,8 +4,7 @@
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern IntPtr OpenThemeData(
    HWND hwnd,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszClassList
+   [MarshalAs(UnmanagedType.LPWStr)] string pszClassList
 );
 ```
 

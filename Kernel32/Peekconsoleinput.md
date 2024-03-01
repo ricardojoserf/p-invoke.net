@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool PeekConsoleInput(
-   IntPtr hConsoleInput,
+public static extern bool PeekConsoleInput(IntPtr hConsoleInput,
    [Out] INPUT_RECORD[] lpBuffer,
    uint nLength,
    out uint lpNumberOfEventsRead

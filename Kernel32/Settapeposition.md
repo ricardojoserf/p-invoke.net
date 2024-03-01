@@ -2,14 +2,12 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetTapePosition(
-   IntPtr hDevice,
+public static extern bool SetTapePosition(IntPtr hDevice,
    uint dwPositionMethod,
    IntPtr dwPartition,
    uint dwOffsetLow,
    uint dwOffsetHigh,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bImmediate
+   [MarshalAs(UnmanagedType.Bool)] bool bImmediate
 );
 ```
 

@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetPriorityClass(
-   IntPtr hProcess,
+public static extern bool SetPriorityClass(IntPtr hProcess,
    uint dwPriorityClass
 );
 ```

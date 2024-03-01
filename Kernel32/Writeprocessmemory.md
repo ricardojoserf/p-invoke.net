@@ -2,11 +2,9 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool WriteProcessMemory(
-   IntPtr hProcess,
+public static extern bool WriteProcessMemory(IntPtr hProcess,
    IntPtr lpBaseAddress,
-   [MarshalAs(
-   UnmanagedType.LPArray)] byte[] lpBuffer,
+   [MarshalAs(UnmanagedType.LPArray)] byte[] lpBuffer,
    uint nSize,
    out uint lpNumberOfBytesWritten
 );

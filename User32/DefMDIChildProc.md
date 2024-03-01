@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true)]
-public static extern IntPtr DefMDIChildProcA(
-   IntPtr hWnd,
+public static extern IntPtr DefMDIChildProcA(IntPtr hWnd,
    uint uMsg,
    IntPtr wParam,
    IntPtr lParam

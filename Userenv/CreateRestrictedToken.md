@@ -6,16 +6,13 @@ public static extern bool CreateRestrictedToken(
    IntPtr ExistingTokenHandle,
    uint Flags,
    uint DisableSidCount,
-   [MarshalAs(
-   UnmanagedType.LPArray,
+   [MarshalAs(UnmanagedType.LPArray,
    SizeParamIndex = 2)] SidAndAttributes[] SidsToDisable,
    uint DeletePrivilegeCount,
-   [MarshalAs(
-   UnmanagedType.LPArray,
+   [MarshalAs(UnmanagedType.LPArray,
    SizeParamIndex = 4)] LuidAndAttributes[] PrivilegesToDelete,
    uint RestrictedSidCount,
-   [MarshalAs(
-   UnmanagedType.LPArray,
+   [MarshalAs(UnmanagedType.LPArray,
    SizeParamIndex = 6)] SidAndAttributes[] SidsToRestrict,
    out IntPtr NewTokenHandle
 );

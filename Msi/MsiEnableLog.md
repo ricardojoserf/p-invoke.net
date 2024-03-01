@@ -4,8 +4,7 @@
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiEnableLog(
    uint dwLogMode,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szLogFile,
+   [MarshalAs(UnmanagedType.LPTStr)] string szLogFile,
    uint dwLogAttributes
 );
 ```

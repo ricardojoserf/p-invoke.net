@@ -5,12 +5,9 @@
 public static extern int AssocQueryString(
    ASSOCF flags,
    ASSOCSTR str,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszAssoc,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszExtra,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] StringBuilder pszOut,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszAssoc,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszExtra,
+   [MarshalAs(UnmanagedType.LPWStr)] StringBuilder pszOut,
    ref uint pcchOut
 );
 ```

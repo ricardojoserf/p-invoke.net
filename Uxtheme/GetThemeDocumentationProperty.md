@@ -3,10 +3,8 @@
 ```
 [DllImport("uxtheme.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern HRESULT GetThemeDocumentationProperty(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszThemeName,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszPropertyName,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszThemeName,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszPropertyName,
    StringBuilder pszValueBuff,
    int cchMaxValChars
 );

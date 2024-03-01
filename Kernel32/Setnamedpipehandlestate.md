@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetNamedPipeHandleState(
-   IntPtr hNamedPipe,
+public static extern bool SetNamedPipeHandleState(IntPtr hNamedPipe,
    [In,
    Out] ref uint lpMode,
    IntPtr lpMaxCollectionCount,

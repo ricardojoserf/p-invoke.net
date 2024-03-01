@@ -4,8 +4,7 @@
 [DllImport("user32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool FlashWindow(
    IntPtr hWnd,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bInvert
+   [MarshalAs(UnmanagedType.Bool)] bool bInvert
 );
 ```
 

@@ -4,8 +4,7 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int MkParseDisplayName(
    IBindCtx pbc,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string szUserName,
+   [MarshalAs(UnmanagedType.LPWStr)] string szUserName,
    out uint pchEaten,
    out IMoniker ppmk
 );

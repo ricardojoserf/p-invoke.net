@@ -4,8 +4,7 @@
 [DllImport("Advapi32.dll", SetLastError = true)]
 public static extern bool AdjustTokenPrivileges(
    IntPtr TokenHandle,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool DisableAllPrivileges,
+   [MarshalAs(UnmanagedType.Bool)] bool DisableAllPrivileges,
    ref TOKEN_PRIVILEGES NewState,
    uint BufferLength,
    IntPtr PreviousState,

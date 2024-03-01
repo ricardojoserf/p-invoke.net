@@ -6,10 +6,8 @@ public static extern bool InitiateSystemShutdown(
    string lpMachineName,
    string lpMessage,
    uint dwTimeout,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bForceAppsClosed,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bRebootAfterShutdown
+   [MarshalAs(UnmanagedType.Bool)] bool bForceAppsClosed,
+   [MarshalAs(UnmanagedType.Bool)] bool bRebootAfterShutdown
 );
 ```
 

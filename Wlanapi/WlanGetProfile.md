@@ -5,11 +5,9 @@
 public static extern uint WlanGetProfile(
    IntPtr hClientHandle,
    ref GUID pInterfaceGuid,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string strProfileName,
+   [MarshalAs(UnmanagedType.LPWStr)] string strProfileName,
    IntPtr pReserved,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] out string pstrProfileXml,
+   [MarshalAs(UnmanagedType.LPWStr)] out string pstrProfileXml,
    ref WLAN_PROFILE_GET_FLAGS pdwFlags,
    IntPtr pReserved2
 );

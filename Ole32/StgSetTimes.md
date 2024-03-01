@@ -3,8 +3,7 @@
 ```
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StgSetTimes(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpszName,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpszName,
    ref FILETIME pctime,
    ref FILETIME patime,
    ref FILETIME pmtime

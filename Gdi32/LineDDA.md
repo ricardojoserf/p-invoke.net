@@ -7,8 +7,7 @@ public static extern bool LineDDA(
    int yStart,
    int xEnd,
    int yEnd,
-   [MarshalAs(
-   UnmanagedType.FunctionPtr)] LINEDDAPROC lpProc,
+   [MarshalAs(UnmanagedType.FunctionPtr)] LINEDDAPROC lpProc,
    IntPtr lpData
 );
 ```

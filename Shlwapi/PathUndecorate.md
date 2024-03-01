@@ -3,8 +3,7 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr PathUndecorate(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszPath
+   [MarshalAs(UnmanagedType.LPWStr)] string pszPath
 );
 ```
 

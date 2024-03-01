@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool UpdateProcThreadAttribute(
-   IntPtr lpAttributeList,
+public static extern bool UpdateProcThreadAttribute(IntPtr lpAttributeList,
    uint dwFlags,
    uint64_t Attribute,
    IntPtr lpValue,

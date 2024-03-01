@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool WriteConsoleOutputAttribute(
-   IntPtr hConsoleOutput,
+public static extern bool WriteConsoleOutputAttribute(IntPtr hConsoleOutput,
    ushort[] lpAttribute,
    uint nLength,
    COORD dwWriteCoord,

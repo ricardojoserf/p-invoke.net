@@ -4,10 +4,8 @@
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern IntPtr CreateEvent(
    IntPtr lpEventAttributes,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bManualReset,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bInitialState,
+   [MarshalAs(UnmanagedType.Bool)] bool bManualReset,
+   [MarshalAs(UnmanagedType.Bool)] bool bInitialState,
    string lpName
 );
 ```

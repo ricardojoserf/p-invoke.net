@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true)]
-public static extern int DrawTextA(
-   IntPtr hdc,
+public static extern int DrawTextA(IntPtr hdc,
    string lpchText,
    int cchText,
    ref RECT lprc,

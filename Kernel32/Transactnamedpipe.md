@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool TransactNamedPipe(
-   IntPtr hNamedPipe,
+public static extern bool TransactNamedPipe(IntPtr hNamedPipe,
    IntPtr lpInBuffer,
    uint nInBufferSize,
    IntPtr lpOutBuffer,

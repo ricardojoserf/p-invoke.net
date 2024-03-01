@@ -4,8 +4,7 @@
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr StrFormatByteSize(
    ulong qdw,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszBuf,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszBuf,
    uint cchBuf
 );
 ```

@@ -3,10 +3,8 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathUnExpandEnvStrings(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszPath,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] StringBuilder pszBuf,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszPath,
+   [MarshalAs(UnmanagedType.LPWStr)] StringBuilder pszBuf,
    uint cchBuf
 );
 ```

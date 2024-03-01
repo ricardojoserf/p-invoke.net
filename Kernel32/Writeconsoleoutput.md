@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool WriteConsoleOutput(
-   IntPtr hConsoleOutput,
+public static extern bool WriteConsoleOutput(IntPtr hConsoleOutput,
    CHAR_INFO[] lpBuffer,
    COORD dwBufferSize,
    COORD dwBufferCoord,

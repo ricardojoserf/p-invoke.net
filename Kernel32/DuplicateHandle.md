@@ -8,8 +8,7 @@ public static extern bool DuplicateHandle(
    IntPtr hTargetProcessHandle,
    out IntPtr lpTargetHandle,
    uint dwDesiredAccess,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bInheritHandle,
+   [MarshalAs(UnmanagedType.Bool)] bool bInheritHandle,
    uint dwOptions
 );
 ```

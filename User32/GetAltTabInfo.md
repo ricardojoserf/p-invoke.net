@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern bool GetAltTabInfoA(
-   IntPtr hwnd,
+public static extern bool GetAltTabInfoA(IntPtr hwnd,
    int iItem,
    ref ALTTABINFO pati,
    StringBuilder pszItemText,

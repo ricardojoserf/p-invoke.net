@@ -3,8 +3,7 @@
 ```
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateLinkToFile(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpszFileName,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpszFileName,
    ref Guid riid,
    uint renderopt,
    ref FORMATETC pFormatEtc,

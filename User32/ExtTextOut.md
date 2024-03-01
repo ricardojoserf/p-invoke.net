@@ -2,8 +2,7 @@
 
 ```
 [DllImport("gdi32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool ExtTextOutA(
-   IntPtr hdc,
+public static extern bool ExtTextOutA(IntPtr hdc,
    int X,
    int Y,
    uint fuOptions,

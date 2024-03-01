@@ -2,15 +2,12 @@
 
 ```
 [DllImport("Kernel32.dll", CharSet = CharSet.Ansi, SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool WideCharToMultiByte(
-   uint CodePage,
+public static extern bool WideCharToMultiByte(uint CodePage,
    uint dwFlags,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpWideCharStr,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpWideCharStr,
    int cchWideChar,
    [Out,
-   MarshalAs(
-   UnmanagedType.LPArray)] byte[] lpMultiByteStr,
+   MarshalAs(UnmanagedType.LPArray)] byte[] lpMultiByteStr,
    int cbMultiByte,
    IntPtr lpDefaultChar,
    IntPtr lpUsedDefaultChar

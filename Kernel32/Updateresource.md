@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool UpdateResource(
-   IntPtr hUpdate,
+public static extern bool UpdateResource(IntPtr hUpdate,
    string lpType,
    string lpName,
    ushort wLanguage,

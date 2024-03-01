@@ -5,8 +5,7 @@
 public static extern int OleSave(
    IStorage pStg,
    IStream pStm,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fSameAsLoad
+   [MarshalAs(UnmanagedType.Bool)] bool fSameAsLoad
 );
 ```
 

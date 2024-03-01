@@ -6,8 +6,7 @@ public static extern bool GetOverlappedResult(
    SafeFileHandle hFile,
    ref OVERLAPPED lpOverlapped,
    out uint lpNumberOfBytesTransferred,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bWait
+   [MarshalAs(UnmanagedType.Bool)] bool bWait
 );
 ```
 

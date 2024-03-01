@@ -4,10 +4,8 @@
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr PathCombine(
    StringBuilder pszDest,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszDir,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszFile
+   [MarshalAs(UnmanagedType.LPWStr)] string pszDir,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszFile
 );
 ```
 

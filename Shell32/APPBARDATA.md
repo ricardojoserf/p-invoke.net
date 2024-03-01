@@ -2,8 +2,7 @@
 
 ```
 [DllImport("shell32.dll")]
-public static extern uint SHAppBarMessage(
-   uint dwMessage,
+public static extern uint SHAppBarMessage(uint dwMessage,
    ref APPBARDATA pData
 );
 ```

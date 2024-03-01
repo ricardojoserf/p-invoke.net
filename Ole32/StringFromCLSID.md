@@ -4,8 +4,7 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StringFromCLSID(
    ref Guid rclsid,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] out string lplpsz
+   [MarshalAs(UnmanagedType.LPWStr)] out string lplpsz
 );
 ```
 

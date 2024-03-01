@@ -9,11 +9,9 @@ public static extern bool AccessCheckAndAuditAlarm(
    IntPtr pSecurityDescriptor,
    uint DesiredAccess,
    [In] ref GENERIC_MAPPING GenericMapping,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool ObjectCreation,
+   [MarshalAs(UnmanagedType.Bool)] bool ObjectCreation,
    out uint GrantedAccess,
-   [MarshalAs(
-   UnmanagedType.Bool)] out bool AccessStatus,
+   [MarshalAs(UnmanagedType.Bool)] out bool AccessStatus,
    out bool pfGenerateOnClose
 );
 ```

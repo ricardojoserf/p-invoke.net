@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetCurrentConsoleFontEx(
-   IntPtr hConsoleOutput,
+public static extern bool SetCurrentConsoleFontEx(IntPtr hConsoleOutput,
    bool bMaximumWindow,
    ref CONSOLE_FONT_INFO_EX lpConsoleCurrentFontEx
 );

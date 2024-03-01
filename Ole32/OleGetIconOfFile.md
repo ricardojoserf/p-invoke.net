@@ -3,10 +3,8 @@
 ```
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleGetIconOfFile(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpszPath,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fUseFileAsLabel,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpszPath,
+   [MarshalAs(UnmanagedType.Bool)] bool fUseFileAsLabel,
    out IntPtr phicon
 );
 ```

@@ -8,8 +8,7 @@ public static extern bool CreateProcessAsUserW(
    string lpCommandLine,
    ref SECURITY_ATTRIBUTES lpProcessAttributes,
    ref SECURITY_ATTRIBUTES lpThreadAttributes,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bInheritHandles,
+   [MarshalAs(UnmanagedType.Bool)] bool bInheritHandles,
    uint dwCreationFlags,
    IntPtr lpEnvironment,
    string lpCurrentDirectory,

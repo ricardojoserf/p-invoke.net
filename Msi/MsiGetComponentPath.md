@@ -3,12 +3,9 @@
 ```
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiGetComponentPath(
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szProduct,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szComponent,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] StringBuilder lpPathBuf,
+   [MarshalAs(UnmanagedType.LPTStr)] string szProduct,
+   [MarshalAs(UnmanagedType.LPTStr)] string szComponent,
+   [MarshalAs(UnmanagedType.LPTStr)] StringBuilder lpPathBuf,
    ref int pcchBuf
 );
 ```

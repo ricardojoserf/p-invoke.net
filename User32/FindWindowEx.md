@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern IntPtr FindWindowExA(
-   IntPtr hWndParent,
+public static extern IntPtr FindWindowExA(IntPtr hWndParent,
    IntPtr hWndChildAfter,
    string lpszClass,
    string lpszWindow

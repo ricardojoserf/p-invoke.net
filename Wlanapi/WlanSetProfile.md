@@ -6,10 +6,8 @@ public static extern uint WlanSetProfile(
    IntPtr hClientHandle,
    ref GUID pInterfaceGuid,
    WLAN_PROFILE_FLAGS dwFlags,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string strProfileXml,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string strAllUserProfileSecurity,
+   [MarshalAs(UnmanagedType.LPWStr)] string strProfileXml,
+   [MarshalAs(UnmanagedType.LPWStr)] string strAllUserProfileSecurity,
    bool bOverwrite,
    IntPtr pReserved,
    out WLAN_REASON_CODE pdwReasonCode

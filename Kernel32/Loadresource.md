@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.SysInt)]
-public static extern IntPtr LoadResource(
-   IntPtr hModule,
+public static extern IntPtr LoadResource(IntPtr hModule,
    IntPtr hResInfo
 );
 ```

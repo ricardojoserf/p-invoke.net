@@ -6,8 +6,7 @@ public static extern int TaskDialogIndirect(
    [In] ref TASKDIALOGCONFIG pTaskConfig,
    out int pnButton,
    out int pnRadioButton,
-   [MarshalAs(
-   UnmanagedType.Bool)] out bool pfVerificationFlagChecked
+   [MarshalAs(UnmanagedType.Bool)] out bool pfVerificationFlagChecked
 );
 ```
 

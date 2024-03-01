@@ -4,8 +4,7 @@
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmGetColorizationColor(
    out uint pcrColorization,
-   [MarshalAs(
-   UnmanagedType.Bool)] out bool pfOpaqueBlend
+   [MarshalAs(UnmanagedType.Bool)] out bool pfOpaqueBlend
 );
 ```
 

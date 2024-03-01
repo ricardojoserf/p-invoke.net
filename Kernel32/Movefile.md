@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool MoveFile(
-   string lpExistingFileName,
+public static extern bool MoveFile(string lpExistingFileName,
    string lpNewFileName
 );
 ```

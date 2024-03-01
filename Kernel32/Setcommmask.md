@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetCommMask(
-   IntPtr hFile,
+public static extern bool SetCommMask(IntPtr hFile,
    uint dwEvtMask
 );
 ```

@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.LPArray, SizeParamIndex = 1)]
-public static extern IntPtr VirtualAlloc(
-   IntPtr lpAddress,
+public static extern IntPtr VirtualAlloc(IntPtr lpAddress,
    UIntPtr dwSize,
    uint flAllocationType,
    uint flProtect

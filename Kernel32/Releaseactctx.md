@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool ReleaseActCtx(
-   IntPtr hActCtx
+public static extern bool ReleaseActCtx(IntPtr hActCtx
 );
 ```
 

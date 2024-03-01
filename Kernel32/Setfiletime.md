@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetFileTime(
-   IntPtr hFile,
+public static extern bool SetFileTime(IntPtr hFile,
    [In] ref FILETIME lpCreationTime,
    [In] ref FILETIME lpLastAccessTime,
    [In] ref FILETIME lpLastWriteTime

@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetFilePointerEx(
-   IntPtr hFile,
+public static extern bool SetFilePointerEx(IntPtr hFile,
    long liDistanceToMove,
    out long lpNewFilePointer,
    uint dwMoveMethod

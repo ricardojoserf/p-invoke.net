@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern bool EnumDisplaySettingsA(
-   string lpszDeviceName,
+public static extern bool EnumDisplaySettingsA(string lpszDeviceName,
    uint iModeNum,
    ref DEVMODE lpDevMode
 );

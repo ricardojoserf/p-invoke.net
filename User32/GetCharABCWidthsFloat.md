@@ -2,8 +2,7 @@
 
 ```
 [DllImport("gdi32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool GetCharABCWidthsFloatA(
-   IntPtr hdc,
+public static extern bool GetCharABCWidthsFloatA(IntPtr hdc,
    uint iFirstChar,
    uint iLastChar,
    [Out] ABCFLOAT[] lpABCF

@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetSystemTime(
-   [In] ref SYSTEMTIME lpSystemTime
+public static extern bool SetSystemTime([In] ref SYSTEMTIME lpSystemTime
 );
 ```
 

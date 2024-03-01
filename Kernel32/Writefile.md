@@ -2,10 +2,8 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool WriteFile(
-   IntPtr hFile,
-   [MarshalAs(
-   UnmanagedType.LPArray)] byte[] lpBuffer,
+public static extern bool WriteFile(IntPtr hFile,
+   [MarshalAs(UnmanagedType.LPArray)] byte[] lpBuffer,
    uint nNumberOfBytesToWrite,
    out uint lpNumberOfBytesWritten,
    IntPtr lpOverlapped

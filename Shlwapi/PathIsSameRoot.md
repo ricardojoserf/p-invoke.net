@@ -3,10 +3,8 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathIsSameRoot(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszPath1,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszPath2
+   [MarshalAs(UnmanagedType.LPWStr)] string pszPath1,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszPath2
 );
 ```
 

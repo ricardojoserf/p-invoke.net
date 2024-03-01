@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)] [return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool GetClassInfoA(
-   IntPtr hInstance,
+public static extern bool GetClassInfoA(IntPtr hInstance,
    string lpClassName,
    [Out] out WNDCLASS lpWndClass
 );

@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool ReadFileScatter(
-   IntPtr hFile,
+public static extern bool ReadFileScatter(IntPtr hFile,
    [In] FILE_SEGMENT_ELEMENT[] aSegmentArray,
    uint nNumberOfBytesToRead,
    IntPtr lpReserved,

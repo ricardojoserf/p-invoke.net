@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool PeekNamedPipe(
-   IntPtr hNamedPipe,
+public static extern bool PeekNamedPipe(IntPtr hNamedPipe,
    byte[] lpBuffer,
    uint nBufferSize,
    ref uint lpBytesRead,

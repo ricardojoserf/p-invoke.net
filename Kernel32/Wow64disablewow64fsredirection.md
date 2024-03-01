@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool Wow64DisableWow64FsRedirection(
-   out IntPtr OldValue
+public static extern bool Wow64DisableWow64FsRedirection(out IntPtr OldValue
 );
 ```
 

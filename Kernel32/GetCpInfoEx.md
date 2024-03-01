@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool GetCPInfoEx(
-   string CodePage,
+public static extern bool GetCPInfoEx(string CodePage,
    uint dwFlags,
    out CPINFOEX lpCPInfoEx
 );

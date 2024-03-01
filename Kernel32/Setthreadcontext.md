@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetThreadContext(
-   IntPtr hThread,
+public static extern bool SetThreadContext(IntPtr hThread,
    [In] ref CONTEXT lpContext
 );
 ```

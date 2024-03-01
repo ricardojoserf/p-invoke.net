@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool ProcessIdToSessionId(
-   uint dwProcessId,
+public static extern bool ProcessIdToSessionId(uint dwProcessId,
    out uint pSessionId
 );
 ```

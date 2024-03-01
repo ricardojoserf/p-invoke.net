@@ -4,10 +4,8 @@
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT SetWindowTheme(
    HWND hwnd,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszSubAppName,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszSubIdList
+   [MarshalAs(UnmanagedType.LPWStr)] string pszSubAppName,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszSubIdList
 );
 ```
 

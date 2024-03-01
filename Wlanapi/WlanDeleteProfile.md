@@ -5,8 +5,7 @@
 public static extern uint WlanDeleteProfile(
    IntPtr hClientHandle,
    ref GUID pInterfaceGuid,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string strProfileName,
+   [MarshalAs(UnmanagedType.LPWStr)] string strProfileName,
    IntPtr pReserved
 );
 ```

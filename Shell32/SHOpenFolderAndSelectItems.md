@@ -5,8 +5,7 @@
 public static extern int SHOpenFolderAndSelectItems(
    IntPtr pidlFolder,
    uint cidl,
-   [MarshalAs(
-   UnmanagedType.LPArray)] IntPtr[] apidl,
+   [MarshalAs(UnmanagedType.LPArray)] IntPtr[] apidl,
    uint dwFlags
 );
 ```

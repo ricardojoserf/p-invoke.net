@@ -2,8 +2,7 @@
 
 ```
 [DllImport("ole32.dll", SetLastError = true)]
-public static extern int GetBindOptions(
-   out BIND_OPTS pbindopts
+public static extern int GetBindOptions(out BIND_OPTS pbindopts
 );
 ```
 

@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool VirtualProtectEx(
-   IntPtr hProcess,
+public static extern bool VirtualProtectEx(IntPtr hProcess,
    IntPtr lpAddress,
    UIntPtr dwSize,
    uint flNewProtect,

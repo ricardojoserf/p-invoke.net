@@ -5,8 +5,7 @@
 public static extern bool CopyFile(
    string lpExistingFileName,
    string lpNewFileName,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bFailIfExists
+   [MarshalAs(UnmanagedType.Bool)] bool bFailIfExists
 );
 ```
 

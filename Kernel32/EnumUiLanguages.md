@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool EnumUILanguages(
-   EnumUILanguagesProc lpUILanguageEnumProc,
+public static extern bool EnumUILanguages(EnumUILanguagesProc lpUILanguageEnumProc,
    uint dwFlags,
    IntPtr lParam
 );

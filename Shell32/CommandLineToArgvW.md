@@ -3,8 +3,7 @@
 ```
 [DllImport("shell32.dll")]
 public static extern IntPtr CommandLineToArgvW(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpCmdLine,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpCmdLine,
    out int pNumArgs
 );
 ```

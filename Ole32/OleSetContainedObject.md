@@ -4,8 +4,7 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleSetContainedObject(
    IOleClientSite pClientSite,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fContained
+   [MarshalAs(UnmanagedType.Bool)] bool fContained
 );
 ```
 

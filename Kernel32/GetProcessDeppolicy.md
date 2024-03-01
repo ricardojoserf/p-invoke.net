@@ -2,11 +2,9 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool GetProcessDEPPolicy(
-   IntPtr hProcess,
+public static extern bool GetProcessDEPPolicy(IntPtr hProcess,
    out uint lpFlags,
-   [MarshalAs(
-   UnmanagedType.Bool)] out bool lpPermanent
+   [MarshalAs(UnmanagedType.Bool)] out bool lpPermanent
 );
 ```
 

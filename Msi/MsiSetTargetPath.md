@@ -4,10 +4,8 @@
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiSetTargetPath(
    IntPtr hInstall,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szFolder,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szPath
+   [MarshalAs(UnmanagedType.LPTStr)] string szFolder,
+   [MarshalAs(UnmanagedType.LPTStr)] string szPath
 );
 ```
 

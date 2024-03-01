@@ -2,8 +2,7 @@
 
 ```
 [DllImport("netapi32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
-public static extern uint NetServerEnum(
-   string ServerName,
+public static extern uint NetServerEnum(string ServerName,
    uint Level,
    out IntPtr Buffer,
    uint PrefMaxLen,

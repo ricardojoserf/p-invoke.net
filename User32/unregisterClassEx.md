@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true)]
-public static extern bool UnregisterClassEx(
-   IntPtr lpszClassName,
+public static extern bool UnregisterClassEx(IntPtr lpszClassName,
    IntPtr hInstance
 );
 ```

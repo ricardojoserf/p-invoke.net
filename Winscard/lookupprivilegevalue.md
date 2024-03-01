@@ -2,8 +2,7 @@
 
 ```
 [DllImport("advapi32.dll", SetLastError = true)]
-public static extern bool LookupPrivilegeValue(
-   string lpSystemName,
+public static extern bool LookupPrivilegeValue(string lpSystemName,
    string lpName,
    out LUID lpLuid
 );

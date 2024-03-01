@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetFileInformationByHandle(
-   IntPtr hFile,
+public static extern bool SetFileInformationByHandle(IntPtr hFile,
    uint FileInformationClass,
    IntPtr lpFileInformation,
    uint dwBufferSize

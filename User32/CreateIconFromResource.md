@@ -5,8 +5,7 @@
 public static extern IntPtr CreateIconFromResource(
    byte[] presbits,
    uint dwResSize,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fIcon,
+   [MarshalAs(UnmanagedType.Bool)] bool fIcon,
    uint dwVer
 );
 ```

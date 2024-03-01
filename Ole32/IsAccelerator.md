@@ -5,8 +5,7 @@
 public static extern int IsAccelerator(
    IUnknown pAccel,
    uint cAccelEntries,
-   [MarshalAs(
-   UnmanagedType.LPArray)] uint[] lpMsg,
+   [MarshalAs(UnmanagedType.LPArray)] uint[] lpMsg,
    out uint lpwCmd
 );
 ```

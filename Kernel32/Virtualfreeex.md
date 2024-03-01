@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool VirtualFreeEx(
-   IntPtr hProcess,
+public static extern bool VirtualFreeEx(IntPtr hProcess,
    IntPtr lpAddress,
    UIntPtr dwSize,
    uint dwFreeType

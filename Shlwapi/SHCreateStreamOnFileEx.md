@@ -3,8 +3,7 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int SHCreateStreamOnFileEx(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszFile,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszFile,
    STGM grfMode,
    uint dwAttributes,
    bool fCreate,

@@ -4,8 +4,7 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int WriteStringStream(
    IStream pStm,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string psz
+   [MarshalAs(UnmanagedType.LPWStr)] string psz
 );
 ```
 

@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern bool DlgDirSelectComboBoxExA(
-   IntPtr hwndDlg,
+public static extern bool DlgDirSelectComboBoxExA(IntPtr hwndDlg,
    StringBuilder lpString,
    int cchOut,
    int idComboBox

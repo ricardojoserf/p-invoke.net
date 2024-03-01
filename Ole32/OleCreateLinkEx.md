@@ -4,8 +4,7 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateLinkEx(
    IOleClientSite pClientSite,
-   [MarshalAs(
-   UnmanagedType.LPStruct)] Guid rclsid,
+   [MarshalAs(UnmanagedType.LPStruct)] Guid rclsid,
    uint renderopt,
    ref FORMATETC pFormatEtc,
    IOleClientSite pClientSite2,

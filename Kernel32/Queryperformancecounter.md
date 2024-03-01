@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool QueryPerformanceCounter(
-   out long lpPerformanceCount
+public static extern bool QueryPerformanceCounter(out long lpPerformanceCount
 );
 ```
 

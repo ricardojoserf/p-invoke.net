@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool WritePrivateProfileString(
-   string lpAppName,
+public static extern bool WritePrivateProfileString(string lpAppName,
    string lpKeyName,
    string lpString,
    string lpFileName

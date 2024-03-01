@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool HeapWalk(
-   IntPtr hHeap,
+public static extern bool HeapWalk(IntPtr hHeap,
    ref PROCESS_HEAP_ENTRY lpEntry
 );
 ```

@@ -4,10 +4,8 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleGetIconOfClass(
    ref Guid rclsid,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpszLabel,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fUseTypeAsLabel,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpszLabel,
+   [MarshalAs(UnmanagedType.Bool)] bool fUseTypeAsLabel,
    out IntPtr phicon
 );
 ```

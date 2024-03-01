@@ -4,8 +4,7 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StringFromGUID2(
    ref Guid rguid,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] out string lpsz,
+   [MarshalAs(UnmanagedType.LPWStr)] out string lpsz,
    int cchMax
 );
 ```

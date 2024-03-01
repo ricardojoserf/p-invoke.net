@@ -5,8 +5,7 @@
 public static extern bool CryptEncrypt(
    IntPtr hKey,
    IntPtr hHash,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool Final,
+   [MarshalAs(UnmanagedType.Bool)] bool Final,
    uint dwFlags,
    IntPtr pbData,
    ref uint pdwDataLen,

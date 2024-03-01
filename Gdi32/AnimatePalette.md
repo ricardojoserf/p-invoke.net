@@ -6,8 +6,7 @@ public static extern bool AnimatePalette(
    IntPtr hPal,
    uint iStartIndex,
    uint cEntries,
-   [MarshalAs(
-   UnmanagedType.LPArray)] PALETTEENTRY[] ppe
+   [MarshalAs(UnmanagedType.LPArray)] PALETTEENTRY[] ppe
 );
 ```
 

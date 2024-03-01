@@ -4,8 +4,7 @@
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafeWaitHandle CreateWaitableTimer(
    IntPtr lpTimerAttributes,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bManualReset,
+   [MarshalAs(UnmanagedType.Bool)] bool bManualReset,
    string lpTimerName
 );
 ```

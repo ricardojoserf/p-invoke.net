@@ -3,10 +3,8 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathMatchSpec(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszFile,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszSpec
+   [MarshalAs(UnmanagedType.LPWStr)] string pszFile,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszSpec
 );
 ```
 

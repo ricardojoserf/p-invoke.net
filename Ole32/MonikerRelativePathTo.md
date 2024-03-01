@@ -6,8 +6,7 @@ public static extern int MonikerRelativePathTo(
    IMoniker pmkSrc,
    IMoniker pmkDest,
    out IMoniker ppmkRelPath,
-   [MarshalAs(
-   UnmanagedType.Bool)] out bool pdwReserved
+   [MarshalAs(UnmanagedType.Bool)] out bool pdwReserved
 );
 ```
 

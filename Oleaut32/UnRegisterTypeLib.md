@@ -3,8 +3,7 @@
 ```
 [DllImport("oleaut32.dll", CharSet = CharSet.Unicode, PreserveSig = false)]
 public static extern void UnRegisterTypeLib(
-   [MarshalAs(
-   UnmanagedType.LPStruct)] Guid libID,
+   [MarshalAs(UnmanagedType.LPStruct)] Guid libID,
    short wVerMajor,
    short wVerMinor,
    int lcid,

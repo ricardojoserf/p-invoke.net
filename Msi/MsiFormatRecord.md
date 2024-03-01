@@ -5,8 +5,7 @@
 public static extern int MsiFormatRecord(
    IntPtr hInstall,
    IntPtr hRecord,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] StringBuilder szResultBuf,
+   [MarshalAs(UnmanagedType.LPTStr)] StringBuilder szResultBuf,
    ref int pcchResultBuf
 );
 ```

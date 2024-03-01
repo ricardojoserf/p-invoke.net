@@ -4,8 +4,7 @@
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathFindOnPath(
    StringBuilder pszFile,
-   [MarshalAs(
-   UnmanagedType.LPArray,
+   [MarshalAs(UnmanagedType.LPArray,
    ArraySubType = UnmanagedType.LPWStr)] string[] ppszOtherDirs
 );
 ```

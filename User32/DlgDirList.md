@@ -2,10 +2,8 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern int DlgDirListA(
-   IntPtr hDlg,
-   [MarshalAs(
-   UnmanagedType.LPStr)] StringBuilder lpPathSpec,
+public static extern int DlgDirListA(IntPtr hDlg,
+   [MarshalAs(UnmanagedType.LPStr)] StringBuilder lpPathSpec,
    int nIDListBox,
    int nIDStaticPath,
    uint uFileType

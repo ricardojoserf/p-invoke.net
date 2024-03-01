@@ -4,8 +4,7 @@
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool GetDevicePowerState(
    IntPtr hDevice,
-   [MarshalAs(
-   UnmanagedType.Bool)] out bool pfOn
+   [MarshalAs(UnmanagedType.Bool)] out bool pfOn
 );
 ```
 

@@ -7,8 +7,7 @@ public static extern bool CreateProcessW(
    string lpCommandLine,
    IntPtr lpProcessAttributes,
    IntPtr lpThreadAttributes,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bInheritHandles,
+   [MarshalAs(UnmanagedType.Bool)] bool bInheritHandles,
    uint dwCreationFlags,
    IntPtr lpEnvironment,
    string lpCurrentDirectory,

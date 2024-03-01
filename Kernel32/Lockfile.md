@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool LockFile(
-   IntPtr hFile,
+public static extern bool LockFile(IntPtr hFile,
    uint dwFileOffsetLow,
    uint dwFileOffsetHigh,
    uint nNumberOfBytesToLockLow,

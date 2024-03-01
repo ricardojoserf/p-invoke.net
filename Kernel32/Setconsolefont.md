@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetConsoleFont(
-   IntPtr hConsoleOutput,
+public static extern bool SetConsoleFont(IntPtr hConsoleOutput,
    uint nFont
 );
 ```

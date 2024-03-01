@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true)]
-public static extern uint DrawStateA(
-   IntPtr hdc,
+public static extern uint DrawStateA(IntPtr hdc,
    IntPtr hbrFore,
    IntPtr qfnCallBack,
    IntPtr lData,

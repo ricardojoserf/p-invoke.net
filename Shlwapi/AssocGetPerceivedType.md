@@ -3,8 +3,7 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int AssocGetPerceivedType(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszExt,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszExt,
    out IntPtr ppszType
 );
 ```

@@ -4,8 +4,7 @@
 [DllImport("Avifil32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.U4)]
 public static extern uint AVIFileOpenW(
    ref IntPtr ppfile,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string szFile,
+   [MarshalAs(UnmanagedType.LPWStr)] string szFile,
    uint uMode,
    IntPtr lpHandler
 );

@@ -3,8 +3,7 @@
 ```
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool EnumDeviceDrivers(
-   [MarshalAs(
-   UnmanagedType.LPArray,
+   [MarshalAs(UnmanagedType.LPArray,
    ArraySubType = UnmanagedType.U4)] [In,
    Out] uint[] lpImageBase,
    uint cb,

@@ -4,8 +4,7 @@
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool EnumProcessModules(
    IntPtr hProcess,
-   [MarshalAs(
-   UnmanagedType.LPArray,
+   [MarshalAs(UnmanagedType.LPArray,
    ArraySubType = UnmanagedType.U4)] [In,
    Out] uint[] lphModule,
    uint cb,

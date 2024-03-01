@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true)]
-public static extern IntPtr DefWindowProcA(
-   IntPtr hWnd,
+public static extern IntPtr DefWindowProcA(IntPtr hWnd,
    uint Msg,
    IntPtr wParam,
    IntPtr lParam

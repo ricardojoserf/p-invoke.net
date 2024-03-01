@@ -4,8 +4,7 @@
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathAppend(
    StringBuilder pszPath,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszMore
+   [MarshalAs(UnmanagedType.LPWStr)] string pszMore
 );
 ```
 

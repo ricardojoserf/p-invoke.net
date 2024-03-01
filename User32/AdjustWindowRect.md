@@ -5,8 +5,7 @@
 public static extern bool AdjustWindowRect(
    ref RECT lpRect,
    uint dwStyle,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bMenu
+   [MarshalAs(UnmanagedType.Bool)] bool bMenu
 );
 ```
 

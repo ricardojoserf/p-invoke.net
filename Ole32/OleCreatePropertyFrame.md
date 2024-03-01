@@ -6,11 +6,9 @@ public static extern int OleCreatePropertyFrame(
    IntPtr hwndOwner,
    uint x,
    uint y,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpszCaption,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpszCaption,
    uint cObjects,
-   [MarshalAs(
-   UnmanagedType.Interface)] ref object ppUnk,
+   [MarshalAs(UnmanagedType.Interface)] ref object ppUnk,
    uint cPages,
    IntPtr pPageClsID,
    uint lcid,

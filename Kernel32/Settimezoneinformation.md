@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetTimeZoneInformation(
-   [In] ref TIME_ZONE_INFORMATION lpTimeZoneInformation
+public static extern bool SetTimeZoneInformation([In] ref TIME_ZONE_INFORMATION lpTimeZoneInformation
 );
 ```
 

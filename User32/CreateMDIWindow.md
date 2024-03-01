@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern IntPtr CreateMDIWindowA(
-   string lpClassName,
+public static extern IntPtr CreateMDIWindowA(string lpClassName,
    string lpWindowName,
    uint dwStyle,
    int X,

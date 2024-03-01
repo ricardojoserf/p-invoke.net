@@ -8,8 +8,7 @@ public static extern uint SHChangeNotifyRegister(
    uint fEvents,
    uint wMsg,
    int cEntries,
-   [MarshalAs(
-   UnmanagedType.LPArray)] SHChangeNotifyEntry[] pFsne
+   [MarshalAs(UnmanagedType.LPArray)] SHChangeNotifyEntry[] pFsne
 );
 ```
 

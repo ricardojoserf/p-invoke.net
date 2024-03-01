@@ -3,8 +3,7 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int PathCreateFromUrl(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszUrl,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszUrl,
    StringBuilder pszPath,
    ref uint pcchPath,
    uint dwFlags

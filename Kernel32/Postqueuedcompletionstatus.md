@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool PostQueuedCompletionStatus(
-   IntPtr CompletionPort,
+public static extern bool PostQueuedCompletionStatus(IntPtr CompletionPort,
    uint dwNumberOfBytesTransferred,
    UIntPtr dwCompletionKey,
    IntPtr lpOverlapped

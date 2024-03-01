@@ -3,10 +3,8 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int StrCmpLogicalW(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string psz1,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string psz2
+   [MarshalAs(UnmanagedType.LPWStr)] string psz1,
+   [MarshalAs(UnmanagedType.LPWStr)] string psz2
 );
 ```
 

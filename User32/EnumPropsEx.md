@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern int EnumPropsExA(
-   IntPtr hWnd,
+public static extern int EnumPropsExA(IntPtr hWnd,
    PropEnumProcEx lpEnumFunc,
    IntPtr lParam
 );

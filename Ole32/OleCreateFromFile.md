@@ -3,10 +3,8 @@
 ```
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateFromFile(
-   [MarshalAs(
-   UnmanagedType.LPStruct)] Guid rclsid,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpszFileName,
+   [MarshalAs(UnmanagedType.LPStruct)] Guid rclsid,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpszFileName,
    ref Guid riid,
    uint renderopt,
    ref FORMATETC pFormatEtc,

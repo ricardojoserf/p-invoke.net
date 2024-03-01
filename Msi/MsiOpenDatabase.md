@@ -3,8 +3,7 @@
 ```
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiOpenDatabase(
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szDatabasePath,
+   [MarshalAs(UnmanagedType.LPTStr)] string szDatabasePath,
    IntPtr phPersist,
    out IntPtr phDatabase
 );

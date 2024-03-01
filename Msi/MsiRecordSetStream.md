@@ -5,8 +5,7 @@
 public static extern int MsiRecordSetStream(
    IntPtr hRecord,
    int iField,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szFilePath
+   [MarshalAs(UnmanagedType.LPTStr)] string szFilePath
 );
 ```
 

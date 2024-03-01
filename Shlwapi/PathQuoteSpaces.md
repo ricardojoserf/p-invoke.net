@@ -3,8 +3,7 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr PathQuoteSpaces(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpsz
+   [MarshalAs(UnmanagedType.LPWStr)] string lpsz
 );
 ```
 

@@ -5,8 +5,7 @@
 public static extern uint WlanSetProfilePosition(
    IntPtr hClientHandle,
    ref GUID pInterfaceGuid,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string strProfileName,
+   [MarshalAs(UnmanagedType.LPWStr)] string strProfileName,
    uint dwPosition,
    IntPtr pReserved
 );

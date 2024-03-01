@@ -5,8 +5,7 @@
 public static extern bool CheckTokenMembership(
    IntPtr TokenHandle,
    IntPtr SidToCheck,
-   [MarshalAs(
-   UnmanagedType.Bool)] out bool IsMember
+   [MarshalAs(UnmanagedType.Bool)] out bool IsMember
 );
 ```
 

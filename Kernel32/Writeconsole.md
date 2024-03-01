@@ -2,10 +2,8 @@
 
 ```
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool WriteConsole(
-   IntPtr hConsoleOutput,
-   [MarshalAs(
-   UnmanagedType.LPArray)] byte[] lpBuffer,
+public static extern bool WriteConsole(IntPtr hConsoleOutput,
+   [MarshalAs(UnmanagedType.LPArray)] byte[] lpBuffer,
    uint nNumberOfCharsToWrite,
    out uint lpNumberOfCharsWritten,
    IntPtr lpReserved

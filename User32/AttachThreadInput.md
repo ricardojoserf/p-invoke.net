@@ -5,8 +5,7 @@
 public static extern bool AttachThreadInput(
    uint idAttach,
    uint idAttachTo,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fAttach
+   [MarshalAs(UnmanagedType.Bool)] bool fAttach
 );
 ```
 

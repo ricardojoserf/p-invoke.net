@@ -10,8 +10,7 @@ public static extern CREDUI_RETURN CredUIPromptForWindowsCredentials(
    uint ulInAuthBufferSize,
    out IntPtr ppvOutAuthBuffer,
    out uint pulOutAuthBufferSize,
-   [MarshalAs(
-   UnmanagedType.Bool)] ref bool pfSave,
+   [MarshalAs(UnmanagedType.Bool)] ref bool pfSave,
    CREDUIWIN dwFlags
 );
 ```

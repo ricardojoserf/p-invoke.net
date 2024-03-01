@@ -3,8 +3,7 @@
 ```
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int SHLoadIndirectString(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszSource,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszSource,
    StringBuilder pszOutBuf,
    uint cchOutBuf,
    IntPtr ppvReserved

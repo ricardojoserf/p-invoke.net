@@ -2,8 +2,7 @@
 
 ```
 [DllImport("shell32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern IntPtr ExtractAssociatedIconA(
-   IntPtr hInst,
+public static extern IntPtr ExtractAssociatedIconA(IntPtr hInst,
    StringBuilder lpIconPath,
    out ushort lpiIcon
 );

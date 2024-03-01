@@ -2,8 +2,7 @@
 
 ```
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool SetProcessAffinityMask(
-   IntPtr hProcess,
+public static extern bool SetProcessAffinityMask(IntPtr hProcess,
    UIntPtr dwProcessAffinityMask
 );
 ```

@@ -6,8 +6,7 @@ public static extern int CoSetProxyBlanket(
    IUnknown pProxy,
    uint dwAuthnSvc,
    uint dwAuthzSvc,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pServerPrincName,
+   [MarshalAs(UnmanagedType.LPWStr)] string pServerPrincName,
    uint dwAuthnLevel,
    uint dwImpLevel,
    IntPtr pAuthInfo,

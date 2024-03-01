@@ -4,8 +4,7 @@
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiRecordDataSize(
    IntPtr hRecord,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] string szName
+   [MarshalAs(UnmanagedType.LPTStr)] string szName
 );
 ```
 

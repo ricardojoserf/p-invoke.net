@@ -4,8 +4,7 @@
 [DllImport("urlmon.dll", SetLastError = true)]
 public static extern int CoInternetSetFeatureEnabled(
    int FeatureEntry,
-   [MarshalAs(
-   UnmanagedType.U4)] int dwFlags,
+   [MarshalAs(UnmanagedType.U4)] int dwFlags,
    bool fEnable
 );
 ```

@@ -5,8 +5,7 @@
 public static extern int MsiRecordGetString(
    IntPtr hRecord,
    int iField,
-   [MarshalAs(
-   UnmanagedType.LPTStr)] StringBuilder szValueBuf,
+   [MarshalAs(UnmanagedType.LPTStr)] StringBuilder szValueBuf,
    ref int pcchValueBuf
 );
 ```

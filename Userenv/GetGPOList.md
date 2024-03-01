@@ -3,8 +3,7 @@
 ```
 [DllImport("userenv.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern bool GetGPOList(
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpName,
+   [MarshalAs(UnmanagedType.LPWStr)] string lpName,
    IntPtr lpHandler,
    IntPtr lpArgs,
    uint dwFlags,

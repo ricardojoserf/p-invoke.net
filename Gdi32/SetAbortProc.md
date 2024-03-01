@@ -4,8 +4,7 @@
 [DllImport("gdi32.dll", SetLastError = true)]
 public static extern int SetAbortProc(
    IntPtr hdc,
-   [MarshalAs(
-   UnmanagedType.FunctionPtr)] ABORTPROC lpAbortProc
+   [MarshalAs(UnmanagedType.FunctionPtr)] ABORTPROC lpAbortProc
 );
 ```
 

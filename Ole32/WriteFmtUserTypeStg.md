@@ -5,8 +5,7 @@
 public static extern int WriteFmtUserTypeStg(
    IStorage pstg,
    uint cf,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string lpszUserType
+   [MarshalAs(UnmanagedType.LPWStr)] string lpszUserType
 );
 ```
 

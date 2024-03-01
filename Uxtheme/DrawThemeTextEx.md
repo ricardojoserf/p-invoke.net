@@ -7,8 +7,7 @@ public static extern HRESULT DrawThemeTextEx(
    HDC hdc,
    int iPartId,
    int iStateId,
-   [MarshalAs(
-   UnmanagedType.LPWStr)] string pszText,
+   [MarshalAs(UnmanagedType.LPWStr)] string pszText,
    int cchText,
    uint dwTextFlags,
    ref RECT pRect,

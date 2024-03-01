@@ -2,8 +2,7 @@
 
 ```
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
-public static extern IntPtr GetClassLongPtrA(
-   IntPtr hWnd,
+public static extern IntPtr GetClassLongPtrA(IntPtr hWnd,
    int nIndex
 );
 ```

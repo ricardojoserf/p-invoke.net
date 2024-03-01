@@ -2,12 +2,10 @@
 
 ```
 [DllImport("Kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern bool ReadDirectoryChangesW(
-   IntPtr hDirectory,
+public static extern bool ReadDirectoryChangesW(IntPtr hDirectory,
    IntPtr lpBuffer,
    uint nBufferLength,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool bWatchSubtree,
+   [MarshalAs(UnmanagedType.Bool)] bool bWatchSubtree,
    uint dwNotifyFilter,
    out uint lpBytesReturned,
    IntPtr lpOverlapped,

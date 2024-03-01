@@ -4,10 +4,8 @@
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleLockRunning(
    IOleObject pObject,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fLock,
-   [MarshalAs(
-   UnmanagedType.Bool)] bool fLastUnlockCloses
+   [MarshalAs(UnmanagedType.Bool)] bool fLock,
+   [MarshalAs(UnmanagedType.Bool)] bool fLastUnlockCloses
 );
 ```
 
