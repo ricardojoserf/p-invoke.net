@@ -7,4 +7,4 @@ public static extern bool DebugSetProcessKillOnExit(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-debugsetprocesskillonexit)
+[Microsoft documentation](TODO)

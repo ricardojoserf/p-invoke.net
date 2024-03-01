@@ -12,4 +12,4 @@ public static extern uint DhcpEnumSubnets(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dhcpssdk/nf-dhcpssdk-dhcpenumsubnets)
+[Microsoft documentation](TODO)

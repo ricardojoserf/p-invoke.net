@@ -10,4 +10,4 @@ public static extern uint GetRawInputDeviceInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getrawinputdeviceinfo)
+[Microsoft documentation](TODO)

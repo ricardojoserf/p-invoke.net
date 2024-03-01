@@ -9,4 +9,4 @@ public static extern bool SetDevicePower(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/nspapi/nf-nspapi-setdevicepower)
+[Microsoft documentation](TODO)

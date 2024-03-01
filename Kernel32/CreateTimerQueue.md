@@ -7,4 +7,4 @@ public static extern SafeTimerQueueHandle CreateTimerQueue(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/threadpoolapiset/nf-threadpoolapiset-createtimerqueue)
+[Microsoft documentation](TODO)

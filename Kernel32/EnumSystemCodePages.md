@@ -8,4 +8,4 @@ public static extern bool EnumSystemCodePages(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-enumsystemcodepages)
+[Microsoft documentation](TODO)

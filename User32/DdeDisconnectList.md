@@ -7,4 +7,4 @@ public static extern bool DdeDisconnectList(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddedisconnectlist)
+[Microsoft documentation](TODO)

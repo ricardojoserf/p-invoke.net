@@ -8,4 +8,4 @@ public static extern int PropStgNameToFmtId(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/propidlbase/nf-propidlbase-propstgnametofmtid)
+[Microsoft documentation](TODO)

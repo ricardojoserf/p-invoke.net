@@ -9,4 +9,4 @@ public static extern uint NetRemoteComputerSupports(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netremotecomputersupports)
+[Microsoft documentation](TODO)

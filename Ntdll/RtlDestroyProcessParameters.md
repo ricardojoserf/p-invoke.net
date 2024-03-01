@@ -7,4 +7,4 @@ public static extern void RtlDestroyProcessParameters(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-rtldestroyprocessparameters)
+[Microsoft documentation](TODO)

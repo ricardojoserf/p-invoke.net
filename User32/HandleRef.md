@@ -7,4 +7,4 @@ public static extern IntPtr HandleRef(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-handleref)
+[Microsoft documentation](TODO)

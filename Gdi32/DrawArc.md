@@ -15,4 +15,4 @@ public static extern bool DrawArc(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-drawarc)
+[Microsoft documentation](TODO)

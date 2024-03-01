@@ -9,4 +9,4 @@ public static extern uint ExpandEnvironmentStringsA(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-expandenvironmentstringsa)
+[Microsoft documentation](TODO)

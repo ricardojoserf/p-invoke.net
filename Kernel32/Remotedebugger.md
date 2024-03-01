@@ -7,4 +7,4 @@ public static extern bool RemoteDebuggerPresent(IntPtr hProcess,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-remotedebugger)
+[Microsoft documentation](TODO)

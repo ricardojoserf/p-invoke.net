@@ -8,4 +8,4 @@ public static extern IntPtr fopen(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/fopen-fopen-s-wfopen-wfopen-s)
+[Microsoft documentation](TODO)

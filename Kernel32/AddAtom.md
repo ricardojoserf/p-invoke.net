@@ -7,4 +7,4 @@ public static extern ushort AddAtom(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-addatom)
+[Microsoft documentation](TODO)

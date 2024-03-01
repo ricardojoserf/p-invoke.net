@@ -8,4 +8,4 @@ public static extern uint GetCurrentApplicationUserModelId(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-getcurrentapplicationusermodelid)
+[Microsoft documentation](TODO)

@@ -7,4 +7,4 @@ public static extern IntPtr GetModuleHandle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandle)
+[Microsoft documentation](TODO)

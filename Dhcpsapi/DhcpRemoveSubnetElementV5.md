@@ -9,4 +9,4 @@ public static extern uint DhcpRemoveSubnetElementV5(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dhcpssdk/nf-dhcpssdk-dhcremovesubnetelementv5)
+[Microsoft documentation](TODO)

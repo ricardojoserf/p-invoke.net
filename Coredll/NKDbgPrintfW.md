@@ -8,4 +8,4 @@ public static extern int NKDbgPrintfW(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/previous-versions/bb431741(v=msdn.10))
+[Microsoft documentation](TODO)

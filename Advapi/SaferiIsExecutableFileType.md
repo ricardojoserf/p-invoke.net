@@ -9,4 +9,4 @@ public static extern bool SaferiIsExecutableFileType(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsafer/nf-winsafer-saferisiexecutablefiletype)
+[Microsoft documentation](TODO)

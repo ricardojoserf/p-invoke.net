@@ -10,4 +10,4 @@ public static extern void PathYetAnotherMakeUniqueName(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-pathyetanothermakeuniquename)
+[Microsoft documentation](TODO)

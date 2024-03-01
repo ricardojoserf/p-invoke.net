@@ -10,4 +10,4 @@ public static extern int IsAccelerator(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleidl/nf-oleidl-isaccelerator)
+[Microsoft documentation](TODO)

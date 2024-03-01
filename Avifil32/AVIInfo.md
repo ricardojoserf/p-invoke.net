@@ -8,4 +8,4 @@ public static extern uint AVIInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-aviinfoa)
+[Microsoft documentation](TODO)

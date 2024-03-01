@@ -8,4 +8,4 @@ public static extern int NtGetContextThread(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/ntddk/nf-ntddk-ntgetcontextthread)
+[Microsoft documentation](TODO)

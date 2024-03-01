@@ -9,4 +9,4 @@ public static extern int GetKeyNameText(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getkeynametext)
+[Microsoft documentation](TODO)

@@ -9,4 +9,4 @@ public static extern int SB_GETTEXT(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sb_gettextw)
+[Microsoft documentation](TODO)

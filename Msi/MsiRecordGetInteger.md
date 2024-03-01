@@ -8,4 +8,4 @@ public static extern int MsiRecordGetInteger(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msirecordgetinteger)
+[Microsoft documentation](TODO)

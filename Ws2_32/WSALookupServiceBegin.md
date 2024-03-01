@@ -9,4 +9,4 @@ public static extern int WSALookupServiceBegin(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-wsalookupservicebegina)
+[Microsoft documentation](TODO)

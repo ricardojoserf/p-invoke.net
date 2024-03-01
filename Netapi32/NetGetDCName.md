@@ -9,4 +9,4 @@ public static extern uint NetGetDCName(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netgetdcname)
+[Microsoft documentation](TODO)

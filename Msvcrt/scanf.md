@@ -8,4 +8,4 @@ public static extern int scanf(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/scanf-wscanf)
+[Microsoft documentation](TODO)

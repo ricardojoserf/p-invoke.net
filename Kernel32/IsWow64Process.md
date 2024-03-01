@@ -8,4 +8,4 @@ public static extern bool IsWow64Process(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-iswow64process)
+[Microsoft documentation](TODO)

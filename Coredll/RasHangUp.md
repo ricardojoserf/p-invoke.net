@@ -7,4 +7,4 @@ public static extern int RasHangUp(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/rasapi32/nf-rasapi32-rashangupw)
+[Microsoft documentation](TODO)

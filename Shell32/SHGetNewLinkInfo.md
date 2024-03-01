@@ -11,4 +11,4 @@ public static extern int SHGetNewLinkInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shgetnewlinkinfow)
+[Microsoft documentation](TODO)

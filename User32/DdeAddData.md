@@ -10,4 +10,4 @@ public static extern IntPtr DdeAddData(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddeadddata)
+[Microsoft documentation](TODO)

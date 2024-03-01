@@ -11,4 +11,4 @@ public static extern int URLOpenBlockingStream(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/urlmon/nf-urlmon-urlopenblockingstreamw)
+[Microsoft documentation](TODO)

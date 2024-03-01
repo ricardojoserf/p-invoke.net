@@ -7,4 +7,4 @@ public static extern int StgIsStorageILockBytes(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-stgisstorageilockbytes)
+[Microsoft documentation](TODO)

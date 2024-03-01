@@ -7,4 +7,4 @@ public static extern int InSendMessageEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-insendmessageexw)
+[Microsoft documentation](TODO)

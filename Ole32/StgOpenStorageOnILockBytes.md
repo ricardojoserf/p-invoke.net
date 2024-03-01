@@ -12,4 +12,4 @@ public static extern int StgOpenStorageOnILockBytes(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-stgopenstorageonilockbytes)
+[Microsoft documentation](TODO)

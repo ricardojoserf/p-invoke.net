@@ -9,4 +9,4 @@ public static extern bool SetupFindNextLine(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/setupapi/nf-setupapi-setupfindnextlinew)
+[Microsoft documentation](TODO)

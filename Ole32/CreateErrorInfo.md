@@ -7,4 +7,4 @@ public static extern int CreateErrorInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objidl/nf-objidl-createerrorinfo)
+[Microsoft documentation](TODO)

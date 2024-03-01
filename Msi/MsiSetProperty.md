@@ -9,4 +9,4 @@ public static extern int MsiSetProperty(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msisetpropertyw)
+[Microsoft documentation](TODO)

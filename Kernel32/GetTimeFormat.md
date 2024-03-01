@@ -12,4 +12,4 @@ public static extern uint GetTimeFormat(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-gettimeformatw)
+[Microsoft documentation](TODO)

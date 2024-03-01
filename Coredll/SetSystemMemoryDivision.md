@@ -9,4 +9,4 @@ public static extern int SetSystemMemoryDivision(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/nk/nf-nk-setsystemmemorydivision)
+[Microsoft documentation](TODO)

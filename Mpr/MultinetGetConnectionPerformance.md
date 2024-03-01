@@ -8,4 +8,4 @@ public static extern uint MultinetGetConnectionPerformance(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/mprapi/nf-mprapi-multinetgetconnectionperformance)
+[Microsoft documentation](TODO)

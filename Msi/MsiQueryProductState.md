@@ -7,4 +7,4 @@ public static extern int MsiQueryProductState(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiqueryproductstate)
+[Microsoft documentation](TODO)

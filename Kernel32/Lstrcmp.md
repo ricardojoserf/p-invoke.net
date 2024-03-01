@@ -7,4 +7,4 @@ public static extern int lstrcmp(string lpString1,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-lstrcmpw)
+[Microsoft documentation](TODO)

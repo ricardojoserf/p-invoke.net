@@ -7,4 +7,4 @@ public static extern bool ClientThreadSetup(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-clientthreadsetup)
+[Microsoft documentation](TODO)

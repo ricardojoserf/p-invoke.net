@@ -10,4 +10,4 @@ public static extern int MsiGetTargetPath(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigettargetpathw)
+[Microsoft documentation](TODO)

@@ -7,4 +7,4 @@ public static extern uint GetCurrentProcessorNumber(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getcurrentprocessornumber)
+[Microsoft documentation](TODO)

@@ -10,4 +10,4 @@ public static extern bool ConvertStringSecurityDescriptorToSecurityDescriptor(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/aclapi/nf-aclapi-convertstringsecuritydescriptortosecuritydescriptora)
+[Microsoft documentation](TODO)

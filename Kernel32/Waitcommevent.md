@@ -8,4 +8,4 @@ public static extern bool WaitCommEvent(IntPtr hFile,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/commctrl/nf-commctrl-waitcommevent)
+[Microsoft documentation](TODO)

@@ -8,4 +8,4 @@ public static extern bool ILIsEqual(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-ilequal)
+[Microsoft documentation](TODO)

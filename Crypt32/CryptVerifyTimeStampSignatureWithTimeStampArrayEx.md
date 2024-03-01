@@ -17,4 +17,4 @@ public static extern bool CryptVerifyTimeStampSignatureWithTimeStampArrayEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-cryptverifytimestampsignaturewithtimestamparrayex)
+[Microsoft documentation](TODO)

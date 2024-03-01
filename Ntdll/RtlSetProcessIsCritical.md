@@ -10,4 +10,4 @@ public static extern int RtlSetProcessIsCritical(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntsetinformationprocess)
+[Microsoft documentation](TODO)

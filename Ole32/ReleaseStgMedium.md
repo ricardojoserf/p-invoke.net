@@ -7,4 +7,4 @@ public static extern void ReleaseStgMedium(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleidl/nf-oleidl-releasestgmedium)
+[Microsoft documentation](TODO)

@@ -9,4 +9,4 @@ public static extern int sprintf(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/sprintf-sprintf-s)
+[Microsoft documentation](TODO)

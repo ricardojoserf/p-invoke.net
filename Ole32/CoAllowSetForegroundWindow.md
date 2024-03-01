@@ -8,4 +8,4 @@ public static extern int CoAllowSetForegroundWindow(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-coallowsetforegroundwindow)
+[Microsoft documentation](TODO)

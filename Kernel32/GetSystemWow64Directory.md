@@ -8,4 +8,4 @@ public static extern uint GetSystemWow64Directory(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemwow64directoryw)
+[Microsoft documentation](TODO)

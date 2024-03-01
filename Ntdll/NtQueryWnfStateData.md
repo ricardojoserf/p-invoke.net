@@ -12,4 +12,4 @@ public static extern int NtQueryWnfStateData(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntdef/nf-ntdef-ntquerywnfstatedata)
+[Microsoft documentation](TODO)

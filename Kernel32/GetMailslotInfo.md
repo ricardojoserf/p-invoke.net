@@ -11,4 +11,4 @@ public static extern bool GetMailslotInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getmailslotinfow)
+[Microsoft documentation](TODO)

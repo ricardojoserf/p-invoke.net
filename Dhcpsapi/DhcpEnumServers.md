@@ -10,4 +10,4 @@ public static extern uint DhcpEnumServers(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dhcpssdk/nf-dhcpssdk-dhcpenumservers)
+[Microsoft documentation](TODO)

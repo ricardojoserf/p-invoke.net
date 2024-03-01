@@ -8,4 +8,4 @@ public static extern int GetErrorInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objidl/nf-objidl-geterrorinfo)
+[Microsoft documentation](TODO)

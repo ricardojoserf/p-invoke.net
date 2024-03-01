@@ -7,4 +7,4 @@ public static extern int SetWindowTextLength(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowtextlengthw)
+[Microsoft documentation](TODO)

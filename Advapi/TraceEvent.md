@@ -8,4 +8,4 @@ public static extern uint TraceEvent(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/evntprov/nf-evntprov-traceevent)
+[Microsoft documentation](TODO)

@@ -9,4 +9,4 @@ public static extern bool ReadPwrScheme(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/powrprof/nf-powrprof-readpwrsceme)
+[Microsoft documentation](TODO)

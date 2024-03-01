@@ -9,4 +9,4 @@ public static extern uint DsRoleGetPrimaryDomainInformation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dsgetdc/nf-dsgetdc-dsrolegetprimarydomaininformation)
+[Microsoft documentation](TODO)

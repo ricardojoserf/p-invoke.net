@@ -10,4 +10,4 @@ public static extern int MsiGetSourcePath(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetsourcepathw)
+[Microsoft documentation](TODO)

@@ -13,4 +13,4 @@ public static extern uint NetQueryDisplayInformation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netquerydisplayinformation)
+[Microsoft documentation](TODO)

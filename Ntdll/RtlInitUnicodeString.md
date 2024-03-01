@@ -8,4 +8,4 @@ public static extern void RtlInitUnicodeString(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntdef/nf-ntdef-rtlinitunicodestring)
+[Microsoft documentation](TODO)

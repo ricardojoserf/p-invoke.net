@@ -8,4 +8,4 @@ public static extern bool CheckRemoteDebuggerPresent(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-checkremotedebuggerpresent)
+[Microsoft documentation](TODO)

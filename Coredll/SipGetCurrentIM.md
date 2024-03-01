@@ -8,4 +8,4 @@ public static extern int SipGetCurrentIM(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/imm/nf-imm-sipgetcurrentim)
+[Microsoft documentation](TODO)

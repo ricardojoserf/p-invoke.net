@@ -10,4 +10,4 @@ public static extern int CreateUri(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-createuri)
+[Microsoft documentation](TODO)

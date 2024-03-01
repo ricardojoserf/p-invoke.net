@@ -11,4 +11,4 @@ public static extern bool GetProductInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getproductinfo)
+[Microsoft documentation](TODO)

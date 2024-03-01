@@ -12,4 +12,4 @@ public static extern int CompareString(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-comparestring)
+[Microsoft documentation](TODO)

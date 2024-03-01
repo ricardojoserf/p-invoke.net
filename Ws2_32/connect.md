@@ -9,4 +9,4 @@ public static extern int connect(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-connect)
+[Microsoft documentation](TODO)

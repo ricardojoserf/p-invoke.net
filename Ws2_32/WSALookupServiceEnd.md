@@ -7,4 +7,4 @@ public static extern int WSALookupServiceEnd(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-wsalookupserviceend)
+[Microsoft documentation](TODO)

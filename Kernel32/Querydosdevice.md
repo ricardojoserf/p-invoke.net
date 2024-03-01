@@ -8,4 +8,4 @@ public static extern uint QueryDosDevice(string lpDeviceName,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ioapiset/nf-ioapiset-querydosdevice)
+[Microsoft documentation](TODO)

@@ -17,4 +17,4 @@ public static extern bool CryptVerifyTimeStampSignatureForNoChainWithTimeStampAr
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-cryptverifytimestampsignaturefornochainwithtimestamparrayex)
+[Microsoft documentation](TODO)

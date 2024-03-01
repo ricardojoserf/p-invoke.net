@@ -13,4 +13,4 @@ public static extern int NtQueryDirectoryObject(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-zwquerydirectoryobject)
+[Microsoft documentation](TODO)

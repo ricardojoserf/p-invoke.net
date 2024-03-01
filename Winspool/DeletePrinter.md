@@ -7,4 +7,4 @@ public static extern bool DeletePrinter(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-deleteprintera)
+[Microsoft documentation](TODO)

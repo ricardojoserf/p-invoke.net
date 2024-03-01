@@ -12,4 +12,4 @@ public static extern bool GetPrinterData(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-getprinterdataa)
+[Microsoft documentation](TODO)

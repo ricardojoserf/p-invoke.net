@@ -10,4 +10,4 @@ public static extern int WSALookupServiceNext(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-wsalookupservicenexta)
+[Microsoft documentation](TODO)

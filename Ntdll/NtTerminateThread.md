@@ -8,4 +8,4 @@ public static extern int NtTerminateThread(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntterminatethread)
+[Microsoft documentation](TODO)

@@ -9,4 +9,4 @@ public static extern bool QueryFullProcessImageName(IntPtr hProcess,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-queryfullprocessimagenamea)
+[Microsoft documentation](TODO)

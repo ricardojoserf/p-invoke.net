@@ -9,4 +9,4 @@ public static extern IntPtr DdeInitializeA(ref uint pidInst,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddeinitializea)
+[Microsoft documentation](TODO)

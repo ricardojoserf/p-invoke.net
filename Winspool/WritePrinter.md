@@ -10,4 +10,4 @@ public static extern bool WritePrinter(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-writeprintera)
+[Microsoft documentation](TODO)

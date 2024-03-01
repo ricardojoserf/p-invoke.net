@@ -8,4 +8,4 @@ public static extern bool MsiRecordIsNull(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msirecordisnull)
+[Microsoft documentation](TODO)

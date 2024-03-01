@@ -9,4 +9,4 @@ public static extern bool FindResource(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-findresourcew)
+[Microsoft documentation](TODO)

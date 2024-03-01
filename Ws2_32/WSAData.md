@@ -7,4 +7,4 @@ public static extern IntPtr WSAData(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/winsock/wsadata)
+[Microsoft documentation](TODO)

@@ -8,4 +8,4 @@ public static extern bool GenerateConsoleCtrlEvent(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-generateconsolectrlevent)
+[Microsoft documentation](TODO)

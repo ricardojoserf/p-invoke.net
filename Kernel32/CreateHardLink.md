@@ -9,4 +9,4 @@ public static extern bool CreateHardLink(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createhardlink)
+[Microsoft documentation](TODO)

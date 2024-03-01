@@ -9,4 +9,4 @@ public static extern int NtOpenDirectoryObject(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-zwopendirectoryobject)
+[Microsoft documentation](TODO)

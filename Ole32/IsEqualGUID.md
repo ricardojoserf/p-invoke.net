@@ -8,4 +8,4 @@ public static extern int IsEqualGUID(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-isequalguid)
+[Microsoft documentation](TODO)

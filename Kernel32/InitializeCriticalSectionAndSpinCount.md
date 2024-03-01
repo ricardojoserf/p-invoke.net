@@ -8,4 +8,4 @@ public static extern bool InitializeCriticalSectionAndSpinCount(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-initializecriticalsectionandspincoun)
+[Microsoft documentation](TODO)

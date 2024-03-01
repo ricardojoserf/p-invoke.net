@@ -10,4 +10,4 @@ public static extern bool DeviceEventWorker(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-deviceeventworker)
+[Microsoft documentation](TODO)

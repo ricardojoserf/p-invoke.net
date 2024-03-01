@@ -9,4 +9,4 @@ public static extern IntPtr memset(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/memset-memset-s)
+[Microsoft documentation](TODO)

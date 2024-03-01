@@ -12,4 +12,4 @@ public static extern int StgCreatePropStg(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/propsys/nf-propsys-stgcreatepropstg)
+[Microsoft documentation](TODO)

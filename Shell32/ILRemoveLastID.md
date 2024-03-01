@@ -7,4 +7,4 @@ public static extern bool ILRemoveLastID(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-ilremovelastid)
+[Microsoft documentation](TODO)

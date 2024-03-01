@@ -11,4 +11,4 @@ public static extern bool GetUserObjectInformation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getuserobjectinformation)
+[Microsoft documentation](TODO)

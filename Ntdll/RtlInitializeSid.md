@@ -9,4 +9,4 @@ public static extern int RtlInitializeSid(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntsecapi/nf-ntsecapi-rtlinitializesid)
+[Microsoft documentation](TODO)

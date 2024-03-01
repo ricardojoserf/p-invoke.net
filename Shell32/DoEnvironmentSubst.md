@@ -8,4 +8,4 @@ public static extern uint DoEnvironmentSubst(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-doenvironmentsubstw)
+[Microsoft documentation](TODO)

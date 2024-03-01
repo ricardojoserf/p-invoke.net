@@ -7,4 +7,4 @@ public static extern uint LsaNtStatusToWinError(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntstatus/nf-ntstatus-lsantstatustowinerror)
+[Microsoft documentation](TODO)

@@ -10,4 +10,4 @@ public static extern bool EnumResourceNames(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-enumresourcenamesw)
+[Microsoft documentation](TODO)

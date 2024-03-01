@@ -9,4 +9,4 @@ public static extern int MsiSetTargetPath(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msisettargetpathw)
+[Microsoft documentation](TODO)

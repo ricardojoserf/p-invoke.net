@@ -8,4 +8,4 @@ public static extern uint NetRemoteTOD(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netremotetod)
+[Microsoft documentation](TODO)

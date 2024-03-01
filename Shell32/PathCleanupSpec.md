@@ -8,4 +8,4 @@ public static extern void PathCleanupSpec(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-pathcleanupspecw)
+[Microsoft documentation](TODO)

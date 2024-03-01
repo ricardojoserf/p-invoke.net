@@ -7,4 +7,4 @@ public static extern uint RtlNtStatusToDosError(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-rtlntstatetodoserror)
+[Microsoft documentation](TODO)

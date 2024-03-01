@@ -7,4 +7,4 @@ public static extern bool EndPagePrinter(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-endpageprinter)
+[Microsoft documentation](TODO)

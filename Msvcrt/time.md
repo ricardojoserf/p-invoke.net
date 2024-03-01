@@ -7,4 +7,4 @@ public static extern int time(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/time)
+[Microsoft documentation](TODO)

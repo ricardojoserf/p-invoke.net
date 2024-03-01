@@ -10,4 +10,4 @@ public static extern int MsiGetLanguage(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msigetlanguagew)
+[Microsoft documentation](TODO)

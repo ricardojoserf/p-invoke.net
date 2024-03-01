@@ -11,4 +11,4 @@ public static extern void PathMakeUniqueName(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-pathmakeuniquename)
+[Microsoft documentation](TODO)

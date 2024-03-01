@@ -16,4 +16,4 @@ public static extern int NtMapViewOfSection(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntmapviewofsection)
+[Microsoft documentation](TODO)

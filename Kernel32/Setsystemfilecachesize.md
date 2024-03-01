@@ -9,4 +9,4 @@ public static extern bool SetSystemFileCacheSize(IntPtr hFile,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-setsystemfilecachesize)
+[Microsoft documentation](TODO)

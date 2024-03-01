@@ -9,4 +9,4 @@ public static extern bool CeGetUserNotification(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/previous-versions/bb416362(v%3Dmsdn.10))
+[Microsoft documentation](TODO)

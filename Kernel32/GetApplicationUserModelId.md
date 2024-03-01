@@ -9,4 +9,4 @@ public static extern uint GetApplicationUserModelId(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shappmgr/nf-shappmgr-getapplicationusermodelid)
+[Microsoft documentation](TODO)

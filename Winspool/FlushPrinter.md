@@ -11,4 +11,4 @@ public static extern bool FlushPrinter(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-flushprinter)
+[Microsoft documentation](TODO)

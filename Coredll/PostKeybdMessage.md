@@ -12,4 +12,4 @@ public static extern bool PostKeybdMessage(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/previous-versions/windows/embedded/ms938032(v=msdn.10))
+[Microsoft documentation](TODO)

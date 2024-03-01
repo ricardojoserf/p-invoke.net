@@ -8,4 +8,4 @@ public static extern int CoLoadLibrary(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-coloadlibrary)
+[Microsoft documentation](TODO)

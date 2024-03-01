@@ -8,4 +8,4 @@ public static extern bool DoReaderMode(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/commctrl/nf-commctrl-doreadermode)
+[Microsoft documentation](TODO)

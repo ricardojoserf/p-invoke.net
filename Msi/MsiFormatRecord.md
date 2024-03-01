@@ -10,4 +10,4 @@ public static extern int MsiFormatRecord(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiformatrecordw)
+[Microsoft documentation](TODO)

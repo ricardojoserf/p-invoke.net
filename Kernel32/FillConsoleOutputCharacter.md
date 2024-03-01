@@ -11,4 +11,4 @@ public static extern bool FillConsoleOutputCharacter(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/consoleapi/nf-consoleapi-fillconsoleoutputcharacterw)
+[Microsoft documentation](TODO)

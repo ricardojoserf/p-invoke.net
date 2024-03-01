@@ -9,4 +9,4 @@ public static extern uint DhcpGetClientInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dhcpssdk/nf-dhcpssdk-dhcpgetclientinfo)
+[Microsoft documentation](TODO)

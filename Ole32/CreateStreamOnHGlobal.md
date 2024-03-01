@@ -9,4 +9,4 @@ public static extern int CreateStreamOnHGlobal(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objidl/nf-objidl-createstreamonhglobal)
+[Microsoft documentation](TODO)

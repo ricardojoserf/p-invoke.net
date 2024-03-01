@@ -12,4 +12,4 @@ public static extern uint GetCharacterPlacement(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getcharacterplacement)
+[Microsoft documentation](TODO)

@@ -7,4 +7,4 @@ public static extern IntPtr SOCKET_OPTION_NAME(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/winsock/socket-option-name)
+[Microsoft documentation](TODO)

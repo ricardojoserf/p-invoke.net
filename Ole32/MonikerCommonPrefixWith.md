@@ -9,4 +9,4 @@ public static extern int MonikerCommonPrefixWith(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objidl/nf-objidl-monikercommonprefixwith)
+[Microsoft documentation](TODO)

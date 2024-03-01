@@ -11,4 +11,4 @@ public static extern uint NetMessageBufferSend(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netmessagebuffersend)
+[Microsoft documentation](TODO)

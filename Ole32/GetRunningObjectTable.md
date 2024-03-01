@@ -8,4 +8,4 @@ public static extern int GetRunningObjectTable(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleidl/nf-oleidl-getrunningobjecttable)
+[Microsoft documentation](TODO)

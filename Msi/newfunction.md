@@ -7,4 +7,4 @@ public static extern int newfunction(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msifunction)
+[Microsoft documentation](TODO)

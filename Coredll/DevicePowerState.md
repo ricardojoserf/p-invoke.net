@@ -9,4 +9,4 @@ public static extern uint DevicePowerState(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/nlmsprep/nf-nlmsprep-devicepowerstate)
+[Microsoft documentation](TODO)

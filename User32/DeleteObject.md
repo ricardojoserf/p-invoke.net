@@ -7,4 +7,4 @@ public static extern bool DeleteObject(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/gdi32/nf-gdi32-deleteobject)
+[Microsoft documentation](TODO)

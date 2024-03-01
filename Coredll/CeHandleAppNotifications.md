@@ -8,4 +8,4 @@ public static extern bool CeHandleAppNotifications(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/previous-versions/bb416370(v%3Dmsdn.10))
+[Microsoft documentation](TODO)

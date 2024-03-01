@@ -7,4 +7,4 @@ public static extern int DllGetVersion(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-dllgetversion)
+[Microsoft documentation](TODO)

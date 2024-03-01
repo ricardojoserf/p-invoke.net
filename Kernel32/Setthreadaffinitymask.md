@@ -7,4 +7,4 @@ public static extern bool SetThreadAffinityMask(IntPtr hThread,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-setthreadaffinitymask)
+[Microsoft documentation](TODO)

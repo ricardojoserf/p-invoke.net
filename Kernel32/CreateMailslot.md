@@ -10,4 +10,4 @@ public static extern SafeMailslotHandle CreateMailslot(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createmailslotw)
+[Microsoft documentation](TODO)

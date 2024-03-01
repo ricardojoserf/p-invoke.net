@@ -7,4 +7,4 @@ public static extern bool DeletePrinterConnection(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-deleteprinterconnectiona)
+[Microsoft documentation](TODO)

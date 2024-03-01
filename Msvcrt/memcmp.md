@@ -9,4 +9,4 @@ public static extern int memcmp(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/memcmp)
+[Microsoft documentation](TODO)

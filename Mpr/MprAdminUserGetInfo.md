@@ -10,4 +10,4 @@ public static extern uint MprAdminUserGetInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/nf-lmaccess-mpradminusergetinfo)
+[Microsoft documentation](TODO)

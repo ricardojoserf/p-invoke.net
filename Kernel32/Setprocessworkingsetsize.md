@@ -8,4 +8,4 @@ public static extern bool SetProcessWorkingSetSize(IntPtr hProcess,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-setprocessworkingsetsize)
+[Microsoft documentation](TODO)

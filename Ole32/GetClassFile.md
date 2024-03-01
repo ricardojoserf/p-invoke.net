@@ -8,4 +8,4 @@ public static extern int GetClassFile(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-getclassfile)
+[Microsoft documentation](TODO)

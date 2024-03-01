@@ -7,4 +7,4 @@ public static extern bool PathIsExe(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-pathisexew)
+[Microsoft documentation](TODO)

@@ -7,4 +7,4 @@ public static extern bool DnsFlushResolverCacheEntry(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/windns/nf-windns-dnsflushresolvercacheentry)
+[Microsoft documentation](TODO)

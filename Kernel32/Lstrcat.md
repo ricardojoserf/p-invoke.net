@@ -7,4 +7,4 @@ public static extern IntPtr lstrcat(StringBuilder lpString1,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-lstrcatw)
+[Microsoft documentation](TODO)

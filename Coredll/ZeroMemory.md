@@ -8,4 +8,4 @@ public static extern void ZeroMemory(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-zeromemory)
+[Microsoft documentation](TODO)

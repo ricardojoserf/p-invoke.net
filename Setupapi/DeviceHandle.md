@@ -10,4 +10,4 @@ public static extern IntPtr DeviceHandle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/setupapi/nf-setupapi-setupdiopendeviceinterface)
+[Microsoft documentation](TODO)

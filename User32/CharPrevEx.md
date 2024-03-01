@@ -10,4 +10,4 @@ public static extern IntPtr CharPrevEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-charprevexw)
+[Microsoft documentation](TODO)

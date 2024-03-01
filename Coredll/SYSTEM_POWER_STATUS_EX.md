@@ -7,4 +7,4 @@ public static extern bool GetSystemPowerStatusEx(ref SYSTEM_POWER_STATUS_EX lpSy
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/ns-winbase-system_power_status_ex2)
+[Microsoft documentation](TODO)

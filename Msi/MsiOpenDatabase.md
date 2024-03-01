@@ -9,4 +9,4 @@ public static extern int MsiOpenDatabase(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiopendatabasew)
+[Microsoft documentation](TODO)

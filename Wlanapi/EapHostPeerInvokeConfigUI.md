@@ -11,4 +11,4 @@ public static extern uint EapHostPeerInvokeConfigUI(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wlanapi/nf-wlanapi-eaphostpeerinvokeconfigui)
+[Microsoft documentation](TODO)

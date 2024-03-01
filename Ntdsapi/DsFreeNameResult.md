@@ -7,4 +7,4 @@ public static extern void DsFreeNameResult(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsfreerename)
+[Microsoft documentation](TODO)

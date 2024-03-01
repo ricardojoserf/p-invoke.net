@@ -9,4 +9,4 @@ public static extern int MsiRecordSetString(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msirecordsetstring)
+[Microsoft documentation](TODO)

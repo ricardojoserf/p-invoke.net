@@ -10,4 +10,4 @@ public static extern int RtlAdjustPrivilege(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ntifs/nf-ntifs-rtladjustprivilege)
+[Microsoft documentation](TODO)

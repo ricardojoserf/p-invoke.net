@@ -18,4 +18,4 @@ public static extern bool CreateRestrictedToken(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/userenv/nf-userenv-createrestrictedtoken)
+[Microsoft documentation](TODO)

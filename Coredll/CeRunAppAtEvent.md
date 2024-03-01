@@ -8,4 +8,4 @@ public static extern bool CeRunAppAtEvent(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/previous-versions/bb416383(v%3Dmsdn.10))
+[Microsoft documentation](TODO)

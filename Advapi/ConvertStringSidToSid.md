@@ -8,4 +8,4 @@ public static extern bool ConvertStringSidToSid(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/securitybaseapi/nf-securitybaseapi-convertstringsidtosida)
+[Microsoft documentation](TODO)

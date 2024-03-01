@@ -14,4 +14,4 @@ public static extern uint DhcpEnumSubnetElementsV5(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dhcpssdk/nf-dhcpssdk-dhcpenumsubnetelementsv5)
+[Microsoft documentation](TODO)

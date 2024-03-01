@@ -7,4 +7,4 @@ public static extern bool SystemTimeToFileTime([In] ref SYSTEMTIME lpSystemTime,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-systemtimetofiletime)
+[Microsoft documentation](TODO)

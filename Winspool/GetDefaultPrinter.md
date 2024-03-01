@@ -8,4 +8,4 @@ public static extern bool GetDefaultPrinter(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-getdefaultprintera)
+[Microsoft documentation](TODO)

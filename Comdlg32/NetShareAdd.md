@@ -10,4 +10,4 @@ public static extern NET_API_STATUS NetShareAdd(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/commdlg/nf-commdlg-netshareadd)
+[Microsoft documentation](TODO)

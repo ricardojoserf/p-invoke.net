@@ -8,4 +8,4 @@ public static extern int OleTranslateAccelerator(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleidl/nf-oleidl-oletranslateaccelerator)
+[Microsoft documentation](TODO)

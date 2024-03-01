@@ -8,4 +8,4 @@ public static extern void FreePropVariantArray(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/propidlbase/nf-propidlbase-freepropvariantarray)
+[Microsoft documentation](TODO)

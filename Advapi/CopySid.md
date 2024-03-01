@@ -9,4 +9,4 @@ public static extern bool CopySid(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/securitybaseapi/nf-securitybaseapi-copysida)
+[Microsoft documentation](TODO)

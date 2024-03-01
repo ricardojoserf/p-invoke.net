@@ -8,4 +8,4 @@ public static extern bool DdeKeepStringHandle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddekeepstringhandle)
+[Microsoft documentation](TODO)

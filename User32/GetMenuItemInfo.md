@@ -10,4 +10,4 @@ public static extern bool GetMenuItemInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getmenuiteminfo)
+[Microsoft documentation](TODO)

@@ -9,4 +9,4 @@ public static extern IntPtr accept(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winsock/nf-winsock-accept)
+[Microsoft documentation](TODO)

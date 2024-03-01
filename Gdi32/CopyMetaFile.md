@@ -8,4 +8,4 @@ public static extern IntPtr CopyMetaFile(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-copymetafile)
+[Microsoft documentation](TODO)

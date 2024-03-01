@@ -9,4 +9,4 @@ public static extern bool DdeSetQualityOfService(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddesetqualityofservice)
+[Microsoft documentation](TODO)

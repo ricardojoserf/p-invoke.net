@@ -8,4 +8,4 @@ public static extern int DdeCmpStringHandles(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddecmpstringhandles)
+[Microsoft documentation](TODO)

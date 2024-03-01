@@ -10,4 +10,4 @@ public static extern int GetDlgItemText(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getdlgitemtext)
+[Microsoft documentation](TODO)

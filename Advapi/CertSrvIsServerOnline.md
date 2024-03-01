@@ -7,4 +7,4 @@ public static extern bool CertSrvIsServerOnline(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/certsrv/nf-certsrv-certsrvisserveronline)
+[Microsoft documentation](TODO)

@@ -19,4 +19,4 @@ public static extern bool CryptVerifyTimeStampSignatureWithProviderEx4(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-cryptverifytimestampsignaturewithproviderex4)
+[Microsoft documentation](TODO)

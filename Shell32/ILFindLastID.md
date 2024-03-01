@@ -7,4 +7,4 @@ public static extern IntPtr ILFindLastID(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-ilfindlastid)
+[Microsoft documentation](TODO)

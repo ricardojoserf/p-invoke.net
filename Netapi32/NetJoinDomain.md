@@ -12,4 +12,4 @@ public static extern uint NetJoinDomain(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netjoindomain)
+[Microsoft documentation](TODO)

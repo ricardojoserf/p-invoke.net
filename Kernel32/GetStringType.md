@@ -11,4 +11,4 @@ public static extern bool GetStringType(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnls/nf-winnls-getstringtypew)
+[Microsoft documentation](TODO)

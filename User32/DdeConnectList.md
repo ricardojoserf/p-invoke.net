@@ -11,4 +11,4 @@ public static extern IntPtr DdeConnectList(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddeconnectlist)
+[Microsoft documentation](TODO)

@@ -9,4 +9,4 @@ public static extern IntPtr OpenSCManager(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/scapi/nf-scapi-openscmanagera)
+[Microsoft documentation](TODO)

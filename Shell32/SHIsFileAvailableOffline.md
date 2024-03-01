@@ -8,4 +8,4 @@ public static extern int SHIsFileAvailableOffline(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shisfileavailableoffline)
+[Microsoft documentation](TODO)

@@ -13,4 +13,4 @@ public static extern bool CryptStringToBinary(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-cryptstringtobinary)
+[Microsoft documentation](TODO)

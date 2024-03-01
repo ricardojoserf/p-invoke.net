@@ -8,4 +8,4 @@ public static extern int MsiRecordDataSize(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msirecorddatasize)
+[Microsoft documentation](TODO)

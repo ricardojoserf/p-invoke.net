@@ -9,4 +9,4 @@ public static extern int ZwOpenSection(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntopensection)
+[Microsoft documentation](TODO)

@@ -8,4 +8,4 @@ public static extern bool Beep(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-beep)
+[Microsoft documentation](TODO)

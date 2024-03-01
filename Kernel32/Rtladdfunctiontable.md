@@ -8,4 +8,4 @@ public static extern bool RtlAddFunctionTable(ref RUNTIME_FUNCTION FunctionTable
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/rtlapi/nf-rtlapi-rtladdfunctiontable)
+[Microsoft documentation](TODO)

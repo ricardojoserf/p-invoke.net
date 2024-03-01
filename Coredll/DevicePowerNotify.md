@@ -9,4 +9,4 @@ public static extern IntPtr DevicePowerNotify(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ktmw32/nf-ktmw32-devicepowernotify)
+[Microsoft documentation](TODO)

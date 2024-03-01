@@ -9,4 +9,4 @@ public static extern IntPtr ExtractVersionResource16(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-extractversionresource16)
+[Microsoft documentation](TODO)

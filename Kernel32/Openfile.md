@@ -8,4 +8,4 @@ public static extern IntPtr OpenFile(string lpFileName,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-openfile)
+[Microsoft documentation](TODO)

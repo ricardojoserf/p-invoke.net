@@ -8,4 +8,4 @@ public static extern bool SystemTimeToTzSpecificLocalTime(IntPtr lpTimeZoneInfor
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-systemtimetotzspecificlocaltime)
+[Microsoft documentation](TODO)

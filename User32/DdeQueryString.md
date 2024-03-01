@@ -10,4 +10,4 @@ public static extern uint DdeQueryStringA(IntPtr idInst,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddequerystringa)
+[Microsoft documentation](TODO)

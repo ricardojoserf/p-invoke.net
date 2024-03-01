@@ -11,4 +11,4 @@ public static extern uint MQGetQueueSecurity(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/mq/nc-mq-pfncgetsecuritydescriptor)
+[Microsoft documentation](TODO)

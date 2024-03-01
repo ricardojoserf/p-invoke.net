@@ -7,4 +7,4 @@ public static extern bool SecureZeroMemory(IntPtr ptr,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-securezeromemory)
+[Microsoft documentation](TODO)

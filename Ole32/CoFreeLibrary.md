@@ -7,4 +7,4 @@ public static extern void CoFreeLibrary(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-cofreelibrary)
+[Microsoft documentation](TODO)

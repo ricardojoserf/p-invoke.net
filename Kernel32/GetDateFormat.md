@@ -12,4 +12,4 @@ public static extern uint GetDateFormat(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getdateformatw)
+[Microsoft documentation](TODO)

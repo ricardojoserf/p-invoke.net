@@ -13,4 +13,4 @@ public static extern uint GetGlyphOutline(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getglyphoutlinesa)
+[Microsoft documentation](TODO)

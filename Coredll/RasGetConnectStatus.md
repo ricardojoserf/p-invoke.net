@@ -8,4 +8,4 @@ public static extern int RasGetConnectStatus(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/rasapi32/nf-rasapi32-rasgetconnectstatusw)
+[Microsoft documentation](TODO)

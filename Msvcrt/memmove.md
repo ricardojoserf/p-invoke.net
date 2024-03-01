@@ -9,4 +9,4 @@ public static extern IntPtr memmove(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/memmove-memmove-s)
+[Microsoft documentation](TODO)

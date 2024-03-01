@@ -7,4 +7,4 @@ public static extern int CoIsOle1Class(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-coisole1class)
+[Microsoft documentation](TODO)

@@ -9,4 +9,4 @@ public static extern bool SetInformationJobObject(IntPtr hJob,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/jobapi/nf-jobapi-setinformationjobobject)
+[Microsoft documentation](TODO)

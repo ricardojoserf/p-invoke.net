@@ -8,4 +8,4 @@ public static extern int SHQueryRecycleBin(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shqueryrecyclebinw)
+[Microsoft documentation](TODO)

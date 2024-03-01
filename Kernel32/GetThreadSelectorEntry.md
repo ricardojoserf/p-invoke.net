@@ -9,4 +9,4 @@ public static extern bool GetThreadSelectorEntry(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winnt/nf-winnt-getthreadselectorentry)
+[Microsoft documentation](TODO)

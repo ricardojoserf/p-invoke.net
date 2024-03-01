@@ -8,4 +8,4 @@ public static extern bool SetThreadToken(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/securitybaseapi/nf-securitybaseapi-setthreadtoken)
+[Microsoft documentation](TODO)

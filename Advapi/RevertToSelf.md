@@ -7,4 +7,4 @@ public static extern bool RevertToSelf(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-reverttoself)
+[Microsoft documentation](TODO)

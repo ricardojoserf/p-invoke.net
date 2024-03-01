@@ -11,4 +11,4 @@ public static extern bool GetDeviceUniqueID(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/previous-versions/bb431752(v%3Dmsdn.10))
+[Microsoft documentation](TODO)

@@ -16,4 +16,4 @@ public static extern uint RegisterTraceGuids(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/evntrace/nf-evntrace-registertraceguids)
+[Microsoft documentation](TODO)

@@ -11,4 +11,4 @@ public static extern bool PrivacyGetZonePreference(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-privacygetzonepreference)
+[Microsoft documentation](TODO)

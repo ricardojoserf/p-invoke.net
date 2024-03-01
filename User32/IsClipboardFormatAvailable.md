@@ -7,4 +7,4 @@ public static extern bool IsClipboardFormatAvailable(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-isclipboardformataavailable)
+[Microsoft documentation](TODO)

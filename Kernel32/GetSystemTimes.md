@@ -9,4 +9,4 @@ public static extern bool GetSystemTimes(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemtimes)
+[Microsoft documentation](TODO)

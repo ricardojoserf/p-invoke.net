@@ -7,4 +7,4 @@ public static extern uint GetTimeZoneInformation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-gettimezoneinformation)
+[Microsoft documentation](TODO)

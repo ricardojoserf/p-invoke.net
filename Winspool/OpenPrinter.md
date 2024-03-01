@@ -9,4 +9,4 @@ public static extern bool OpenPrinter(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winspool/nf-winspool-openprintera)
+[Microsoft documentation](TODO)

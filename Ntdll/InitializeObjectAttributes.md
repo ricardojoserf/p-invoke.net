@@ -11,4 +11,4 @@ public static extern void InitializeObjectAttributes(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/ns-wdm-_object_attributes)
+[Microsoft documentation](TODO)

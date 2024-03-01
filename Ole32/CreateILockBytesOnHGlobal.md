@@ -9,4 +9,4 @@ public static extern int CreateILockBytesOnHGlobal(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/objidl/nf-objidl-createilockbytesonhglobal)
+[Microsoft documentation](TODO)

@@ -7,4 +7,4 @@ public static extern void DsRoleFreeMemory(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dsgetdc/nf-dsgetdc-dsrolefreememory)
+[Microsoft documentation](TODO)

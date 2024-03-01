@@ -10,4 +10,4 @@ public static extern int MsiRecordGetString(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msirecordgetstring)
+[Microsoft documentation](TODO)

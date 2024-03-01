@@ -8,4 +8,4 @@ public static extern bool GetHandleInformation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-gethandleinformation)
+[Microsoft documentation](TODO)

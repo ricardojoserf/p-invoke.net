@@ -10,4 +10,4 @@ public static extern int OleCreatePictureIndirect(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/oleauto/nf-oleauto-olecreatepictureindirect)
+[Microsoft documentation](TODO)

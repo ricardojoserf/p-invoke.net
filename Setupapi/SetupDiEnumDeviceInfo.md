@@ -9,4 +9,4 @@ public static extern bool SetupDiEnumDeviceInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/setupapi/nf-setupapi-setupdienumdeviceinfow)
+[Microsoft documentation](TODO)

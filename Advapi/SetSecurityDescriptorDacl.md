@@ -10,4 +10,4 @@ public static extern bool SetSecurityDescriptorDacl(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setsecuritydescriptordacl)
+[Microsoft documentation](TODO)

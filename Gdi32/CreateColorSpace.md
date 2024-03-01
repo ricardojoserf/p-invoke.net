@@ -7,4 +7,4 @@ public static extern IntPtr CreateColorSpace(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createcolorspace)
+[Microsoft documentation](TODO)

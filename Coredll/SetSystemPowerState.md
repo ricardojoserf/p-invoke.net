@@ -9,4 +9,4 @@ public static extern bool SetSystemPowerState(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/nspapi/nf-nspapi-setsystempowerstate)
+[Microsoft documentation](TODO)

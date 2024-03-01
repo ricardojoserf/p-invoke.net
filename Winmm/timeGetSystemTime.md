@@ -8,4 +8,4 @@ public static extern uint timeGetSystemTime(
 );
 ```
 
-[Microsoft documentation](link_to_documentation)
+[Microsoft documentation](TODO)

@@ -7,4 +7,4 @@ public static extern bool FlushConsoleInputBuffer(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/consoleapi/nf-consoleapi-flushconsoleinputbuffer)
+[Microsoft documentation](TODO)

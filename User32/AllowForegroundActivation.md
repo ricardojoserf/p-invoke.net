@@ -7,4 +7,4 @@ public static extern void AllowForegroundActivation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-allowforegroundactivation)
+[Microsoft documentation](TODO)

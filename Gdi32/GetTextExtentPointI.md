@@ -10,4 +10,4 @@ public static extern bool GetTextExtentPointI(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-gettextextentpointia)
+[Microsoft documentation](TODO)

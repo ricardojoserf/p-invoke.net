@@ -10,4 +10,4 @@ public static extern bool GetOverlappedResult(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getoverlappedresult)
+[Microsoft documentation](TODO)

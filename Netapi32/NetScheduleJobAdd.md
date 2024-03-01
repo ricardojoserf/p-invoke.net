@@ -9,4 +9,4 @@ public static extern uint NetScheduleJobAdd(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netschedulejobadd)
+[Microsoft documentation](TODO)

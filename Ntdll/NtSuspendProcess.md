@@ -7,4 +7,4 @@ public static extern int NtSuspendProcess(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntsuspendprocess)
+[Microsoft documentation](TODO)

@@ -11,4 +11,4 @@ public static extern uint MprAdminUserSetInfo(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/nf-lmaccess-mpradminusersetinfo)
+[Microsoft documentation](TODO)

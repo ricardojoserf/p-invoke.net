@@ -10,4 +10,4 @@ public static extern int MsiExtractPatchXMLData(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msiextractpatchxmldata)
+[Microsoft documentation](TODO)

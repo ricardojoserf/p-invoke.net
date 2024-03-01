@@ -9,4 +9,4 @@ public static extern bool DosDateTimeToFileTime(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/minwinbase/nf-minwinbase-dosdatetimetofiletime)
+[Microsoft documentation](TODO)

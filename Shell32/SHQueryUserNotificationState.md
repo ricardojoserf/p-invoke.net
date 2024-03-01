@@ -7,4 +7,4 @@ public static extern int SHQueryUserNotificationState(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shqueryusernotificationstate)
+[Microsoft documentation](TODO)

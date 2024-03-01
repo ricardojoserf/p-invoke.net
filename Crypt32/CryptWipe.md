@@ -8,4 +8,4 @@ public static extern void CryptWipe(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-cryptwipe)
+[Microsoft documentation](TODO)

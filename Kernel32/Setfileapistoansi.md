@@ -6,4 +6,4 @@ public static extern bool SetFileApisToANSI(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setfileapitoansi)
+[Microsoft documentation](TODO)

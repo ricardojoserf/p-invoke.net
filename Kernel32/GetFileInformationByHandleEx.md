@@ -10,4 +10,4 @@ public static extern bool GetFileInformationByHandleEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfileinformationbyhandleex)
+[Microsoft documentation](TODO)

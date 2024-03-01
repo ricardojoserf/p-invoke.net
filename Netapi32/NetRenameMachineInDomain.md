@@ -11,4 +11,4 @@ public static extern uint NetRenameMachineInDomain(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netrenamemachineindomain)
+[Microsoft documentation](TODO)

@@ -7,4 +7,4 @@ public static extern uint DhcpRpcFreeMemory(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/dhcpssdk/nf-dhcpssdk-dhcrpcfreememory)
+[Microsoft documentation](TODO)

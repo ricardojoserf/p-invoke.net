@@ -11,4 +11,4 @@ public static extern bool InitiateSystemShutdown(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-initiatesystemshutdowna)
+[Microsoft documentation](TODO)

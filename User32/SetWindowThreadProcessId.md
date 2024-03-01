@@ -8,4 +8,4 @@ public static extern uint SetWindowThreadProcessId(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowthreadprocessid)
+[Microsoft documentation](TODO)

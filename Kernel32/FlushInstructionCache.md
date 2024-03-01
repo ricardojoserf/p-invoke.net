@@ -9,4 +9,4 @@ public static extern bool FlushInstructionCache(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-flushinstructioncache)
+[Microsoft documentation](TODO)

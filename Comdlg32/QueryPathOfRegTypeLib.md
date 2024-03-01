@@ -11,4 +11,4 @@ public static extern HRESULT QueryPathOfRegTypeLib(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/commdlg/nf-commdlg-querypathofregtypelib)
+[Microsoft documentation](TODO)

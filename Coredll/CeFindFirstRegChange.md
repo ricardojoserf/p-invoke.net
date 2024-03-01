@@ -11,4 +11,4 @@ public static extern IntPtr CeFindFirstRegChange(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/previous-versions/bb416347(v%3Dmsdn.10))
+[Microsoft documentation](TODO)

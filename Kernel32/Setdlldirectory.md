@@ -6,4 +6,4 @@ public static extern bool SetDllDirectory(string lpPathName
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-setdlldirectory)
+[Microsoft documentation](TODO)

@@ -10,4 +10,4 @@ public static extern HRESULT WerRegisterFile(string pwzFile,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/wer/wer-register-file)
+[Microsoft documentation](TODO)

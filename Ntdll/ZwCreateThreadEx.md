@@ -17,4 +17,4 @@ public static extern int ZwCreateThreadEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntcreatethreadex)
+[Microsoft documentation](TODO)

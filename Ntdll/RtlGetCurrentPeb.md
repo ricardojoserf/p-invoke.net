@@ -7,4 +7,4 @@ public static extern IntPtr RtlGetCurrentPeb(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-rtlgetcurrentpeb)
+[Microsoft documentation](TODO)

@@ -8,4 +8,4 @@ public static extern int NtTerminateProcess(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntterminateprocess)
+[Microsoft documentation](TODO)

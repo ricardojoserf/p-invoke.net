@@ -14,4 +14,4 @@ public static extern int StgCreateStorageEx(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-stgcreatestorageex)
+[Microsoft documentation](TODO)

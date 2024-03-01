@@ -10,4 +10,4 @@ public static extern uint NetUnjoinDomain(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/lmapibuf/nf-lmapibuf-netunjoindomain)
+[Microsoft documentation](TODO)

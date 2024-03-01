@@ -9,4 +9,4 @@ public static extern int NtSetSystemInformation(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-zwsetsysteminformation)
+[Microsoft documentation](TODO)

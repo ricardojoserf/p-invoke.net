@@ -9,4 +9,4 @@ public static extern int StgCreatePropSetStg(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/propsys/nf-propsys-stgcreatepropsetstg)
+[Microsoft documentation](TODO)

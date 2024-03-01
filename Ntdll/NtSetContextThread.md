@@ -8,4 +8,4 @@ public static extern int NtSetContextThread(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-ke386setcontextthread)
+[Microsoft documentation](TODO)

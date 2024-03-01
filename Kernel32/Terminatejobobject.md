@@ -7,4 +7,4 @@ public static extern bool TerminateJobObject(IntPtr hJob,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/jobapi/nf-jobapi-terminatejobobject)
+[Microsoft documentation](TODO)

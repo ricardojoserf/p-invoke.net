@@ -8,4 +8,4 @@ public static extern IntPtr DdeQueryNextServer(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddequerynextserver)
+[Microsoft documentation](TODO)

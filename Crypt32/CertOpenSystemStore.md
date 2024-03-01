@@ -8,4 +8,4 @@ public static extern IntPtr CertOpenSystemStore(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-certopensystemstore)
+[Microsoft documentation](TODO)

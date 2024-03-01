@@ -11,4 +11,4 @@ public static extern bool GetCharWidthI(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-getcharwidthia)
+[Microsoft documentation](TODO)

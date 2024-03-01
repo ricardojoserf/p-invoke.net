@@ -7,4 +7,4 @@ public static extern bool SetupDiDestroyDeviceInfoList(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/setupapi/nf-setupapi-setupdidevinfosecdevinfo)
+[Microsoft documentation](TODO)

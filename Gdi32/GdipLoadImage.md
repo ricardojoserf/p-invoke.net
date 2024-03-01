@@ -8,4 +8,4 @@ public static extern Status GdipLoadImage(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/gdiplusheaders/nf-gdiplusheaders-gdiploadimagefromstream)
+[Microsoft documentation](TODO)

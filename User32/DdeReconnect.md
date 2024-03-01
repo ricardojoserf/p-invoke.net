@@ -7,4 +7,4 @@ public static extern IntPtr DdeReconnect(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddereconnect)
+[Microsoft documentation](TODO)

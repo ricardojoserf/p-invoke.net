@@ -7,4 +7,4 @@ public static extern int CoInitialize(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-coinitialize)
+[Microsoft documentation](TODO)

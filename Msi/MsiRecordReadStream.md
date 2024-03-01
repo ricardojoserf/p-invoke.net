@@ -10,4 +10,4 @@ public static extern int MsiRecordReadStream(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msirecordreadstream)
+[Microsoft documentation](TODO)

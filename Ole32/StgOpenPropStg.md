@@ -11,4 +11,4 @@ public static extern int StgOpenPropStg(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/propsys/nf-propsys-stgopenpropstg)
+[Microsoft documentation](TODO)

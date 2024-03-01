@@ -9,4 +9,4 @@ public static extern IntPtr DdeCreateStringHandle(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-ddecreatestringhandlea)
+[Microsoft documentation](TODO)

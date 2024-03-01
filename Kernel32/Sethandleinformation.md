@@ -8,4 +8,4 @@ public static extern bool SetHandleInformation(IntPtr hObject,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-sethandleinformation)
+[Microsoft documentation](TODO)

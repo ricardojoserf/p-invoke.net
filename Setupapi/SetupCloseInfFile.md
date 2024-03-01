@@ -7,4 +7,4 @@ public static extern int SetupCloseInfFile(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/setupapi/nf-setupapi-setupcloseinfile)
+[Microsoft documentation](TODO)

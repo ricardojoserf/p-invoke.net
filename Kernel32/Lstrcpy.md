@@ -7,4 +7,4 @@ public static extern IntPtr lstrcpy(StringBuilder lpString1,
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/shlwapi/nf-shlwapi-lstrcpyw)
+[Microsoft documentation](TODO)

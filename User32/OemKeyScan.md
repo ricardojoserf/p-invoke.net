@@ -7,4 +7,4 @@ public static extern uint OemKeyScan(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-oemkeyscana)
+[Microsoft documentation](TODO)

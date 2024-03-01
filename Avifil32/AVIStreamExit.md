@@ -7,4 +7,4 @@ public static extern uint AVIStreamExit(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/vfw/nf-vfw-avistreamexit)
+[Microsoft documentation](TODO)

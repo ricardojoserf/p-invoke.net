@@ -10,4 +10,4 @@ public static extern int WSAStringToAddress(
    ref int lp
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ws2tcpip/nf-ws2tcpip-wsastringtoaddressa)
+[Microsoft documentation](TODO)

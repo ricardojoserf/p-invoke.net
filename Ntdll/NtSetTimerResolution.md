@@ -9,4 +9,4 @@ public static extern int NtSetTimerResolution(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/realtimeapiset/nf-realtimeapiset-ntsettimerresolution)
+[Microsoft documentation](TODO)

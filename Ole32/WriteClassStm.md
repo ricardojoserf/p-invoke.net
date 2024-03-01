@@ -8,4 +8,4 @@ public static extern int WriteClassStm(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-writeclassstm)
+[Microsoft documentation](TODO)

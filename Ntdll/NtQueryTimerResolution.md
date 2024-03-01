@@ -9,4 +9,4 @@ public static extern int NtQueryTimerResolution(
 );
 ```
 
-[Microsoft documentation](https://docs.microsoft.com/en-us/windows/win32/api/realtimeapiset/nf-realtimeapiset-ntquerytimerresolution)
+[Microsoft documentation](TODO)
