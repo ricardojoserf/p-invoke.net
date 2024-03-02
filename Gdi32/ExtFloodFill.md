@@ -1,13 +1,13 @@
 ## ExtFloodFill
 
 ```
-[DllImport("gdi32.dll", SetLastError = true)]
+[DllImport("gdi32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool ExtFloodFill(
    IntPtr hdc,
    int nXStart,
    int nYStart,
    uint crColor,
-   uint wFillType
+   uint fuFillType
 );
 ```
 

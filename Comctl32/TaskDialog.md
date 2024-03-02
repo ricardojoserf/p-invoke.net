@@ -1,7 +1,7 @@
 ## TaskDialog
 
 ```
-[DllImport("Comctl32.dll", SetLastError = true)]
+[DllImport("Comctl32.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int TaskDialog(
    IntPtr hwndOwner,
    IntPtr hInstance,

@@ -1,8 +1,8 @@
 ## GetCurrentThread
 
 ```
-[DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.U4)]
-public static extern uint GetCurrentThread(
+[DllImport("kernel32.dll", SetLastError = true)]
+public static extern IntPtr GetCurrentThread(
    
 );
 ```

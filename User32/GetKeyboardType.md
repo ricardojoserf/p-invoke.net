@@ -1,9 +1,9 @@
 ## GetKeyboardType
 
 ```
-[DllImport("user32.dll")]
-public static extern int GetKeyboardType(
-   int nTypeFlag
+[DllImport("User32.dll")][return: MarshalAs(UnmanagedType.U2)]
+public static extern ushort GetKeyboardType(
+   uint nTypeFlag
 );
 ```
 

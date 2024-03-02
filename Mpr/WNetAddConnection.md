@@ -1,12 +1,12 @@
 ## WNetAddConnection
 
 ```
-[DllImport("Mpr.dll", SetLastError = true)]
+[DllImport("mpr.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern uint WNetAddConnection(
-   string lpszRemoteName,
-   string lpszPassword,
-   string lpszLocalName
+   string lpRemoteName,
+   string lpPassword,
+   string lpLocalName
 );
 ```
 
-Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnetwk/nf-winnetwk-wnetaddconnectiona)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/winnetwk/nf-winnetwk-wnetaddconnectionw)

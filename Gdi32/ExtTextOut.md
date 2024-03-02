@@ -1,16 +1,15 @@
 ## ExtTextOut
 
 ```
-[DllImport("gdi32.dll", SetLastError = true, CharSet = CharSet.Auto)]
-public static extern bool ExtTextOut(
-   IntPtr hdc,
+[DllImport("gdi32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
+public static extern bool ExtTextOutA(IntPtr hdc,
    int X,
    int Y,
    uint fuOptions,
    [In] ref RECT lprc,
    string lpString,
    uint cbCount,
-   [In] IntPtr lpDx
+   [In] int[] lpDx
 );
 ```
 

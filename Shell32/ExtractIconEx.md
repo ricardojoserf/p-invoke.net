@@ -1,9 +1,8 @@
 ## ExtractIconEx
 
 ```
-[DllImport("shell32.dll", CharSet = CharSet.Unicode)]
-public static extern uint ExtractIconEx(
-   string lpszFile,
+[DllImport("shell32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
+public static extern uint ExtractIconExA(string lpszFile,
    int nIconIndex,
    IntPtr[] phiconLarge,
    IntPtr[] phiconSmall,
@@ -11,4 +10,4 @@ public static extern uint ExtractIconEx(
 );
 ```
 
-Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-extracticonexa)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-extracticonexa)

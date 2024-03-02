@@ -1,10 +1,10 @@
 ## GetModuleHandle
 
 ```
-[DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.U4)]
-public static extern uint GetModuleHandle(
+[DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Auto)]
+public static extern IntPtr GetModuleHandle(
    string lpModuleName
 );
 ```
 
-Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandlew)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandlea)

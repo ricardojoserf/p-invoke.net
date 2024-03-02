@@ -1,12 +1,11 @@
 ## GetCharABCWidths
 
 ```
-[DllImport("gdi32.dll", SetLastError = true)]
-public static extern bool GetCharABCWidths(
-   IntPtr hdc,
-   uint wFirst,
-   uint wLast,
-   [Out] ABC[] lpABC
+[DllImport("gdi32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
+public static extern bool GetCharABCWidthsA(IntPtr hdc,
+   uint iFirstChar,
+   uint iLastChar,
+   [Out] ABC[] lpabc
 );
 ```
 

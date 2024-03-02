@@ -3,10 +3,10 @@
 ```
 [DllImport("gdi32.dll", SetLastError = true)]
 public static extern IntPtr ExtCreateRegion(
-   [In] ref XFORM lpXform,
+   IntPtr lpx,
    uint nCount,
-   [In] IntPtr lpRgnData
+   [In] RGNDATA lpData
 );
 ```
 
-Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-extcreateregion)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-extcreateregion)

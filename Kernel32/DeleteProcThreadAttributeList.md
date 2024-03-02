@@ -1,7 +1,7 @@
 ## DeleteProcThreadAttributeList
 
 ```
-[DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
+[DllImport("kernel32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool DeleteProcThreadAttributeList(
    IntPtr lpAttributeList
 );

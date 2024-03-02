@@ -4,7 +4,7 @@
 [DllImport("gdi32.dll", SetLastError = true)]
 public static extern IntPtr GetCurrentObject(
    IntPtr hdc,
-   uint type
+   uint uObjectType
 );
 ```
 

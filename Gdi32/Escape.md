@@ -6,7 +6,7 @@ public static extern int Escape(
    IntPtr hdc,
    int iEscape,
    int cjIn,
-   string lpIn,
+   [In] IntPtr lpIn,
    IntPtr lpOut
 );
 ```

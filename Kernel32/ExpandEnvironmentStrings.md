@@ -1,10 +1,9 @@
 ## ExpandEnvironmentStrings
 
 ```
-[DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
-public static extern uint ExpandEnvironmentStrings(
-   string lpSrc,
-   [Out] StringBuilder lpDst,
+[DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
+public static extern uint ExpandEnvironmentStringsA(string lpSrc,
+   StringBuilder lpDst,
    uint nSize
 );
 ```

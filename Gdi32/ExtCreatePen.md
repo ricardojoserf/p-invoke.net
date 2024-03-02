@@ -5,9 +5,9 @@
 public static extern IntPtr ExtCreatePen(
    uint iPenStyle,
    uint cWidth,
-   [In] ref LOGBRUSH lplb,
+   IntPtr plbrush,
    uint cStyle,
-   uint[] lpStyle
+   [In] uint[] lpstyle
 );
 ```
 

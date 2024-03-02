@@ -1,12 +1,11 @@
 ## ExtractIcon
 
 ```
-[DllImport("shell32.dll", CharSet = CharSet.Unicode)]
-public static extern IntPtr ExtractIcon(
-   IntPtr hInst,
+[DllImport("shell32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
+public static extern IntPtr ExtractIconA(IntPtr hInst,
    string lpszExeFileName,
    uint nIconIndex
 );
 ```
 
-Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-extracticonw)
+Microsoft documentation: [Link](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-extracticona)

@@ -1,7 +1,7 @@
 ## GetCurrentThreadId
 
 ```
-[DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.U4)]
+[DllImport("kernel32.dll", SetLastError = true)]
 public static extern uint GetCurrentThreadId(
    
 );

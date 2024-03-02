@@ -1,11 +1,10 @@
 ## GetCharWidth32
 
 ```
-[DllImport("gdi32.dll", SetLastError = true)]
-public static extern bool GetCharWidth32(
-   IntPtr hdc,
-   uint iFirst,
-   uint iLast,
+[DllImport("gdi32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
+public static extern bool GetCharWidth32A(IntPtr hdc,
+   uint iFirstChar,
+   uint iLastChar,
    [Out] float[] lpBuffer
 );
 ```
