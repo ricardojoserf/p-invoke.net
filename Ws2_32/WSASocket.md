@@ -12,4 +12,4 @@ public static extern IntPtr WSASocket(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/winsock2/nf-winsock2-wsasocketa)

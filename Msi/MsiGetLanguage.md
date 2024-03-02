@@ -10,4 +10,4 @@ public static extern int MsiGetLanguage(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/msiquery/nf-msiquery-msigetlanguage)

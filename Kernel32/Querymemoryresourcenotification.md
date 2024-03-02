@@ -7,4 +7,4 @@ public static extern bool QueryMemoryResourceNotification(IntPtr ResourceNotific
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-querymemoryresourcenotification)

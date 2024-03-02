@@ -6,4 +6,3 @@ public static extern bool RemoveLocalAlternateComputerName(string lpAltComName
 );
 ```
 
-Microsoft documentation: (TODO)

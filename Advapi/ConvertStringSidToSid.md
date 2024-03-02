@@ -8,4 +8,4 @@ public static extern bool ConvertStringSidToSid(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/sddl/nf-sddl-convertstringsidtosida)

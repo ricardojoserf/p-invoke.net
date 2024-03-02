@@ -12,4 +12,4 @@ public static extern uint GetDateFormat(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/datetimeapi/nf-datetimeapi-getdateformata)

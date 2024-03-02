@@ -7,4 +7,4 @@ public static extern bool PrintDlg(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/ms646940(v=vs.85))

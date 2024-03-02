@@ -11,4 +11,4 @@ public static extern uint NetMessageBufferSend(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/lmmsg/nf-lmmsg-netmessagebuffersend)

@@ -8,4 +8,3 @@ public static extern int WSAEnumNameSpaceProviders(
 );
 ```
 
-Microsoft documentation: (TODO)

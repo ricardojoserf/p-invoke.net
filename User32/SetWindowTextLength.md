@@ -7,4 +7,3 @@ public static extern int SetWindowTextLength(
 );
 ```
 
-Microsoft documentation: (TODO)

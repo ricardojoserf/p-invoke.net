@@ -13,4 +13,4 @@ public static extern bool EnumPrinters(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/printdocs/enumprinters)

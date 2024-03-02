@@ -9,4 +9,4 @@ public static extern int NtSetTimerResolution(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](http://undocumented.ntinternals.net/UserMode/Undocumented%20Functions/Time/NtSetTimerResolution.html)

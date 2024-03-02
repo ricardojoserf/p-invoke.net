@@ -17,4 +17,3 @@ public static extern int RtlCreateProcessParametersEx(
 );
 ```
 
-Microsoft documentation: (TODO)

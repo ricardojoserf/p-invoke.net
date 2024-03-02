@@ -7,4 +7,3 @@ public static extern void AllowForegroundActivation(
 );
 ```
 
-Microsoft documentation: (TODO)

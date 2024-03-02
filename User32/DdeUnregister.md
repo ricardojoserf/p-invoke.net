@@ -9,4 +9,3 @@ public static extern bool DdeUnregister(
 );
 ```
 
-Microsoft documentation: (TODO)

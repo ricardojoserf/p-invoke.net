@@ -10,4 +10,4 @@ public static extern SafeMailslotHandle CreateMailslot(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createmailslota)

@@ -8,4 +8,4 @@ public static extern bool CeRunAppAtTime(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/embedded/ms908103(v=msdn.10))

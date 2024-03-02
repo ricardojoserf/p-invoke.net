@@ -8,4 +8,3 @@ public static extern int SetRelAbs(
 );
 ```
 
-Microsoft documentation: (TODO)

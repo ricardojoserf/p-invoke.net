@@ -6,4 +6,4 @@ public static extern bool SetComputerName(string lpComputerName
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-setcomputernamea)

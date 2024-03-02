@@ -7,4 +7,4 @@ public static extern IntPtr INTERFACE_INFO(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/ws2ipdef/ns-ws2ipdef-interface_info)

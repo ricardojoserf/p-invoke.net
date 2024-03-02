@@ -8,4 +8,3 @@ public static extern int WriteStringStream(
 );
 ```
 
-Microsoft documentation: (TODO)

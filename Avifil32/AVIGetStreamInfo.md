@@ -9,4 +9,3 @@ public static extern uint AVIGetStreamInfo(
 );
 ```
 
-Microsoft documentation: (TODO)

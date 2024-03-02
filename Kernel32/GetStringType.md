@@ -11,4 +11,4 @@ public static extern bool GetStringType(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/ms960833(v=msdn.10))

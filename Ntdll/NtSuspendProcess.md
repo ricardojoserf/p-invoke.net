@@ -7,4 +7,3 @@ public static extern int NtSuspendProcess(
 );
 ```
 
-Microsoft documentation: (TODO)

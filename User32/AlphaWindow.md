@@ -7,4 +7,3 @@ public static extern void AlphaWindow(
 );
 ```
 
-Microsoft documentation: (TODO)

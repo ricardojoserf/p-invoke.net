@@ -10,4 +10,4 @@ public static extern uint mciSendString(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/dd757161(v=vs.85))

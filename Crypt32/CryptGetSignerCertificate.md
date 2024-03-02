@@ -11,4 +11,3 @@ public static extern bool CryptGetSignerCertificate(
 );
 ```
 
-Microsoft documentation: (TODO)

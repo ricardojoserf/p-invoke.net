@@ -9,4 +9,4 @@ public static extern bool SetDevicePower(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/embedded/ms920584(v=msdn.10))

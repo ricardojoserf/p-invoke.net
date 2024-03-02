@@ -8,4 +8,4 @@ public static extern void ZeroMemory(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa366920(v=vs.85))

@@ -7,4 +7,3 @@ public static extern bool RegisterServiceProcess(uint dwProcessId,
 );
 ```
 
-Microsoft documentation: (TODO)

@@ -19,4 +19,3 @@ public static extern bool CryptVerifyTimeStampSignatureWithProviderEx4(
 );
 ```
 
-Microsoft documentation: (TODO)

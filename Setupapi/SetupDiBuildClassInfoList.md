@@ -10,4 +10,4 @@ public static extern bool SetupDiBuildClassInfoList(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/setupapi/nf-setupapi-setupdibuildclassinfolist)

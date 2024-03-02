@@ -9,4 +9,4 @@ public static extern uint mciGetErrorString(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/dd757158(v=vs.85))

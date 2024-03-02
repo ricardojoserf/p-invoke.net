@@ -9,4 +9,3 @@ public static extern bool DdeAbandonTransaction(
 );
 ```
 
-Microsoft documentation: (TODO)

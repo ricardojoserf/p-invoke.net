@@ -7,4 +7,4 @@ public static extern bool DestroyPropertySheetPage(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/prsht/nf-prsht-destroypropertysheetpage)

@@ -11,4 +11,4 @@ public static extern uint MprAdminUserSetInfo(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/mprapi/nf-mprapi-mpradminusersetinfo)

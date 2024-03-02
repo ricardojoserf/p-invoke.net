@@ -17,4 +17,3 @@ public static extern int NtCreateUserProcess(
 );
 ```
 
-Microsoft documentation: (TODO)

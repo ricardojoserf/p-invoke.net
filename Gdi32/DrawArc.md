@@ -15,4 +15,4 @@ public static extern bool DrawArc(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/gdiplusgraphics/nf-gdiplusgraphics-graphics-drawarc(constpen_real_real_real_real_real_real))

@@ -9,4 +9,3 @@ public static extern bool CeGetUserNotificationPreferences(
 );
 ```
 
-Microsoft documentation: (TODO)

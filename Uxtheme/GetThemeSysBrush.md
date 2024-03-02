@@ -8,4 +8,3 @@ public static extern IntPtr GetThemeSysBrush(
 );
 ```
 
-Microsoft documentation: (TODO)

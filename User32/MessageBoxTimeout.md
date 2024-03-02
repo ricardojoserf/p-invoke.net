@@ -12,4 +12,3 @@ public static extern int MessageBoxTimeout(
 );
 ```
 
-Microsoft documentation: (TODO)

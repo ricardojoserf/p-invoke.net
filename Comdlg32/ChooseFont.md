@@ -7,4 +7,4 @@ public static extern bool ChooseFont(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/ms646914(v=vs.85))

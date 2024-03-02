@@ -8,4 +8,3 @@ public static extern Status GdipLoadImage(
 );
 ```
 
-Microsoft documentation: (TODO)

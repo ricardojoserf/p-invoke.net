@@ -14,4 +14,4 @@ public static extern bool XcvData(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/ff564255(v=vs.85))

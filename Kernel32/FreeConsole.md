@@ -7,4 +7,4 @@ public static extern bool FreeConsole(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/console/freeconsole)

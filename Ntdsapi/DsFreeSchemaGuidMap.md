@@ -7,4 +7,4 @@ public static extern void DsFreeSchemaGuidMap(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/ntdsapi/nf-ntdsapi-dsfreeschemaguidmapa)

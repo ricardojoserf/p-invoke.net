@@ -11,4 +11,4 @@ public static extern uint ExtractIconEx(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-extracticonexa)

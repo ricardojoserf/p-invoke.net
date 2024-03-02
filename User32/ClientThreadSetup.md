@@ -7,4 +7,3 @@ public static extern bool ClientThreadSetup(
 );
 ```
 
-Microsoft documentation: (TODO)

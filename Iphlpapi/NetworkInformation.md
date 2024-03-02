@@ -7,4 +7,4 @@ public static extern int NetworkInformation(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/dotnet/api/system.net.networkinformation?view=net-8.0)

@@ -7,4 +7,3 @@ public static extern bool DdeUnaccessData(
 );
 ```
 
-Microsoft documentation: (TODO)

@@ -8,4 +8,3 @@ public static extern uint AVIInfo(
 );
 ```
 
-Microsoft documentation: (TODO)

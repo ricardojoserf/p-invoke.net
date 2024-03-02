@@ -9,4 +9,4 @@ public static extern void CopyMemory(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa366535(v=vs.85))

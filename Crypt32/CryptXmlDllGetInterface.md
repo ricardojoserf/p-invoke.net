@@ -9,4 +9,4 @@ public static extern bool CryptXmlDllGetInterface(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/cryptxml/nc-cryptxml-cryptxmldllgetinterface)

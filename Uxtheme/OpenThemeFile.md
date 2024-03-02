@@ -9,4 +9,4 @@ public static extern IntPtr OpenThemeFile(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/office/vba/api/powerpoint.application.openthemefile)

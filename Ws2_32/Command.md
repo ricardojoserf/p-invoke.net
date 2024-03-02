@@ -10,4 +10,4 @@ public static extern int Command(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)

@@ -15,4 +15,4 @@ public static extern bool CryptVerifyTimeStampSignatureWithTimeStampArray(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/wincrypt/nf-wincrypt-cryptverifytimestampsignature)

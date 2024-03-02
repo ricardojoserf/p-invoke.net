@@ -9,4 +9,4 @@ public static extern IntPtr DevicePowerNotify(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/ms896927(v=msdn.10))

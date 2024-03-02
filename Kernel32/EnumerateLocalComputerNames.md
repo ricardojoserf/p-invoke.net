@@ -9,4 +9,3 @@ public static extern bool EnumerateLocalComputerNames(
 );
 ```
 
-Microsoft documentation: (TODO)

@@ -7,4 +7,4 @@ public static extern void FileIconInit(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/shell/fileiconinit)

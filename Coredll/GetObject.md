@@ -9,4 +9,4 @@ public static extern int GetObject(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/getobject-function)

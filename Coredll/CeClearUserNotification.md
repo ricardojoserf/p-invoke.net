@@ -7,4 +7,4 @@ public static extern bool CeClearUserNotification(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/embedded/ms908074(v=msdn.10))

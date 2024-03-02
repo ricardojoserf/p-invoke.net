@@ -7,4 +7,4 @@ public static extern int time(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/dax/time-intelligence-functions-dax)

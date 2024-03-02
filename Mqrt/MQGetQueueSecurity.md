@@ -11,4 +11,4 @@ public static extern uint MQGetQueueSecurity(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/msmq/ms703223(v=vs.85))

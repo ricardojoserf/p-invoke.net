@@ -8,4 +8,4 @@ public static extern uint waveOutGetPlaybackRate(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/dd743862(v=vs.85))

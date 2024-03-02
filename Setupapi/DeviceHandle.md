@@ -10,4 +10,4 @@ public static extern IntPtr DeviceHandle(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/dxva2api/nf-dxva2api-idirect3ddevicemanager9-opendevicehandle)

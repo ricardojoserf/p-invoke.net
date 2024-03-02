@@ -9,4 +9,3 @@ public static extern int SetSystemMemoryDivision(
 );
 ```
 
-Microsoft documentation: (TODO)

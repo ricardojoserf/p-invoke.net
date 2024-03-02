@@ -9,4 +9,4 @@ public static extern bool CeGetUserNotification(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/embedded/ms908076(v%3Dmsdn.10))

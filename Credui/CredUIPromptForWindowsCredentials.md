@@ -15,4 +15,4 @@ public static extern CREDUI_RETURN CredUIPromptForWindowsCredentials(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-creduipromptforwindowscredentialsa)

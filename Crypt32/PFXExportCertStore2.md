@@ -10,4 +10,3 @@ public static extern bool PFXExportCertStore2(
 );
 ```
 
-Microsoft documentation: (TODO)

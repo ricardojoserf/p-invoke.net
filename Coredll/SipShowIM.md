@@ -7,4 +7,4 @@ public static extern int SipShowIM(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/embedded/ms940342(v=msdn.10))

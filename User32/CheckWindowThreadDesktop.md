@@ -8,4 +8,3 @@ public static extern bool CheckWindowThreadDesktop(
 );
 ```
 
-Microsoft documentation: (TODO)

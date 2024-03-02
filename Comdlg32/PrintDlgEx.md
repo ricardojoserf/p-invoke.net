@@ -7,4 +7,4 @@ public static extern bool PrintDlgEx(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/ms646942(v=vs.85))

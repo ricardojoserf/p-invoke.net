@@ -7,4 +7,3 @@ public static extern bool RemoteDebuggerPresent(IntPtr hProcess,
 );
 ```
 
-Microsoft documentation: (TODO)

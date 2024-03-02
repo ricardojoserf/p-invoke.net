@@ -9,4 +9,4 @@ public static extern uint NetScheduleJobAdd(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/lmat/nf-lmat-netschedulejobadd)

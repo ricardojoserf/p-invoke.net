@@ -8,4 +8,4 @@ public static extern int GetHGlobalFromStream(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/combaseapi/nf-combaseapi-gethglobalfromstream)

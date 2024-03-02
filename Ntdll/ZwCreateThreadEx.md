@@ -17,4 +17,3 @@ public static extern int ZwCreateThreadEx(
 );
 ```
 
-Microsoft documentation: (TODO)

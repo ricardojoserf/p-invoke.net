@@ -9,4 +9,4 @@ public static extern int GetMsgProc(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/ms644981(v=vs.85))

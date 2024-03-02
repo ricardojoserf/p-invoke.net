@@ -9,4 +9,3 @@ public static extern IntPtr EditWndProcA(IntPtr hWnd,
 );
 ```
 
-Microsoft documentation: (TODO)

@@ -9,4 +9,3 @@ public static extern IntPtr ExtractVersionResource16(
 );
 ```
 
-Microsoft documentation: (TODO)

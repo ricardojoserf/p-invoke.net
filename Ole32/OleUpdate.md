@@ -8,4 +8,4 @@ public static extern int OleUpdate(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/oleidl/ne-oleidl-oleupdate)

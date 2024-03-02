@@ -12,4 +12,3 @@ public static extern bool GetMenuItemBitmaps(
 );
 ```
 
-Microsoft documentation: (TODO)

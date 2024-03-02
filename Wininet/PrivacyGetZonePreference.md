@@ -11,4 +11,3 @@ public static extern bool PrivacyGetZonePreference(
 );
 ```
 
-Microsoft documentation: (TODO)

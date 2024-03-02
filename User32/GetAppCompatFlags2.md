@@ -7,4 +7,3 @@ public static extern uint GetAppCompatFlags2(
 );
 ```
 
-Microsoft documentation: (TODO)

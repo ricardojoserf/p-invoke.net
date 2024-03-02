@@ -7,4 +7,4 @@ public static extern bool SetConsoleFont(IntPtr hConsoleOutput,
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/console/setcurrentconsolefontex)

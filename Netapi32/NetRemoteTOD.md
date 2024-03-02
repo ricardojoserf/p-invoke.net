@@ -8,4 +8,4 @@ public static extern uint NetRemoteTOD(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/lmremutl/nf-lmremutl-netremotetod)

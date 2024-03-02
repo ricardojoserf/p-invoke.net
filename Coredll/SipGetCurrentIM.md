@@ -8,4 +8,4 @@ public static extern int SipGetCurrentIM(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/embedded/aa453744(v=msdn.10))

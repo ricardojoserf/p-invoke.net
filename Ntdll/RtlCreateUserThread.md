@@ -16,4 +16,4 @@ public static extern int RtlCreateUserThread(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](http://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FExecutable%20Images%2FRtlCreateUserThread.html)

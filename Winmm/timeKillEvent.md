@@ -7,4 +7,4 @@ public static extern uint timeKillEvent(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/dd757630(v=vs.85))

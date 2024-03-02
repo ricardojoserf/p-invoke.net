@@ -7,4 +7,3 @@ public static extern bool IsWindowMinimized(
 );
 ```
 
-Microsoft documentation: (TODO)

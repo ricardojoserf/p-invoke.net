@@ -9,4 +9,4 @@ public static extern int connect(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/credentials/certifications/connect-cert-profile-to-learn)

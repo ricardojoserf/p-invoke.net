@@ -9,4 +9,4 @@ public static extern uint DhcpAddSubnetElementV5(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/dhcpsapi/nf-dhcpsapi-dhcpaddsubnetelementv5)

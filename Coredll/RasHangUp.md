@@ -7,4 +7,4 @@ public static extern int RasHangUp(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/ras/nf-ras-rashangupa)

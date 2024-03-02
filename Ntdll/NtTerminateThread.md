@@ -8,4 +8,4 @@ public static extern int NtTerminateThread(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](http://undocumented.ntinternals.net/UserMode/Undocumented%20Functions/NT%20Objects/Thread/NtTerminateThread.html)

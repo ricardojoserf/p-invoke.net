@@ -9,4 +9,3 @@ public static extern void SetSystemVisualStyle(
 );
 ```
 
-Microsoft documentation: (TODO)

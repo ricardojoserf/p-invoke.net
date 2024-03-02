@@ -9,4 +9,3 @@ public static extern void AlignRects(
 );
 ```
 
-Microsoft documentation: (TODO)

@@ -10,4 +10,4 @@ public static extern NET_API_STATUS NetShareAdd(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/lmshare/nf-lmshare-netshareadd)

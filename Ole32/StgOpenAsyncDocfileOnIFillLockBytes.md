@@ -10,4 +10,4 @@ public static extern int StgOpenAsyncDocfileOnIFillLockBytes(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/objbase/nf-objbase-stgopenasyncdocfileonifilllockbytes)

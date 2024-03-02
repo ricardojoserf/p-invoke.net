@@ -11,4 +11,4 @@ public static extern int MsiEnumProductsEx(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/msi/nf-msi-msienumproductsexa)

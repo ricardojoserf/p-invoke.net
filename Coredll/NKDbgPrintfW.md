@@ -8,4 +8,3 @@ public static extern int NKDbgPrintfW(
 );
 ```
 
-Microsoft documentation: (TODO)

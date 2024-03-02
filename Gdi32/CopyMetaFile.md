@@ -8,4 +8,4 @@ public static extern IntPtr CopyMetaFile(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-copymetafilea#:~:text=The%20CopyMetaFile%20function%20copies%20the,are%20recommended%20for%20new%20applications.)

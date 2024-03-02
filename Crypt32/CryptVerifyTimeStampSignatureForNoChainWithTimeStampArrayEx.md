@@ -17,4 +17,3 @@ public static extern bool CryptVerifyTimeStampSignatureForNoChainWithTimeStampAr
 );
 ```
 
-Microsoft documentation: (TODO)

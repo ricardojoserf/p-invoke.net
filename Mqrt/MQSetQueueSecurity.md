@@ -9,4 +9,4 @@ public static extern uint MQSetQueueSecurity(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/msmq/ms705190(v=vs.85))

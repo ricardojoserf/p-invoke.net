@@ -7,4 +7,4 @@ public static extern IntPtr MB_GetString(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/dlgbox/mb-getstring)

@@ -9,4 +9,3 @@ public static extern uint DevicePowerState(
 );
 ```
 
-Microsoft documentation: (TODO)

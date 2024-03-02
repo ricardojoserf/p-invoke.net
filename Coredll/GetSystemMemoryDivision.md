@@ -9,4 +9,3 @@ public static extern bool GetSystemMemoryDivision(
 );
 ```
 
-Microsoft documentation: (TODO)

@@ -8,4 +8,4 @@ public static extern int NtGetContextThread(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://ntdoc.m417z.com/ntgetcontextthread)

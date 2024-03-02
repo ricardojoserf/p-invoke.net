@@ -7,4 +7,4 @@ public static extern void ReleaseStgMedium(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/api/ole2/nf-ole2-releasestgmedium)

@@ -7,4 +7,4 @@ public static extern IntPtr HandleRef(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.handleref?view=net-8.0)

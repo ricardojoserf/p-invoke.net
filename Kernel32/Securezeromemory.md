@@ -7,4 +7,4 @@ public static extern bool SecureZeroMemory(IntPtr ptr,
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa366877(v=vs.85))

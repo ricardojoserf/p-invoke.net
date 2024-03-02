@@ -9,4 +9,4 @@ public static extern IntPtr KeyboardProc(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/windows/win32/winmsg/keyboardproc)

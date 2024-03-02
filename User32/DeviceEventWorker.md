@@ -10,4 +10,3 @@ public static extern bool DeviceEventWorker(
 );
 ```
 
-Microsoft documentation: (TODO)

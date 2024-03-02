@@ -11,4 +11,4 @@ public static extern bool GetStringTypeEx(
 );
 ```
 
-Microsoft documentation: (TODO)
+Microsoft documentation: [Link](https://learn.microsoft.com/en-us/previous-versions/ms960831(v%3Dmsdn.10))
