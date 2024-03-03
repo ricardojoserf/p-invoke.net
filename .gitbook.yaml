@@ -1,0 +1,4 @@
+root: ./.GITBOOK/
+
+structure:
+  readme: ./.GITBOOK/README.md
