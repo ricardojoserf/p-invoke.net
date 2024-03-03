@@ -1,4 +1,4 @@
-# pinvoke.net
+# p-invoke.net
 
 This website contains most of the P/Invoke definitions from the now offline [pinvoke.net](http://pinvoke.net/), adding the link to the Microsoft documentation for each one.
 

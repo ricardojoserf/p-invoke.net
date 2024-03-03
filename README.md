@@ -1,8 +1,8 @@
-# pinvoke.net
+# p-invoke.net
 
-This website contains most of the P/Invoke definitions from the now offline [pinvoke.net](http://pinvoke.net/), adding the link to the Microsoft documentation for each one.
+This repository contains most of the P/Invoke definitions from the now offline [pinvoke.net](http://pinvoke.net/), adding the link to the Microsoft documentation for each one.
 
-You can find the Github repository with all these files [here](https://github.com/ricardojoserf/pinvoke.net).
+The Gitbook is available at [https://p-invoke.net/](https://p-invoke.net/).
 
 ---------------
 
