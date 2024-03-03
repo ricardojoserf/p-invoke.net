@@ -1,6 +1,6 @@
 ## SHGetDiskFreeSpace
 
-```
+```csharp
 [DllImport("kernel32.dll", CharSet = CharSet.Unicode)]
 public static extern bool SHGetDiskFreeSpace(
    string pszVolume,

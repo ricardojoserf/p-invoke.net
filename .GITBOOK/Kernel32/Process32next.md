@@ -1,6 +1,6 @@
 ## Process32next
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool Process32Next(IntPtr hSnapshot,
    ref PROCESSENTRY32 lppe

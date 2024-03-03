@@ -1,6 +1,6 @@
 ## EmptyWorkingSet
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool EmptyWorkingSet(
    IntPtr hProcess

@@ -1,6 +1,6 @@
 ## GetModuleFileNameEx
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern uint GetModuleFileNameEx(
    IntPtr hProcess,

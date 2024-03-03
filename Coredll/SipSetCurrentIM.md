@@ -1,6 +1,6 @@
 ## SipSetCurrentIM
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int SipSetCurrentIM(
    IntPtr idThread,

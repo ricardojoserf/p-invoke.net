@@ -1,6 +1,6 @@
 ## RegDeleteValue
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int RegDeleteValue(
    IntPtr hKey,

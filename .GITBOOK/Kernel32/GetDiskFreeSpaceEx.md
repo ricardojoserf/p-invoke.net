@@ -1,6 +1,6 @@
 ## GetDiskFreeSpaceEx
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true, CharSet = CharSet.Unicode)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool GetDiskFreeSpaceEx(
    string lpDirectoryName,

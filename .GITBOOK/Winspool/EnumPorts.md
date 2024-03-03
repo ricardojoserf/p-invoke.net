@@ -1,6 +1,6 @@
 ## EnumPorts
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool EnumPorts(
    string pName,

@@ -1,6 +1,6 @@
 ## GetClassLong
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern uint GetClassLongA(IntPtr hWnd,
    int nIndex

@@ -1,6 +1,6 @@
 ## DestroyEnvironmentBlock
 
-```
+```csharp
 [DllImport("userenv.dll", SetLastError = true)]
 public static extern bool DestroyEnvironmentBlock(
    IntPtr lpEnvironment

@@ -1,6 +1,6 @@
 ## OleDoAutoConvert
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleDoAutoConvert(
    IStorage pStg,

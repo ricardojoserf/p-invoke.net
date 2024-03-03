@@ -1,6 +1,6 @@
 ## fwrite
 
-```
+```csharp
 [DllImport("msvcrt.dll", CallingConvention = CallingConvention.Cdecl, SetLastError = true)]
 public static extern size_t fwrite(
    IntPtr ptr,

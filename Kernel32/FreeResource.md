@@ -1,6 +1,6 @@
 ## FreeResource
 
-```
+```csharp
 [DllImport("kernel32.dll", SetLastError = true)]
 public static extern IntPtr FreeResource(
    IntPtr hResData

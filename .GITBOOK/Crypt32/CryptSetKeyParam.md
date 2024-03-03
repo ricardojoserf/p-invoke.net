@@ -1,6 +1,6 @@
 ## CryptSetKeyParam
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptSetKeyParam(
    IntPtr hKey,

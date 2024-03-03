@@ -1,6 +1,6 @@
 ## CloseWindow
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool CloseWindow(
    IntPtr hWnd

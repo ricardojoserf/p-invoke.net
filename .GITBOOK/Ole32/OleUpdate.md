@@ -1,6 +1,6 @@
 ## OleUpdate
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleUpdate(
    IAdviseSink pAdvSink,

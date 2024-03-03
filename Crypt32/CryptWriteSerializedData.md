@@ -1,6 +1,6 @@
 ## CryptWriteSerializedData
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptWriteSerializedData(
    IntPtr hStore,

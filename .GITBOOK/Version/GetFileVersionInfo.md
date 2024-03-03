@@ -1,6 +1,6 @@
 ## GetFileVersionInfo
 
-```
+```csharp
 [DllImport("Version.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool GetFileVersionInfo(
    string lptstrFilename,

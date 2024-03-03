@@ -1,6 +1,6 @@
 ## SQLGetDiagField
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLGetDiagField(
    SQLSMALLINT HandleType,

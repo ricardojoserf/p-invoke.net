@@ -1,6 +1,6 @@
 ## SetupDiCallClassInstaller
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern bool SetupDiCallClassInstaller(
    uint InstallFunction,

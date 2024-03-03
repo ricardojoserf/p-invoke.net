@@ -1,6 +1,6 @@
 ## PathIsSameRoot
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathIsSameRoot(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath1,

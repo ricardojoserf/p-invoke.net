@@ -1,6 +1,6 @@
 ## CryptVerifyMessageSignature
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptVerifyMessageSignature(
    ref CRYPT_VERIFY_MESSAGE_PARA pVerifyPara,

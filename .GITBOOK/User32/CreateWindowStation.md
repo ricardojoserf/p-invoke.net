@@ -1,6 +1,6 @@
 ## CreateWindowStation
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern IntPtr CreateWindowStationA(string lpwinsta,
    uint dwReserved,

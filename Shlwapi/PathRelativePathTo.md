@@ -1,6 +1,6 @@
 ## PathRelativePathTo
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathRelativePathTo(
    StringBuilder pszPath,

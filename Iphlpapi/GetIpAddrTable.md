@@ -1,6 +1,6 @@
 ## GetIpAddrTable
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetIpAddrTable(
    IntPtr pIpAddrTable,

@@ -1,6 +1,6 @@
 ## WlanHostedNetworkQuerySecondaryKey
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanHostedNetworkQuerySecondaryKey(
    IntPtr hClientHandle,

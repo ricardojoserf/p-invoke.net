@@ -1,6 +1,6 @@
 ## waveOutGetDevCaps
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutGetDevCaps(
    uint uDeviceID,

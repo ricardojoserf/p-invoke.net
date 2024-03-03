@@ -1,6 +1,6 @@
 ## SCardEstablishContext
 
-```
+```csharp
 [DllImport("winscard.dll", SetLastError = true)]
 public static extern int SCardEstablishContext(
    uint dwScope,

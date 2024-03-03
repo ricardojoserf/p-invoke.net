@@ -1,6 +1,6 @@
 ## DrawThemeTextEx
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT DrawThemeTextEx(
    IntPtr hTheme,

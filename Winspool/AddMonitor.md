@@ -1,6 +1,6 @@
 ## AddMonitor
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool AddMonitor(
    string pName,

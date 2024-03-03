@@ -1,6 +1,6 @@
 ## SetDefaultPrinter
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool SetDefaultPrinter(
    string pszPrinter

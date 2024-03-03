@@ -1,6 +1,6 @@
 ## Shell_NotifyIcon
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern bool Shell_NotifyIcon(
    uint dwMessage,

@@ -1,6 +1,6 @@
 ## WriteClassStg
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int WriteClassStg(
    IStorage pStg,

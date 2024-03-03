@@ -1,6 +1,6 @@
 ## GetMouseMovePointsEx
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern int GetMouseMovePointsEx(
    uint cbSize,

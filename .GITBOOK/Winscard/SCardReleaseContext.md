@@ -1,6 +1,6 @@
 ## SCardReleaseContext
 
-```
+```csharp
 [DllImport("winscard.dll", SetLastError = true)]
 public static extern int SCardReleaseContext(
    IntPtr hContext

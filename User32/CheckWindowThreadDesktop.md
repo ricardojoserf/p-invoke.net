@@ -1,6 +1,6 @@
 ## CheckWindowThreadDesktop
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool CheckWindowThreadDesktop(
    uint idThread,

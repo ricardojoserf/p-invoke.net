@@ -1,6 +1,6 @@
 ## CM_Locate_DevNodeA
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern int CM_Locate_DevNodeA(
    out uint pdnDevInst,

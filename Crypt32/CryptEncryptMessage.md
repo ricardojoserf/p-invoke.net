@@ -1,6 +1,6 @@
 ## CryptEncryptMessage
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptEncryptMessage(
    ref CRYPT_ENCRYPT_MESSAGE_PARA pEncryptPara,

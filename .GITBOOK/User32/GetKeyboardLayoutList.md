@@ -1,6 +1,6 @@
 ## GetKeyboardLayoutList
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern int GetKeyboardLayoutList(
    int nBuff,

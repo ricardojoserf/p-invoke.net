@@ -1,6 +1,6 @@
 ## GetThemeSysColor
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern COLORREF GetThemeSysColor(
    IntPtr hTheme,

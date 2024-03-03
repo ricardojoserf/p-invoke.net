@@ -1,6 +1,6 @@
 ## EnumerateLoadedModulesEx
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool EnumerateLoadedModulesEx(
    IntPtr hProcess,

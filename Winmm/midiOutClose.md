@@ -1,6 +1,6 @@
 ## midiOutClose
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiOutClose(
    IntPtr hmo

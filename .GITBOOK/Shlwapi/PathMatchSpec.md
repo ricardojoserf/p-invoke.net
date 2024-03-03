@@ -1,6 +1,6 @@
 ## PathMatchSpec
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathMatchSpec(
    [MarshalAs(UnmanagedType.LPWStr)] string pszFile,

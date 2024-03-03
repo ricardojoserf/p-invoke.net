@@ -1,6 +1,6 @@
 ## HashData
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int HashData(
    IntPtr pbData,

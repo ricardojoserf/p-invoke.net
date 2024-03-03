@@ -1,6 +1,6 @@
 ## GetGUIThreadInfo
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern bool GetGUIThreadInfo(
    uint idThread,

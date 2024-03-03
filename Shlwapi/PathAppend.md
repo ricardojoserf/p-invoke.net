@@ -1,6 +1,6 @@
 ## PathAppend
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathAppend(
    StringBuilder pszPath,

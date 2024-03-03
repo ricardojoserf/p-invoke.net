@@ -1,6 +1,6 @@
 ## InflateRect
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool InflateRect(
    ref RECT lprc,

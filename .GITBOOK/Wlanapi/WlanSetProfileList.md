@@ -1,6 +1,6 @@
 ## WlanSetProfileList
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanSetProfileList(
    IntPtr hClientHandle,

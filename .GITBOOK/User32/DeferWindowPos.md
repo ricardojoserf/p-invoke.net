@@ -1,6 +1,6 @@
 ## DeferWindowPos
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern IntPtr DeferWindowPos(
    IntPtr hWinPosInfo,

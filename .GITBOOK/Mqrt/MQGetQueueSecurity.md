@@ -1,6 +1,6 @@
 ## MQGetQueueSecurity
 
-```
+```csharp
 [DllImport("Mqrt.dll", CharSet = CharSet.Unicode)]
 public static extern uint MQGetQueueSecurity(
    string formatName,

@@ -1,6 +1,6 @@
 ## OleGetIconOfFile
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleGetIconOfFile(
    [MarshalAs(UnmanagedType.LPWStr)] string lpszPath,

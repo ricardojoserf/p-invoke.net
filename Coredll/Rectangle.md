@@ -1,6 +1,6 @@
 ## Rectangle
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool Rectangle(
    IntPtr hdc,

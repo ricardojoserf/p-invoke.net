@@ -1,6 +1,6 @@
 ## GetPerformanceInfo
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool GetPerformanceInfo(
    out PERFORMANCE_INFORMATION pPerformanceInformation,

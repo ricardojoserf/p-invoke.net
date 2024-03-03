@@ -1,6 +1,6 @@
 ## CoGetCallContext
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoGetCallContext(
    ref Guid riid,

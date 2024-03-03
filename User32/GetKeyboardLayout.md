@@ -1,6 +1,6 @@
 ## GetKeyboardLayout
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern IntPtr GetKeyboardLayout(
    uint idThread

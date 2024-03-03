@@ -1,6 +1,6 @@
 ## MsiEnumRelatedProducts
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiEnumRelatedProducts(
    [MarshalAs(UnmanagedType.LPTStr)] string lpUpgradeCode,

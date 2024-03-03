@@ -1,6 +1,6 @@
 ## SendInput
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int SendInput(
    int nInputs,

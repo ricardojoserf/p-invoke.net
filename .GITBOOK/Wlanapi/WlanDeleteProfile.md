@@ -1,6 +1,6 @@
 ## WlanDeleteProfile
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanDeleteProfile(
    IntPtr hClientHandle,

@@ -1,6 +1,6 @@
 ## PathCombine
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr PathCombine(
    StringBuilder pszDest,

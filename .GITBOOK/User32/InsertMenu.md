@@ -1,6 +1,6 @@
 ## InsertMenu
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool InsertMenu(
    IntPtr hMenu,

@@ -1,6 +1,6 @@
 ## CreateOleAdviseHolder
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CreateOleAdviseHolder(
    out IOleAdviseHolder ppOAHolder

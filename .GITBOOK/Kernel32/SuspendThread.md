@@ -1,6 +1,6 @@
 ## SuspendThread
 
-```
+```csharp
 [DllImport("kernel32.dll", SetLastError = true)]
 public static extern uint SuspendThread(
    IntPtr hThread

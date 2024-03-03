@@ -1,6 +1,6 @@
 ## SCardFreeMemory
 
-```
+```csharp
 [DllImport("winscard.dll", SetLastError = true)]
 public static extern int SCardFreeMemory(
    IntPtr hContext,

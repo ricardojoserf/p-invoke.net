@@ -1,6 +1,6 @@
 ## SHAppBarMessage
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern uint SHAppBarMessage(
    uint dwMessage,

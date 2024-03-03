@@ -1,6 +1,6 @@
 ## ILIsParent
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern bool ILIsParent(
    IntPtr pidl1,

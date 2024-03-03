@@ -1,6 +1,6 @@
 ## ZwQueryInformationProcess
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int ZwQueryInformationProcess(
    IntPtr ProcessHandle,

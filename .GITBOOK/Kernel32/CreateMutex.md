@@ -1,6 +1,6 @@
 ## CreateMutex
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafeWaitHandle CreateMutex(
    IntPtr lpMutexAttributes,

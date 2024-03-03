@@ -1,6 +1,6 @@
 ## StrFormatByteSize
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr StrFormatByteSize(
    ulong qdw,

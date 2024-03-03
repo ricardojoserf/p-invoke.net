@@ -1,6 +1,6 @@
 ## CreateEvent
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern IntPtr CreateEvent(
    IntPtr lpEventAttributes,

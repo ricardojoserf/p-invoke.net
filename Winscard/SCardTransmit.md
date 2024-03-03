@@ -1,6 +1,6 @@
 ## SCardTransmit
 
-```
+```csharp
 [DllImport("winscard.dll", SetLastError = true)]
 public static extern int SCardTransmit(
    IntPtr hCard,

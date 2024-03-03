@@ -1,6 +1,6 @@
 ## SetupCloseInfFile
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern int SetupCloseInfFile(
    IntPtr InfHandle

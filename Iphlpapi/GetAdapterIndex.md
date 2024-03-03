@@ -1,6 +1,6 @@
 ## GetAdapterIndex
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetAdapterIndex(
    string AdapterName,

@@ -1,6 +1,6 @@
 ## RtlFreeUnicodeString
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern void RtlFreeUnicodeString(
    ref UNICODE_STRING UnicodeString

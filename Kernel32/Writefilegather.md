@@ -1,6 +1,6 @@
 ## Writefilegather
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool WriteFileGather(IntPtr hFile,
    FILE_SEGMENT_ELEMENT[] aSegmentArray,

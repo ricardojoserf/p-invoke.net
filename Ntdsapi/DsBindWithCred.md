@@ -1,6 +1,6 @@
 ## DsBindWithCred
 
-```
+```csharp
 [DllImport("ntdsapi.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern int DsBindWithCred(
    string DomainControllerName,

@@ -1,6 +1,6 @@
 ## Setupcomm
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool SetupComm(IntPtr hFile,
    uint dwInQueue,

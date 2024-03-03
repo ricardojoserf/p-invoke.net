@@ -1,6 +1,6 @@
 ## Openprocess
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.SysInt)]
 public static extern IntPtr OpenProcess(uint dwDesiredAccess,
    [MarshalAs(UnmanagedType.Bool)] bool bInheritHandle,

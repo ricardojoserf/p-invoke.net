@@ -1,6 +1,6 @@
 ## WTSVirtualChannelOpen
 
-```
+```csharp
 [DllImport("wtsapi32.dll", SetLastError = true)]
 public static extern IntPtr WTSVirtualChannelOpen(
    IntPtr hServer,

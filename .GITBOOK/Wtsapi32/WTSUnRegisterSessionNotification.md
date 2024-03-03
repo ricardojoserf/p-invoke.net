@@ -1,6 +1,6 @@
 ## WTSUnRegisterSessionNotification
 
-```
+```csharp
 [DllImport("wtsapi32.dll", SetLastError = true)]
 public static extern bool WTSUnRegisterSessionNotification(
    IntPtr hWnd

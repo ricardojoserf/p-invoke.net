@@ -1,6 +1,6 @@
 ## CreateUri
 
-```
+```csharp
 [DllImport("urlmon.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int CreateUri(
    [MarshalAs(UnmanagedType.LPWStr)] string uri,

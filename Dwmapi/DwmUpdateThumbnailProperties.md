@@ -1,6 +1,6 @@
 ## DwmUpdateThumbnailProperties
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmUpdateThumbnailProperties(
    IntPtr hThumbnailId,

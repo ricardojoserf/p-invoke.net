@@ -1,6 +1,6 @@
 ## SetJob
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool SetJob(
    IntPtr hPrinter,

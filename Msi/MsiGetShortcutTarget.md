@@ -1,6 +1,6 @@
 ## MsiGetShortcutTarget
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiGetShortcutTarget(
    [MarshalAs(UnmanagedType.LPTStr)] string szShortcutTarget,

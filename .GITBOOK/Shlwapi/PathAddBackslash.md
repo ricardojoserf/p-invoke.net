@@ -1,6 +1,6 @@
 ## PathAddBackslash
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr PathAddBackslash(
    StringBuilder pszPath

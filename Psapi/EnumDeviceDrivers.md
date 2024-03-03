@@ -1,6 +1,6 @@
 ## EnumDeviceDrivers
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool EnumDeviceDrivers(
    [MarshalAs(UnmanagedType.LPArray,

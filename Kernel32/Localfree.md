@@ -1,6 +1,6 @@
 ## Localfree
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.SysInt)]
 public static extern IntPtr LocalFree(IntPtr hMem
 );

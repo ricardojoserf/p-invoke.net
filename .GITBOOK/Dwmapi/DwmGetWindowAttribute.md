@@ -1,6 +1,6 @@
 ## DwmGetWindowAttribute
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmGetWindowAttribute(
    IntPtr hwnd,

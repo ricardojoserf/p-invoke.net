@@ -1,6 +1,6 @@
 ## SetProcessDefaultLayout
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool SetProcessDefaultLayout(
    uint dwDefaultLayout

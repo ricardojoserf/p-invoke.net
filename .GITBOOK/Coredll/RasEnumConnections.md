@@ -1,6 +1,6 @@
 ## RasEnumConnections
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int RasEnumConnections(
    ref RASCONN lprasconn,

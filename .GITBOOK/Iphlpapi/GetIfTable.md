@@ -1,6 +1,6 @@
 ## GetIfTable
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetIfTable(
    IntPtr pIfTable,

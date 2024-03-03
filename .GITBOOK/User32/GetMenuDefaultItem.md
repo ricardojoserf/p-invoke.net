@@ -1,6 +1,6 @@
 ## GetMenuDefaultItem
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern uint GetMenuDefaultItem(
    IntPtr hMenu,

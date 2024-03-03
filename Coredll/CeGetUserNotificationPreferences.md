@@ -1,6 +1,6 @@
 ## CeGetUserNotificationPreferences
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool CeGetUserNotificationPreferences(
    IntPtr hNotification,

@@ -1,6 +1,6 @@
 ## StrCmpLogicalW
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int StrCmpLogicalW(
    [MarshalAs(UnmanagedType.LPWStr)] string psz1,

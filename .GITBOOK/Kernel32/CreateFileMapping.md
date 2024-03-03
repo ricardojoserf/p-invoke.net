@@ -1,6 +1,6 @@
 ## CreateFileMapping
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafeFileHandle CreateFileMapping(
    IntPtr hFile,

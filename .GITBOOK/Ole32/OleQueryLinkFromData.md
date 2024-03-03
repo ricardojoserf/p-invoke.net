@@ -1,6 +1,6 @@
 ## OleQueryLinkFromData
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleQueryLinkFromData(
    IDataObject pSrcDataObject

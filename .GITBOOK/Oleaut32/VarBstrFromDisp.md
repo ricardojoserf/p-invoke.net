@@ -1,6 +1,6 @@
 ## VarBstrFromDisp
 
-```
+```csharp
 [DllImport("oleaut32.dll", SetLastError = true)]
 public static extern int VarBstrFromDisp(
    IntPtr pdispIn,

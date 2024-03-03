@@ -1,6 +1,6 @@
 ## timeKillEvent
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint timeKillEvent(
    uint uTimerId

@@ -1,6 +1,6 @@
 ## CheckRadioButton
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool CheckRadioButton(
    IntPtr hDlg,

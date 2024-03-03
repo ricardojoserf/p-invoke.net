@@ -1,6 +1,6 @@
 ## CloseHandle
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool CloseHandle(
    IntPtr hObject

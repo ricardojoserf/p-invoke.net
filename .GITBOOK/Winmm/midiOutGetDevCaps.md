@@ -1,6 +1,6 @@
 ## midiOutGetDevCaps
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiOutGetDevCaps(
    uint uDeviceID,

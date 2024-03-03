@@ -1,6 +1,6 @@
 ## CM_Get_Device_ID
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int CM_Get_Device_ID(
    uint dnDevInst,

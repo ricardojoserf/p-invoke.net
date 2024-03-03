@@ -1,6 +1,6 @@
 ## WNetGetUniversalName
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.U4)]
 public static extern uint WNetGetUniversalName(
    string lpLocalPath,

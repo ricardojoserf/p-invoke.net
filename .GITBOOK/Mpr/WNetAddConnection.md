@@ -1,6 +1,6 @@
 ## WNetAddConnection
 
-```
+```csharp
 [DllImport("mpr.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern uint WNetAddConnection(
    string lpRemoteName,

@@ -1,6 +1,6 @@
 ## MsiOpenPackageEx
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiOpenPackageEx(
    [MarshalAs(UnmanagedType.LPTStr)] string szPackagePath,

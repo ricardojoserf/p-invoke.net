@@ -1,6 +1,6 @@
 ## NtMapViewOfSection
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtMapViewOfSection(
    IntPtr SectionHandle,

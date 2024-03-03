@@ -1,6 +1,6 @@
 ## Writeconsoleoutputattribute
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool WriteConsoleOutputAttribute(IntPtr hConsoleOutput,
    ushort[] lpAttribute,

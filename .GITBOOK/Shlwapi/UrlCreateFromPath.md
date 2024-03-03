@@ -1,6 +1,6 @@
 ## UrlCreateFromPath
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int UrlCreateFromPath(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath,

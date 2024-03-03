@@ -1,6 +1,6 @@
 ## FreeGPOList
 
-```
+```csharp
 [DllImport("userenv.dll", SetLastError = true)]
 public static extern void FreeGPOList(
    IntPtr pGPOList

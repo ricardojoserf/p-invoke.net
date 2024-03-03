@@ -1,6 +1,6 @@
 ## WlanHostedNetworkRefreshSecuritySettings
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanHostedNetworkRefreshSecuritySettings(
    IntPtr hClientHandle,

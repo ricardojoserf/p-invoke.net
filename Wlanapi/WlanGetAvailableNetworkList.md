@@ -1,6 +1,6 @@
 ## WlanGetAvailableNetworkList
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanGetAvailableNetworkList(
    IntPtr hClientHandle,

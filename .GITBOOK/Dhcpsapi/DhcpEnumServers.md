@@ -1,6 +1,6 @@
 ## DhcpEnumServers
 
-```
+```csharp
 [DllImport("dhcpsapi.dll", SetLastError = true)]
 public static extern uint DhcpEnumServers(
    uint Flags,

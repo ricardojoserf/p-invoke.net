@@ -1,6 +1,6 @@
 ## GettextExtentExPoint
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern bool GettextExtentExPoint(
    IntPtr hdc,

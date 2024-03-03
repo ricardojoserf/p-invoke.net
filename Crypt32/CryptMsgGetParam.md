@@ -1,6 +1,6 @@
 ## CryptMsgGetParam
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptMsgGetParam(
    IntPtr hCryptMsg,

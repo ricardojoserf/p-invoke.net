@@ -1,6 +1,6 @@
 ## Module32next
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool Module32Next(IntPtr hSnapshot,
    ref MODULEENTRY32 lpme

@@ -1,6 +1,6 @@
 ## WlanFreeMemory
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern void WlanFreeMemory(
    IntPtr pMemory

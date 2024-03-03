@@ -1,6 +1,6 @@
 ## DevicePowerState
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint DevicePowerState(
    IntPtr hDevice,

@@ -1,6 +1,6 @@
 ## GetExitCodeProcess
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool GetExitCodeProcess(
    IntPtr hProcess,

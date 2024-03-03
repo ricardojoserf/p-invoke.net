@@ -1,6 +1,6 @@
 ## NtOpenSymbolicLinkObject
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtOpenSymbolicLinkObject(
    out IntPtr LinkHandle,

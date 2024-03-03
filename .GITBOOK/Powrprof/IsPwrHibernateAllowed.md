@@ -1,6 +1,6 @@
 ## IsPwrHibernateAllowed
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool IsPwrHibernateAllowed(
    

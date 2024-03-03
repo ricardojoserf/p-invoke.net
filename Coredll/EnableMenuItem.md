@@ -1,6 +1,6 @@
 ## EnableMenuItem
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool EnableMenuItem(
    IntPtr hMenu,

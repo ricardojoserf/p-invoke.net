@@ -1,6 +1,6 @@
 ## SystemIdleTimerReset
 
-```
+```csharp
 [DllImport("coredll.dll")]
 public static extern bool SystemIdleTimerReset(
    

@@ -1,6 +1,6 @@
 ## GetKeyNameText
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern int GetKeyNameText(
    uint lParam,

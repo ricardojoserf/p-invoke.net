@@ -1,6 +1,6 @@
 ## midiInReset
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiInReset(
    IntPtr hmi

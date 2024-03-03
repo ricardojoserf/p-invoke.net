@@ -1,6 +1,6 @@
 ## SysFreeString
 
-```
+```csharp
 [DllImport("oleaut32.dll", SetLastError = true)]
 public static extern void SysFreeString(
    IntPtr bstr

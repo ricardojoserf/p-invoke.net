@@ -1,6 +1,6 @@
 ## GetKeyState
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern short GetKeyState(
    int nVirtKey

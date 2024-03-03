@@ -1,6 +1,6 @@
 ## lineOpen
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int lineOpen(
    IntPtr hLineApp,

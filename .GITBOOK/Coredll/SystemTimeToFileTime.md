@@ -1,6 +1,6 @@
 ## SystemTimeToFileTime
 
-```
+```csharp
 [DllImport("coredll.dll")]
 public static extern void SystemTimeToFileTime(
    ref SYSTEMTIME lpSystemTime,

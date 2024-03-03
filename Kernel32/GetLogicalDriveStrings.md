@@ -1,6 +1,6 @@
 ## GetLogicalDriveStrings
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.U4)]
 public static extern uint GetLogicalDriveStrings(
    uint nBufferLength,

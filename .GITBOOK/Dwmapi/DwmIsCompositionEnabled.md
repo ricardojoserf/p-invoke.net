@@ -1,6 +1,6 @@
 ## DwmIsCompositionEnabled
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmIsCompositionEnabled(
    [MarshalAs(UnmanagedType.Bool)] out bool pfEnabled

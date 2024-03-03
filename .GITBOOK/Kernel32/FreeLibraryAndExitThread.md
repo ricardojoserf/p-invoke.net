@@ -1,6 +1,6 @@
 ## FreeLibraryAndExitThread
 
-```
+```csharp
 [DllImport("kernel32.dll", SetLastError = true)]
 public static extern void FreeLibraryAndExitThread(
    IntPtr hLibModule,

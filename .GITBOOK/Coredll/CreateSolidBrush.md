@@ -1,6 +1,6 @@
 ## CreateSolidBrush
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern IntPtr CreateSolidBrush(
    int crColor

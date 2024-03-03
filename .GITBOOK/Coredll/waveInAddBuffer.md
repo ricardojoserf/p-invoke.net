@@ -1,6 +1,6 @@
 ## waveInAddBuffer
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveInAddBuffer(
    IntPtr hwi,

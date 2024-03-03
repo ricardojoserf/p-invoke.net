@@ -1,6 +1,6 @@
 ## WlanHostedNetworkInitSettings
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanHostedNetworkInitSettings(
    IntPtr hClientHandle,

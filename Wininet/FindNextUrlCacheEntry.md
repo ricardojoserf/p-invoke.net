@@ -1,6 +1,6 @@
 ## FindNextUrlCacheEntry
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern bool FindNextUrlCacheEntry(
    IntPtr hFind,

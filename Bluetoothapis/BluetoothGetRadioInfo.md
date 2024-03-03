@@ -1,6 +1,6 @@
 ## BluetoothGetRadioInfo
 
-```
+```csharp
 [DllImport("BluetoothApis.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool BluetoothGetRadioInfo(
    IntPtr hRadio,

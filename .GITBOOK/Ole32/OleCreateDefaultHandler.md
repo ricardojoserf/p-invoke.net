@@ -1,6 +1,6 @@
 ## OleCreateDefaultHandler
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateDefaultHandler(
    ref Guid clsid,

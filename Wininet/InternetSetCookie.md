@@ -1,6 +1,6 @@
 ## InternetSetCookie
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern bool InternetSetCookie(
    string lpszUrl,

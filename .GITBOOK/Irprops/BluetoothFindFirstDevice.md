@@ -1,6 +1,6 @@
 ## BluetoothFindFirstDevice
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern IntPtr BluetoothFindFirstDevice(
    ref BLUETOOTH_DEVICE_SEARCH_PARAMS pbtdsp,

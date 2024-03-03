@@ -1,6 +1,6 @@
 ## GetSystemDirectory
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.U4)]
 public static extern uint GetSystemDirectory(
    StringBuilder lpBuffer,

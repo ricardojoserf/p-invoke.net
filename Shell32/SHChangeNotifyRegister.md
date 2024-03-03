@@ -1,6 +1,6 @@
 ## SHChangeNotifyRegister
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern uint SHChangeNotifyRegister(
    IntPtr hwnd,

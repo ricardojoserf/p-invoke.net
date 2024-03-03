@@ -1,6 +1,6 @@
 ## CreateMDIWindow
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern IntPtr CreateMDIWindowA(string lpClassName,
    string lpWindowName,

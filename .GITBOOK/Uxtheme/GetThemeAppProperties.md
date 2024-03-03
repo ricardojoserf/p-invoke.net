@@ -1,6 +1,6 @@
 ## GetThemeAppProperties
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern int GetThemeAppProperties(
    

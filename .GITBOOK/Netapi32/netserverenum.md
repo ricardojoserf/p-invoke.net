@@ -1,6 +1,6 @@
 ## netserverenum
 
-```
+```csharp
 [DllImport("netapi32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern uint NetServerEnum(string ServerName,
    uint Level,

@@ -1,6 +1,6 @@
 ## WlanScan
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanScan(
    IntPtr hClientHandle,

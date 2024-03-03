@@ -1,6 +1,6 @@
 ## GetThemeTextMetrics
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemeTextMetrics(
    IntPtr hTheme,

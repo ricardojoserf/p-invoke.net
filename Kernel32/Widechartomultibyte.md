@@ -1,6 +1,6 @@
 ## Widechartomultibyte
 
-```
+```csharp
 [DllImport("Kernel32.dll", CharSet = CharSet.Ansi, SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool WideCharToMultiByte(uint CodePage,
    uint dwFlags,

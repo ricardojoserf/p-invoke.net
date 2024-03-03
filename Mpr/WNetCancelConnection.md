@@ -1,6 +1,6 @@
 ## WNetCancelConnection
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint WNetCancelConnection(
    string lpszName,

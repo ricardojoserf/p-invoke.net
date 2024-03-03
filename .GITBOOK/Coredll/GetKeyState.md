@@ -1,6 +1,6 @@
 ## GetKeyState
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern short GetKeyState(
    VirtualKeyStates nVirtKey

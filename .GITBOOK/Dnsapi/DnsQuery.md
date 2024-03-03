@@ -1,6 +1,6 @@
 ## DnsQuery
 
-```
+```csharp
 [DllImport("dnsapi.dll", EntryPoint = "DnsQuery_A", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern int DnsQuery(
    string lpstrName,

@@ -1,6 +1,6 @@
 ## CharUpperBuff
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern uint CharUpperBuff(
    [In,

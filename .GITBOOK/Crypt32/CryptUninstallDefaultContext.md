@@ -1,6 +1,6 @@
 ## CryptUninstallDefaultContext
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptUninstallDefaultContext(
    IntPtr hCryptProv,

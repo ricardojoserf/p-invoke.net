@@ -1,6 +1,6 @@
 ## waveOutGetVolume
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutGetVolume(
    IntPtr hwo,

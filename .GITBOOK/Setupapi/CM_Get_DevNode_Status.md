@@ -1,6 +1,6 @@
 ## CM_Get_DevNode_Status
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern int CM_Get_DevNode_Status(
    out int pulStatus,

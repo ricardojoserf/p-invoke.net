@@ -1,6 +1,6 @@
 ## EnableTheming
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern bool EnableTheming(
    bool fEnable

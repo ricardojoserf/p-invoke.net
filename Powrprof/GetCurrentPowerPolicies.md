@@ -1,6 +1,6 @@
 ## GetCurrentPowerPolicies
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool GetCurrentPowerPolicies(
    ref SYSTEM_POWER_POLICY pGlobalPowerPolicy,

@@ -1,6 +1,6 @@
 ## CoUnmarshalInterface
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoUnmarshalInterface(
    IStream pStm,

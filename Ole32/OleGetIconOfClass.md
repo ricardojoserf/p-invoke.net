@@ -1,6 +1,6 @@
 ## OleGetIconOfClass
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleGetIconOfClass(
    ref Guid rclsid,

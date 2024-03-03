@@ -1,6 +1,6 @@
 ## PowerEnumerate
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool PowerEnumerate(
    IntPtr RootPowerKey,

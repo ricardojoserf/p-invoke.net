@@ -1,6 +1,6 @@
 ## SetForegroundWindow
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool SetForegroundWindow(
    IntPtr hWnd

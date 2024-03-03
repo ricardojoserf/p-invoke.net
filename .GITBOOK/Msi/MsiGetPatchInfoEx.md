@@ -1,6 +1,6 @@
 ## MsiGetPatchInfoEx
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiGetPatchInfoEx(
    [MarshalAs(UnmanagedType.LPTStr)] string szPatchCode,

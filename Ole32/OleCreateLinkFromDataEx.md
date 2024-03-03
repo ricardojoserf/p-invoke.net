@@ -1,6 +1,6 @@
 ## OleCreateLinkFromDataEx
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateLinkFromDataEx(
    IDataObject pSrcDataObj,

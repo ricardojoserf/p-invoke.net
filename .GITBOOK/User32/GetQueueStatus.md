@@ -1,6 +1,6 @@
 ## GetQueueStatus
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern uint GetQueueStatus(
    uint flags

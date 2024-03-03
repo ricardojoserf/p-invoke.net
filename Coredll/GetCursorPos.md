@@ -1,6 +1,6 @@
 ## GetCursorPos
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool GetCursorPos(
    ref POINT lpPoint

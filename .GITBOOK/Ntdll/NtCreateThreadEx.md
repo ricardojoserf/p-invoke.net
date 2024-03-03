@@ -1,6 +1,6 @@
 ## NtCreateThreadEx
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtCreateThreadEx(
    out IntPtr ThreadHandle,

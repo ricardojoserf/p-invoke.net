@@ -1,6 +1,6 @@
 ## PathRemoveArgs
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern void PathRemoveArgs(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

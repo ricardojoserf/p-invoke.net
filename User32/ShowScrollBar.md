@@ -1,6 +1,6 @@
 ## ShowScrollBar
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool ShowScrollBar(
    IntPtr hWnd,

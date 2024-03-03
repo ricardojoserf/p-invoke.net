@@ -1,6 +1,6 @@
 ## StgCreateStorageEx
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StgCreateStorageEx(
    [MarshalAs(UnmanagedType.LPWStr)] string pwcsName,

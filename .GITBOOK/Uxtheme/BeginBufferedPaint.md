@@ -1,6 +1,6 @@
 ## BeginBufferedPaint
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern IntPtr BeginBufferedPaint(
    HDC hdcTarget,

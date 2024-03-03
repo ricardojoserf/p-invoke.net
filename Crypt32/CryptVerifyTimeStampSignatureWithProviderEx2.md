@@ -1,6 +1,6 @@
 ## CryptVerifyTimeStampSignatureWithProviderEx2
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptVerifyTimeStampSignatureWithProviderEx2(
    byte[] pbTSContentInfo,

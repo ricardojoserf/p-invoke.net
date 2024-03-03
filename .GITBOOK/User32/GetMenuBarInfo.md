@@ -1,6 +1,6 @@
 ## GetMenuBarInfo
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern bool GetMenuBarInfo(
    IntPtr hwnd,

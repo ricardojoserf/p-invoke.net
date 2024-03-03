@@ -1,6 +1,6 @@
 ## SetFocus
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern IntPtr SetFocus(
    IntPtr hWnd

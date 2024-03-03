@@ -1,6 +1,6 @@
 ## CM_Get_Child
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern int CM_Get_Child(
    out uint pdnDevInst,

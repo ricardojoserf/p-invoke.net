@@ -1,6 +1,6 @@
 ## ShowWindow
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool ShowWindow(
    IntPtr hWnd,

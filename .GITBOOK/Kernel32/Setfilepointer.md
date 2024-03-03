@@ -1,6 +1,6 @@
 ## Setfilepointer
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)]
 public static extern uint SetFilePointer(IntPtr hFile,
    int lDistanceToMove,

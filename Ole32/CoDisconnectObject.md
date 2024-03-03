@@ -1,6 +1,6 @@
 ## CoDisconnectObject
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoDisconnectObject(
    IUnknown pUnk,

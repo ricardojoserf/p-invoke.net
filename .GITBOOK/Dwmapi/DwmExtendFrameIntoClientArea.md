@@ -1,6 +1,6 @@
 ## DwmExtendFrameIntoClientArea
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmExtendFrameIntoClientArea(
    IntPtr hwnd,

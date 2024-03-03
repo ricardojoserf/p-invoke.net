@@ -1,6 +1,6 @@
 ## DwmRegisterThumbnail
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmRegisterThumbnail(
    IntPtr hwndDestination,

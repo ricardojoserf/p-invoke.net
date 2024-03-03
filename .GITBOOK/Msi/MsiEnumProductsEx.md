@@ -1,6 +1,6 @@
 ## MsiEnumProductsEx
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiEnumProductsEx(
    [MarshalAs(UnmanagedType.LPTStr)] string szProductCode,

@@ -1,6 +1,6 @@
 ## DsMapSchemaGuids
 
-```
+```csharp
 [DllImport("ntdsapi.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern int DsMapSchemaGuids(
    IntPtr hDS,

@@ -1,6 +1,6 @@
 ## SHPathPrepareForWrite
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int SHPathPrepareForWrite(
    IntPtr hwnd,

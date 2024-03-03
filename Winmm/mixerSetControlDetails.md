@@ -1,6 +1,6 @@
 ## mixerSetControlDetails
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint mixerSetControlDetails(
    IntPtr hmxobj,

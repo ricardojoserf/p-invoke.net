@@ -1,6 +1,6 @@
 ## CryptEnumProviderTypes
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern bool CryptEnumProviderTypes(
    uint dwIndex,

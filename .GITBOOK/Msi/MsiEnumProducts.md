@@ -1,6 +1,6 @@
 ## MsiEnumProducts
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiEnumProducts(
    uint iProductIndex,

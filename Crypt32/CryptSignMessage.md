@@ -1,6 +1,6 @@
 ## CryptSignMessage
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptSignMessage(
    ref CRYPT_SIGN_MESSAGE_PARA pSignPara,

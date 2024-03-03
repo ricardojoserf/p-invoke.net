@@ -1,6 +1,6 @@
 ## midiConnect
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiConnect(
    IntPtr hmi,

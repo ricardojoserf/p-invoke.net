@@ -1,6 +1,6 @@
 ## DrawThemeIcon
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT DrawThemeIcon(
    IntPtr hTheme,

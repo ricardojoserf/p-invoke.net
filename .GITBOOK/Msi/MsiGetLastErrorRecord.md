@@ -1,6 +1,6 @@
 ## MsiGetLastErrorRecord
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern IntPtr MsiGetLastErrorRecord(
    

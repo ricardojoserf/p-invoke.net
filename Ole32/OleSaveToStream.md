@@ -1,6 +1,6 @@
 ## OleSaveToStream
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleSaveToStream(
    IPersistStream pPStm,

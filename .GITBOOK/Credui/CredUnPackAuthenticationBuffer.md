@@ -1,6 +1,6 @@
 ## CredUnPackAuthenticationBuffer
 
-```
+```csharp
 [DllImport("Credui.dll", SetLastError = true)]
 public static extern CREDUI_RETURN CredUnPackAuthenticationBuffer(
    CREDUI_INFO pUiInfo,

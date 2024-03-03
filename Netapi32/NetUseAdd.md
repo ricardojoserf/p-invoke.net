@@ -1,6 +1,6 @@
 ## NetUseAdd
 
-```
+```csharp
 [DllImport("netapi32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern uint NetUseAdd(
    string UncServerName,

@@ -1,6 +1,6 @@
 ## EnumProcessModules
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool EnumProcessModules(
    IntPtr hProcess,

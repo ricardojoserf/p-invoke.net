@@ -1,6 +1,6 @@
 ## CoGetMarshalSizeMax
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoGetMarshalSizeMax(
    out uint pulSize,

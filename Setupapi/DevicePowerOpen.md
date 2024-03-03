@@ -1,6 +1,6 @@
 ## DevicePowerOpen
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern IntPtr DevicePowerOpen(
    IntPtr DeviceInfoSet,

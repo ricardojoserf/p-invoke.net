@@ -1,6 +1,6 @@
 ## PageSetupDlg
 
-```
+```csharp
 [DllImport("Comdlg32.dll", SetLastError = true)]
 public static extern bool PageSetupDlg(
    ref PAGESETUPDLG lppsd

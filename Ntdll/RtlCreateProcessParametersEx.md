@@ -1,6 +1,6 @@
 ## RtlCreateProcessParametersEx
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int RtlCreateProcessParametersEx(
    out IntPtr pProcessParameters,

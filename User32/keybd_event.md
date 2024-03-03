@@ -1,6 +1,6 @@
 ## keybd_event
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern void keybd_event(
    byte bVk,

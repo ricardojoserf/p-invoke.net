@@ -1,6 +1,6 @@
 ## ImageList_Duplicate
 
-```
+```csharp
 [DllImport("Comctl32.dll", SetLastError = true)]
 public static extern IntPtr ImageList_Duplicate(
    IntPtr himl

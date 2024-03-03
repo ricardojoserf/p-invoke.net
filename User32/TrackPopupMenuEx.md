@@ -1,6 +1,6 @@
 ## TrackPopupMenuEx
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool TrackPopupMenuEx(
    IntPtr hMenu,

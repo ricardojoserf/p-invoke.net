@@ -1,6 +1,6 @@
 ## Werregisterfile
 
-```
+```csharp
 [DllImport("wer.dll", SetLastError = true)]
 public static extern HRESULT WerRegisterFile(string pwzFile,
    WER_REGISTER_FILE_TYPE regFileType,

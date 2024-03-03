@@ -1,6 +1,6 @@
 ## NtRaiseHandError
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern void NtRaiseHandError(
    uint BugCheckCode,

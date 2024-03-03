@@ -1,6 +1,6 @@
 ## CM_Get_DevNode_Registry_Property
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int CM_Get_DevNode_Registry_Property(
    uint dnDevInst,

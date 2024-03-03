@@ -1,6 +1,6 @@
 ## SHCreateStreamOnFile
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int SHCreateStreamOnFile(
    [MarshalAs(UnmanagedType.LPWStr)] string pszFile,

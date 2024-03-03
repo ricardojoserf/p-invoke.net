@@ -1,6 +1,6 @@
 ## SetPrinter
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool SetPrinter(
    IntPtr hPrinter,

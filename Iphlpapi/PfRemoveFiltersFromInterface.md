@@ -1,6 +1,6 @@
 ## PfRemoveFiltersFromInterface
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern int PfRemoveFiltersFromInterface(
    ref IP_ADAPTER_BINDING_INFO AdapterInfo,

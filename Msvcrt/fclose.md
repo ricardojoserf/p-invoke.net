@@ -1,6 +1,6 @@
 ## fclose
 
-```
+```csharp
 [DllImport("msvcrt.dll", CallingConvention = CallingConvention.Cdecl, SetLastError = true)]
 public static extern int fclose(
    IntPtr stream

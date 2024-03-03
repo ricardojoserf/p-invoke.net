@@ -1,6 +1,6 @@
 ## InitializeObjectAttributes
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern void InitializeObjectAttributes(
    ref OBJECT_ATTRIBUTES InitializedAttributes,

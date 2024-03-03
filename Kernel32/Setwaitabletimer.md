@@ -1,6 +1,6 @@
 ## Setwaitabletimer
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool SetWaitableTimer(IntPtr hTimer,
    [In] ref LARGE_INTEGER pDueTime,

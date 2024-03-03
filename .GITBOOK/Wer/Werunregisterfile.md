@@ -1,6 +1,6 @@
 ## Werunregisterfile
 
-```
+```csharp
 [DllImport("wer.dll", SetLastError = true)]
 public static extern HRESULT WerUnregisterFile(ulong dwRequestId
 );

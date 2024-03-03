@@ -1,6 +1,6 @@
 ## SetTCPEntry
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern int SetTCPEntry(
    ref MIB_TCPROW pTcpRow

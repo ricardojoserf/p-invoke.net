@@ -1,6 +1,6 @@
 ## OleCreatePictureIndirect
 
-```
+```csharp
 [DllImport("oleaut32.dll", SetLastError = true)]
 public static extern int OleCreatePictureIndirect(
    [MarshalAs(UnmanagedType.Struct)] ref PICTDESC ppictdesc,

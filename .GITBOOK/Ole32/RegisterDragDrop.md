@@ -1,6 +1,6 @@
 ## RegisterDragDrop
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int RegisterDragDrop(
    IntPtr hwnd,

@@ -1,6 +1,6 @@
 ## CM_Reenumerate_DevNode_Ex
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern int CM_Reenumerate_DevNode_Ex(
    uint dnDevInst,

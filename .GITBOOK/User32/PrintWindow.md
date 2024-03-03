@@ -1,6 +1,6 @@
 ## PrintWindow
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool PrintWindow(
    IntPtr hwnd,

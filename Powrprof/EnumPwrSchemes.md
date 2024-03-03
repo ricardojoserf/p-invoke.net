@@ -1,6 +1,6 @@
 ## EnumPwrSchemes
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool EnumPwrSchemes(
    IntPtr hUser,

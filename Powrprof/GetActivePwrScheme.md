@@ -1,6 +1,6 @@
 ## GetActivePwrScheme
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool GetActivePwrScheme(
    IntPtr UserRootPowerKey,

@@ -1,6 +1,6 @@
 ## DwmGetCompositionTimingInfo
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmGetCompositionTimingInfo(
    IntPtr hwnd,

@@ -1,6 +1,6 @@
 ## SetupFindNextMatchLine
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern bool SetupFindNextMatchLine(
    IntPtr InfHandle,

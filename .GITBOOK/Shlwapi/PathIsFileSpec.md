@@ -1,6 +1,6 @@
 ## PathIsFileSpec
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathIsFileSpec(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

@@ -1,6 +1,6 @@
 ## WNetCloseEnum
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint WNetCloseEnum(
    IntPtr hEnum

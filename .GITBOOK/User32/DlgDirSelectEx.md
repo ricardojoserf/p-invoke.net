@@ -1,6 +1,6 @@
 ## DlgDirSelectEx
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern bool DlgDirSelectExA(IntPtr hwndDlg,
    StringBuilder lpString,

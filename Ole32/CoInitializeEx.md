@@ -1,6 +1,6 @@
 ## CoInitializeEx
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoInitializeEx(
    IntPtr pvReserved,

@@ -1,6 +1,6 @@
 ## ColorHLSToRGB
 
-```
+```csharp
 [DllImport("shlwapi.dll")]
 public static extern uint ColorHLSToRGB(
    ushort wHue,

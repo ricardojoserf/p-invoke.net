@@ -1,6 +1,6 @@
 ## BluetoothGetRadioInfo
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothGetRadioInfo(
    IntPtr hRadio,

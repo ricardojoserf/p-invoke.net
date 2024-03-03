@@ -1,6 +1,6 @@
 ## CertStrToName
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern bool CertStrToName(
    uint dwCertEncodingType,

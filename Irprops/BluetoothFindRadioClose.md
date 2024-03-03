@@ -1,6 +1,6 @@
 ## BluetoothFindRadioClose
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern bool BluetoothFindRadioClose(
    IntPtr hFind

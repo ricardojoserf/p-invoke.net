@@ -1,6 +1,6 @@
 ## IsWindowEnabled
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool IsWindowEnabled(
    IntPtr hWnd

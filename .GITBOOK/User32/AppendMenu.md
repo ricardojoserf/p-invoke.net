@@ -1,6 +1,6 @@
 ## AppendMenu
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Unicode)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool AppendMenu(
    IntPtr hMenu,

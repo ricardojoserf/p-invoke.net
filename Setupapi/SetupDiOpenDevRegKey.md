@@ -1,6 +1,6 @@
 ## SetupDiOpenDevRegKey
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern IntPtr SetupDiOpenDevRegKey(
    IntPtr DeviceInfoSet,

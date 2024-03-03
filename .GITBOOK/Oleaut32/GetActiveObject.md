@@ -1,6 +1,6 @@
 ## GetActiveObject
 
-```
+```csharp
 [DllImport("oleaut32.dll", SetLastError = true)]
 public static extern int GetActiveObject(
    [MarshalAs(UnmanagedType.LPStruct)] Guid rclsid,

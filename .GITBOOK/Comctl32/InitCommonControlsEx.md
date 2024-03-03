@@ -1,6 +1,6 @@
 ## InitCommonControlsEx
 
-```
+```csharp
 [DllImport("Comctl32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool InitCommonControlsEx(
    ref INITCOMMONCONTROLSEX iccex

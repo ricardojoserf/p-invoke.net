@@ -1,6 +1,6 @@
 ## CloseThemeData
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT CloseThemeData(
    IntPtr hTheme

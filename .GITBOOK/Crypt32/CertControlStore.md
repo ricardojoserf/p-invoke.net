@@ -1,6 +1,6 @@
 ## CertControlStore
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CertControlStore(
    IntPtr hCertStore,

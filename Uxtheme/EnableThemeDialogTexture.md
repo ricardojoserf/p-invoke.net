@@ -1,6 +1,6 @@
 ## EnableThemeDialogTexture
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern bool EnableThemeDialogTexture(
    HWND hwnd,

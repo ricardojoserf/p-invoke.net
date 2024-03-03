@@ -1,6 +1,6 @@
 ## EndPagePrinter
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool EndPagePrinter(
    IntPtr hPrinter

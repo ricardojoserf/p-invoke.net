@@ -1,6 +1,6 @@
 ## WTSShutdownSystem
 
-```
+```csharp
 [DllImport("wtsapi32.dll", SetLastError = true)]
 public static extern bool WTSShutdownSystem(
    IntPtr hServer,

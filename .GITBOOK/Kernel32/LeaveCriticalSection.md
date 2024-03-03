@@ -1,6 +1,6 @@
 ## LeaveCriticalSection
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool LeaveCriticalSection(
    ref CRITICAL_SECTION lpCriticalSection

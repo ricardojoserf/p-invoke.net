@@ -1,6 +1,6 @@
 ## BufferedPaintSetAlpha
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT BufferedPaintSetAlpha(
    IntPtr hBufferedPaint,

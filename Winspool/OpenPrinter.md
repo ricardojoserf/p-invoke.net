@@ -1,6 +1,6 @@
 ## OpenPrinter
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool OpenPrinter(
    string pPrinterName,

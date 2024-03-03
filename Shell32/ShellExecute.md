@@ -1,6 +1,6 @@
 ## ShellExecute
 
-```
+```csharp
 [DllImport("shell32.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr ShellExecute(
    IntPtr hwnd,

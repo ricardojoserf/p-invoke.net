@@ -1,6 +1,6 @@
 ## InternetCloseHandle
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern bool InternetCloseHandle(
    IntPtr hInternet

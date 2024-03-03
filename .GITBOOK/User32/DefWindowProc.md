@@ -1,6 +1,6 @@
 ## DefWindowProc
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern IntPtr DefWindowProcA(IntPtr hWnd,
    uint Msg,

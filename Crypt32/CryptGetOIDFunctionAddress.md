@@ -1,6 +1,6 @@
 ## CryptGetOIDFunctionAddress
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptGetOIDFunctionAddress(
    IntPtr hFuncSet,

@@ -1,6 +1,6 @@
 ## SQLFreeStmt
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLFreeStmt(
    IntPtr hstmt,

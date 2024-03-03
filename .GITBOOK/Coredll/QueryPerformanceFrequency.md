@@ -1,6 +1,6 @@
 ## QueryPerformanceFrequency
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int QueryPerformanceFrequency(
    out long lpFrequency

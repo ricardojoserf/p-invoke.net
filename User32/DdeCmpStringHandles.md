@@ -1,6 +1,6 @@
 ## DdeCmpStringHandles
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern int DdeCmpStringHandles(
    IntPtr hsz1,

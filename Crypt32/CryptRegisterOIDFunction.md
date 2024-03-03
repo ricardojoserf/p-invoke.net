@@ -1,6 +1,6 @@
 ## CryptRegisterOIDFunction
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptRegisterOIDFunction(
    uint dwEncodingType,

@@ -1,6 +1,6 @@
 ## HttpSetServiceConfiguration
 
-```
+```csharp
 [DllImport("Httpapi.dll", SetLastError = true)]
 public static extern uint HttpSetServiceConfiguration(
    IntPtr ServiceIntPtr,

@@ -1,6 +1,6 @@
 ## WSANSIoctl
 
-```
+```csharp
 [DllImport("ws2_32.dll", SetLastError = true)]
 public static extern int WSANSIoctl(
    IntPtr hLookup,

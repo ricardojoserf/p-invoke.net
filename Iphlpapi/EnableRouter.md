@@ -1,6 +1,6 @@
 ## EnableRouter
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern int EnableRouter(
    ref IP_MIB_SET_INPUT_DATA pInputData

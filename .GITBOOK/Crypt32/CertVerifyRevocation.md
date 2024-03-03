@@ -1,6 +1,6 @@
 ## CertVerifyRevocation
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CertVerifyRevocation(
    uint dwEncodingType,

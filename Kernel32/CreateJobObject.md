@@ -1,6 +1,6 @@
 ## CreateJobObject
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafeJobHandle CreateJobObject(
    IntPtr lpJobAttributes,

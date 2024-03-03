@@ -1,6 +1,6 @@
 ## ExtEscape
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int ExtEscape(
    IntPtr hdc,

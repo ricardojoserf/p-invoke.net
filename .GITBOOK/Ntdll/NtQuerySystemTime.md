@@ -1,6 +1,6 @@
 ## NtQuerySystemTime
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern void NtQuerySystemTime(
    out LARGE_INTEGER SystemTime

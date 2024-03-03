@@ -1,6 +1,6 @@
 ## AbortPrinter
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool AbortPrinter(
    IntPtr hPrinter

@@ -1,6 +1,6 @@
 ## waveInAddBuffer
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveInAddBuffer(
    IntPtr hwi,

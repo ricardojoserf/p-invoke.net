@@ -1,6 +1,6 @@
 ## Alphablend
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool AlphaBlend(IntPtr hdcDest,
    int xDest,

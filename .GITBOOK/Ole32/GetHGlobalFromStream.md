@@ -1,6 +1,6 @@
 ## GetHGlobalFromStream
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int GetHGlobalFromStream(
    IStream pstm,

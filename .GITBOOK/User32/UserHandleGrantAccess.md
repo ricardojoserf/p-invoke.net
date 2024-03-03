@@ -1,6 +1,6 @@
 ## UserHandleGrantAccess
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool UserHandleGrantAccess(
    IntPtr hUserHandle,

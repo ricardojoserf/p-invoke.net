@@ -1,6 +1,6 @@
 ## CM_Get_Device_IDA
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern int CM_Get_Device_IDA(
    uint dnDevInst,

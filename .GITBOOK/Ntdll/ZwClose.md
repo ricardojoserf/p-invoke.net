@@ -1,6 +1,6 @@
 ## ZwClose
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int ZwClose(
    IntPtr hObject

@@ -1,6 +1,6 @@
 ## waveOutPrepareHeader
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveOutPrepareHeader(
    IntPtr hwo,

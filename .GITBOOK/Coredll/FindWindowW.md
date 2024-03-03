@@ -1,6 +1,6 @@
 ## FindWindowW
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern IntPtr FindWindowW(
    string lpClassName,

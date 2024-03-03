@@ -1,6 +1,6 @@
 ## GetSystemMemoryDivision
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool GetSystemMemoryDivision(
    out uint lpdwStorePages,

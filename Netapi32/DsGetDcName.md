@@ -1,6 +1,6 @@
 ## DsGetDcName
 
-```
+```csharp
 [DllImport("netapi32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern uint DsGetDcName(
    string ComputerName,

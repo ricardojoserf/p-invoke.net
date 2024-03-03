@@ -1,6 +1,6 @@
 ## CM_Request_Device_Eject
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int CM_Request_Device_Eject(
    uint dnDevInst,

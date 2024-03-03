@@ -1,6 +1,6 @@
 ## ReadClassStm
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int ReadClassStm(
    IStream pStm,

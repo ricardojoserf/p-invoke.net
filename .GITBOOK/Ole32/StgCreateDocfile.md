@@ -1,6 +1,6 @@
 ## StgCreateDocfile
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StgCreateDocfile(
    [MarshalAs(UnmanagedType.LPWStr)] string pwcsName,

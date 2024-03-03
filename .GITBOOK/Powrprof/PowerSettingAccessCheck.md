@@ -1,6 +1,6 @@
 ## PowerSettingAccessCheck
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern uint PowerSettingAccessCheck(
    Guid PowerGuid

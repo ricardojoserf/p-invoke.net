@@ -1,6 +1,6 @@
 ## EnumTimeFormats
 
-```
+```csharp
 [DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern bool EnumTimeFormatsA(TimeFmtEnumProc lpTimeFmtEnumProc,
    uint lParam

@@ -1,6 +1,6 @@
 ## DrawText
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern int DrawTextA(IntPtr hdc,
    string lpchText,

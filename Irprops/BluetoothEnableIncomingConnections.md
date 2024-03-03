@@ -1,6 +1,6 @@
 ## BluetoothEnableIncomingConnections
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothEnableIncomingConnections(
    IntPtr hRadio,

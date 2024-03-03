@@ -1,6 +1,6 @@
 ## waveOutWrite
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveOutWrite(
    IntPtr hwo,

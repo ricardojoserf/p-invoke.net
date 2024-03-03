@@ -1,6 +1,6 @@
 ## FindMimeFromData
 
-```
+```csharp
 [DllImport("urlmon.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern int FindMimeFromData(
    IntPtr pBC,

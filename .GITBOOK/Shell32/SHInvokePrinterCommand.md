@@ -1,6 +1,6 @@
 ## SHInvokePrinterCommand
 
-```
+```csharp
 [DllImport("shell32.dll", CharSet = CharSet.Unicode)]
 public static extern bool SHInvokePrinterCommand(
    IntPtr hwnd,

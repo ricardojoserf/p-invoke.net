@@ -1,6 +1,6 @@
 ## NetShareAdd
 
-```
+```csharp
 [DllImport("Comdlg32.dll", SetLastError = true)]
 public static extern NET_API_STATUS NetShareAdd(
    [MarshalAs(UnmanagedType.LPWStr)] string servername,

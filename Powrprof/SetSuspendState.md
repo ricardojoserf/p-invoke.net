@@ -1,6 +1,6 @@
 ## SetSuspendState
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool SetSuspendState(
    bool Hibernate,

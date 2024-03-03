@@ -1,6 +1,6 @@
 ## LoadLibraryW
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern IntPtr LoadLibraryW(
    string lpLibFileName

@@ -1,6 +1,6 @@
 ## GetThemeBool
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemeBool(
    IntPtr hTheme,

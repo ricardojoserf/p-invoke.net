@@ -1,6 +1,6 @@
 ## SetMenuInfo
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool SetMenuInfo(
    IntPtr hMenu,

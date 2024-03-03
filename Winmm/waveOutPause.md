@@ -1,6 +1,6 @@
 ## waveOutPause
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutPause(
    IntPtr hwo

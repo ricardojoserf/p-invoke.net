@@ -1,6 +1,6 @@
 ## WlanHostedNetworkQueryStatus
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanHostedNetworkQueryStatus(
    IntPtr hClientHandle,

@@ -1,6 +1,6 @@
 ## DsGetDomainControllerInfo
 
-```
+```csharp
 [DllImport("ntdsapi.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern int DsGetDomainControllerInfo(
    IntPtr hDS,

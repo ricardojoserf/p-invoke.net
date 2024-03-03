@@ -1,6 +1,6 @@
 ## CoRegisterClassObject
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoRegisterClassObject(
    ref Guid rclsid,

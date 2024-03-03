@@ -1,6 +1,6 @@
 ## InvalidateRect
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool InvalidateRect(
    IntPtr hWnd,

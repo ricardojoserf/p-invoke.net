@@ -1,6 +1,6 @@
 ## CryptMemFree
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptMemFree(
    IntPtr pv

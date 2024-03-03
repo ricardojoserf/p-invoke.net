@@ -1,6 +1,6 @@
 ## InternetHangUp
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern bool InternetHangUp(
    IntPtr dwReserved

@@ -1,6 +1,6 @@
 ## GetFileVersionInfo
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern bool GetFileVersionInfo(
    string lptstrFilename,

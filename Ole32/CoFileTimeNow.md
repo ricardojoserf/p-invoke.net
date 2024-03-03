@@ -1,6 +1,6 @@
 ## CoFileTimeNow
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoFileTimeNow(
    out FILETIME lpFileTime

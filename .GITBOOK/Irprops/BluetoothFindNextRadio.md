@@ -1,6 +1,6 @@
 ## BluetoothFindNextRadio
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern bool BluetoothFindNextRadio(
    IntPtr hFind,

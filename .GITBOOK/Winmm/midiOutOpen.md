@@ -1,6 +1,6 @@
 ## midiOutOpen
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiOutOpen(
    out IntPtr lphmo,

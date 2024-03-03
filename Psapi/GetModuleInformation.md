@@ -1,6 +1,6 @@
 ## GetModuleInformation
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool GetModuleInformation(
    IntPtr hProcess,

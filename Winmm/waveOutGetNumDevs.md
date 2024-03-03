@@ -1,6 +1,6 @@
 ## waveOutGetNumDevs
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutGetNumDevs(
    

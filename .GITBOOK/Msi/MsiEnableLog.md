@@ -1,6 +1,6 @@
 ## MsiEnableLog
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiEnableLog(
    uint dwLogMode,

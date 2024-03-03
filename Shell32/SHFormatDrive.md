@@ -1,6 +1,6 @@
 ## SHFormatDrive
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern int SHFormatDrive(
    IntPtr hwnd,

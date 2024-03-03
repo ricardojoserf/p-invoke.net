@@ -1,6 +1,6 @@
 ## IsCatalogFile
 
-```
+```csharp
 [DllImport("wintrust.dll", SetLastError = true)]
 public static extern bool IsCatalogFile(
    IntPtr pwszFileName

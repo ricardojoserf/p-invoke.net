@@ -1,6 +1,6 @@
 ## DragQueryFile
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern uint DragQueryFile(
    IntPtr hDrop,

@@ -1,6 +1,6 @@
 ## CryptGetAsyncParam
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptGetAsyncParam(
    IntPtr hAsyncCryptProv,

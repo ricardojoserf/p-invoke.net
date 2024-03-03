@@ -1,6 +1,6 @@
 ## InternetDial
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern int InternetDial(
    IntPtr hwndParent,

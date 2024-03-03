@@ -1,6 +1,6 @@
 ## CoFreeLibrary
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern void CoFreeLibrary(
    uint hLibrary

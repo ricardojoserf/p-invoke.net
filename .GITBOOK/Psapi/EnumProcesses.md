@@ -1,6 +1,6 @@
 ## EnumProcesses
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool EnumProcesses(
    [MarshalAs(UnmanagedType.LPArray,

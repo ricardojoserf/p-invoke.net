@@ -1,6 +1,6 @@
 ## RevokeDragDrop
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int RevokeDragDrop(
    IntPtr hwnd

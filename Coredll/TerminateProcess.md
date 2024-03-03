@@ -1,6 +1,6 @@
 ## TerminateProcess
 
-```
+```csharp
 [DllImport("coredll.dll")]
 public static extern uint TerminateProcess(
    IntPtr hProcess,

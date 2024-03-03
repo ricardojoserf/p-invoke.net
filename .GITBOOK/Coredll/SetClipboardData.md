@@ -1,6 +1,6 @@
 ## SetClipboardData
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern IntPtr SetClipboardData(
    uint uFormat,

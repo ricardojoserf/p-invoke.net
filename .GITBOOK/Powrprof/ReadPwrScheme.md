@@ -1,6 +1,6 @@
 ## ReadPwrScheme
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool ReadPwrScheme(
    IntPtr UserRootPowerKey,

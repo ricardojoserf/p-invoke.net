@@ -1,6 +1,6 @@
 ## SetupDiSetClassInstallParams
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern bool SetupDiSetClassInstallParams(
    IntPtr DeviceInfoSet,

@@ -1,6 +1,6 @@
 ## PathIsHTMLFile
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathIsHTMLFile(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

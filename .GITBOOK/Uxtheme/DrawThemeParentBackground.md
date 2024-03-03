@@ -1,6 +1,6 @@
 ## DrawThemeParentBackground
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT DrawThemeParentBackground(
    HWND hwnd,

@@ -1,6 +1,6 @@
 ## DwmSetColorizationParameters
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmSetColorizationParameters(
    ref DWM_COLORIZATION_PARAMS parameters,

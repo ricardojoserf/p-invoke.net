@@ -1,6 +1,6 @@
 ## CoCreateGuid
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoCreateGuid(
    out Guid pguid

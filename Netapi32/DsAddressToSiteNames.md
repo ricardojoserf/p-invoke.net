@@ -1,6 +1,6 @@
 ## DsAddressToSiteNames
 
-```
+```csharp
 [DllImport("netapi32.dll", SetLastError = true)]
 public static extern uint DsAddressToSiteNames(
    string ComputerName,

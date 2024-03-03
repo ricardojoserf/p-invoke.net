@@ -1,6 +1,6 @@
 ## NtQueryObject
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtQueryObject(
    IntPtr ObjectHandle,

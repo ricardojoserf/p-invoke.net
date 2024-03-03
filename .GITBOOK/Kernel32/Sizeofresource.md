@@ -1,6 +1,6 @@
 ## Sizeofresource
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.U4)]
 public static extern uint SizeofResource(IntPtr hModule,
    IntPtr hResInfo

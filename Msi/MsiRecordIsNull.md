@@ -1,6 +1,6 @@
 ## MsiRecordIsNull
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern bool MsiRecordIsNull(
    IntPtr hRecord,

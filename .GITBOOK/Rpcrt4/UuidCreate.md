@@ -1,6 +1,6 @@
 ## UuidCreate
 
-```
+```csharp
 [DllImport("rpcrt4.dll", SetLastError = true)]
 public static extern int UuidCreate(
    out Guid Uuid

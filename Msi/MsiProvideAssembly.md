@@ -1,6 +1,6 @@
 ## MsiProvideAssembly
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiProvideAssembly(
    [MarshalAs(UnmanagedType.LPTStr)] string szAssemblyName,

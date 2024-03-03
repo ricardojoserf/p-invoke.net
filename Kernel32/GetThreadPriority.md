@@ -1,6 +1,6 @@
 ## GetThreadPriority
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.U4)]
 public static extern int GetThreadPriority(
    IntPtr hThread

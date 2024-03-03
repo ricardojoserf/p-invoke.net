@@ -1,6 +1,6 @@
 ## SHGetSettings
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern bool SHGetSettings(
    ref SHFOLDERCUSTOMSETTINGS pscs,

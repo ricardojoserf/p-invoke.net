@@ -1,6 +1,6 @@
 ## InternetGetConnectedState
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern bool InternetGetConnectedState(
    out uint lpdwFlags,

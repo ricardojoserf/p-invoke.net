@@ -1,6 +1,6 @@
 ## CertFreeCTLContext
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CertFreeCTLContext(
    IntPtr pCtlContext

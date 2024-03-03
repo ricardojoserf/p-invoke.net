@@ -1,6 +1,6 @@
 ## PathGetArgs
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr PathGetArgs(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

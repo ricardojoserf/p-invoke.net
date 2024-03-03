@@ -1,6 +1,6 @@
 ## SetupFindNextLine
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern bool SetupFindNextLine(
    IntPtr InfHandle,

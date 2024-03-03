@@ -1,6 +1,6 @@
 ## SQLFreeEnv
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLFreeEnv(
    IntPtr henv

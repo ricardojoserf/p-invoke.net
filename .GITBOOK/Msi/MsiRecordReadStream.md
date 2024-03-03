@@ -1,6 +1,6 @@
 ## MsiRecordReadStream
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiRecordReadStream(
    IntPtr hRecord,

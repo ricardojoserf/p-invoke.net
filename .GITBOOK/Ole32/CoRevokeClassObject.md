@@ -1,6 +1,6 @@
 ## CoRevokeClassObject
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoRevokeClassObject(
    uint dwRegister

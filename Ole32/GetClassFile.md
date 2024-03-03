@@ -1,6 +1,6 @@
 ## GetClassFile
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int GetClassFile(
    string szFilename,

@@ -1,6 +1,6 @@
 ## MsiSetProperty
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiSetProperty(
    IntPtr hInstall,

@@ -1,6 +1,6 @@
 ## Lcmapstringex
 
-```
+```csharp
 [DllImport("Kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)][return: MarshalAs(UnmanagedType.U4)]
 public static extern uint LCMapStringEx(string lpLocaleName,
    uint dwMapFlags,

@@ -1,6 +1,6 @@
 ## GetThemeTransitionDuration
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemeTransitionDuration(
    IntPtr hTheme,

@@ -1,6 +1,6 @@
 ## BluetoothIsDiscoverable
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothIsDiscoverable(
    IntPtr hRadio,

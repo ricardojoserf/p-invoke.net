@@ -1,6 +1,6 @@
 ## lineInitializeEx
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int lineInitializeEx(
    IntPtr phLineApp,

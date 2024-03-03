@@ -1,6 +1,6 @@
 ## NetApiBufferFree
 
-```
+```csharp
 [DllImport("netapi32.dll", SetLastError = true)]
 public static extern uint NetApiBufferFree(
    IntPtr Buffer

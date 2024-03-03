@@ -1,6 +1,6 @@
 ## DwmDefWindowProc
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern IntPtr DwmDefWindowProc(
    IntPtr hwnd,

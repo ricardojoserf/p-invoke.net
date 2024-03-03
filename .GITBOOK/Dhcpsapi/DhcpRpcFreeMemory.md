@@ -1,6 +1,6 @@
 ## DhcpRpcFreeMemory
 
-```
+```csharp
 [DllImport("dhcpsapi.dll", SetLastError = true)]
 public static extern uint DhcpRpcFreeMemory(
    IntPtr BufferPointer

@@ -1,6 +1,6 @@
 ## waveOutGetErrorText
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutGetErrorText(
    uint mmrError,

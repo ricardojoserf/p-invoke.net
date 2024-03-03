@@ -1,6 +1,6 @@
 ## EnumResourceTypes
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool EnumResourceTypes(
    IntPtr hModule,

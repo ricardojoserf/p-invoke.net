@@ -1,6 +1,6 @@
 ## GetNextDlgGroupItem
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern IntPtr GetNextDlgGroupItem(
    IntPtr hDlg,

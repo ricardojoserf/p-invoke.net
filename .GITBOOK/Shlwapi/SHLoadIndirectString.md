@@ -1,6 +1,6 @@
 ## SHLoadIndirectString
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int SHLoadIndirectString(
    [MarshalAs(UnmanagedType.LPWStr)] string pszSource,

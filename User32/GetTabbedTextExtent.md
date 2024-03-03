@@ -1,6 +1,6 @@
 ## GetTabbedTextExtent
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern uint GetTabbedTextExtent(
    IntPtr hdc,

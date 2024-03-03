@@ -1,6 +1,6 @@
 ## GetProcessMemoryInfo
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true)]
 public static extern bool GetProcessMemoryInfo(
    IntPtr hProcess,

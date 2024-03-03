@@ -1,6 +1,6 @@
 ## PrivacyGetZonePreference
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern bool PrivacyGetZonePreference(
    uint dwZone,

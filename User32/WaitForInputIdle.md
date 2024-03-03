@@ -1,6 +1,6 @@
 ## WaitForInputIdle
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern uint WaitForInputIdle(
    IntPtr hProcess,

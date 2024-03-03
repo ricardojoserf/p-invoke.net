@@ -1,6 +1,6 @@
 ## HttpQueryServiceConfiguration
 
-```
+```csharp
 [DllImport("Httpapi.dll", SetLastError = true)]
 public static extern uint HttpQueryServiceConfiguration(
    IntPtr ServiceIntPtr,

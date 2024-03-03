@@ -1,6 +1,6 @@
 ## PFXImportCertStore
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern IntPtr PFXImportCertStore(
    ref CRYPT_DATA_BLOB pPFX,

@@ -1,6 +1,6 @@
 ## GetThemeInt
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemeInt(
    IntPtr hTheme,

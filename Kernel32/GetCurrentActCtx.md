@@ -1,6 +1,6 @@
 ## GetCurrentActCtx
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool GetCurrentActCtx(
    out IntPtr phActCtx

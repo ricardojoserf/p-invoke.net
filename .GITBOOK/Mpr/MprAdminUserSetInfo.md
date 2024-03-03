@@ -1,6 +1,6 @@
 ## MprAdminUserSetInfo
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint MprAdminUserSetInfo(
    string servername,

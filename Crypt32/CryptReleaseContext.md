@@ -1,6 +1,6 @@
 ## CryptReleaseContext
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptReleaseContext(
    IntPtr hProv,

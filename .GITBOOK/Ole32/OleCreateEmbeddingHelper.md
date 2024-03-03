@@ -1,6 +1,6 @@
 ## OleCreateEmbeddingHelper
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateEmbeddingHelper(
    ref Guid rclsid,

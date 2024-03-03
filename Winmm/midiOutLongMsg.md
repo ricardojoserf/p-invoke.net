@@ -1,6 +1,6 @@
 ## midiOutLongMsg
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiOutLongMsg(
    IntPtr hmo,

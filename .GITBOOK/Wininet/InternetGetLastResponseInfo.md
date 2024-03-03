@@ -1,6 +1,6 @@
 ## InternetGetLastResponseInfo
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern bool InternetGetLastResponseInfo(
    out uint lpdwError,

@@ -1,6 +1,6 @@
 ## GetTextColor
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint GetTextColor(
    IntPtr hdc

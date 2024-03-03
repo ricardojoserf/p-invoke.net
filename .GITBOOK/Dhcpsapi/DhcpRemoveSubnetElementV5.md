@@ -1,6 +1,6 @@
 ## DhcpRemoveSubnetElementV5
 
-```
+```csharp
 [DllImport("dhcpsapi.dll", SetLastError = true)]
 public static extern uint DhcpRemoveSubnetElementV5(
    IntPtr ServerIpAddress,

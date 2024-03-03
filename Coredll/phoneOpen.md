@@ -1,6 +1,6 @@
 ## phoneOpen
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int phoneOpen(
    IntPtr hLine,

@@ -1,6 +1,6 @@
 ## GetAdaptersAddresses
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetAdaptersAddresses(
    uint Family,

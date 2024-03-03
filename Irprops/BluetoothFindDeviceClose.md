@@ -1,6 +1,6 @@
 ## BluetoothFindDeviceClose
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothFindDeviceClose(
    IntPtr hFind

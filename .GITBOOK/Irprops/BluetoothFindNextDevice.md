@@ -1,6 +1,6 @@
 ## BluetoothFindNextDevice
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern bool BluetoothFindNextDevice(
    IntPtr hFind,

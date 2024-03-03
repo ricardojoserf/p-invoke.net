@@ -1,6 +1,6 @@
 ## MessageBox
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int MessageBox(
    IntPtr hWnd,

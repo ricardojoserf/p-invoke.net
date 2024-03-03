@@ -1,6 +1,6 @@
 ## GetAdaptersInfo
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetAdaptersInfo(
    IntPtr pAdapterInfo,

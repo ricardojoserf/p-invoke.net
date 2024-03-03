@@ -1,6 +1,6 @@
 ## BluetoothUpdateDeviceRecord
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothUpdateDeviceRecord(
    ref BLUETOOTH_DEVICE_INFO pbtdi

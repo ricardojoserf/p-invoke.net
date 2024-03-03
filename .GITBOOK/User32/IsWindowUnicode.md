@@ -1,6 +1,6 @@
 ## IsWindowUnicode
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool IsWindowUnicode(
    IntPtr hWnd

@@ -1,6 +1,6 @@
 ## CoTaskMemRealloc
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern IntPtr CoTaskMemRealloc(
    IntPtr pv,

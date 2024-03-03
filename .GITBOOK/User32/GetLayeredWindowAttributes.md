@@ -1,6 +1,6 @@
 ## GetLayeredWindowAttributes
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern bool GetLayeredWindowAttributes(
    IntPtr hwnd,

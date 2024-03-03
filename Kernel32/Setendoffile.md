@@ -1,6 +1,6 @@
 ## Setendoffile
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool SetEndOfFile(IntPtr hFile
 );

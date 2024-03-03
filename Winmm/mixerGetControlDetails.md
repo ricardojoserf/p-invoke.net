@@ -1,6 +1,6 @@
 ## mixerGetControlDetails
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint mixerGetControlDetails(
    IntPtr hmxobj,

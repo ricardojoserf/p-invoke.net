@@ -1,6 +1,6 @@
 ## CreateProfile
 
-```
+```csharp
 [DllImport("userenv.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern bool CreateProfile(
    [MarshalAs(UnmanagedType.LPWStr)] string pszUserSid,

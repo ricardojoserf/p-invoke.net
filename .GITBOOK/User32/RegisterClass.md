@@ -1,6 +1,6 @@
 ## RegisterClass
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern ushort RegisterClass(
    ref WNDCLASS lpWndClass

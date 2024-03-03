@@ -1,6 +1,6 @@
 ## WNetOpenEnum
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint WNetOpenEnum(
    uint dwScope,

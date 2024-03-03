@@ -1,6 +1,6 @@
 ## SetSysColors
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool SetSysColors(
    int cElements,

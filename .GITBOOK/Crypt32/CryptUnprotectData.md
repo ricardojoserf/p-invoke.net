@@ -1,6 +1,6 @@
 ## CryptUnprotectData
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptUnprotectData(
    ref DATA_BLOB pDataIn,

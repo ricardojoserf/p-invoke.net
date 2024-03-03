@@ -1,6 +1,6 @@
 ## WTSVirtualChannelClose
 
-```
+```csharp
 [DllImport("wtsapi32.dll", SetLastError = true)]
 public static extern bool WTSVirtualChannelClose(
    IntPtr hChannelHandle

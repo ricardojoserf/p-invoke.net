@@ -1,6 +1,6 @@
 ## MsiExtractPatchXMLData
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiExtractPatchXMLData(
    [MarshalAs(UnmanagedType.LPTStr)] string szPatchPath,

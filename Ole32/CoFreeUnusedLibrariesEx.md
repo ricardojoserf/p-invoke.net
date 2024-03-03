@@ -1,6 +1,6 @@
 ## CoFreeUnusedLibrariesEx
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern void CoFreeUnusedLibrariesEx(
    uint dwUnloadDelay,

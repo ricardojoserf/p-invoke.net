@@ -1,6 +1,6 @@
 ## CreateDesktopA
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern IntPtr CreateDesktopA(
    string lpszDesktop,

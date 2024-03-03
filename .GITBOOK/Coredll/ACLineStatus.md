@@ -1,6 +1,6 @@
 ## ACLineStatus
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool GetSystemPowerStatus(out ACLineStatus acLineStatus,
    out BatteryFlag batteryFlag

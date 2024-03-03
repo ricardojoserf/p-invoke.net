@@ -1,6 +1,6 @@
 ## IsRectEmpty
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool IsRectEmpty(
    [In] ref RECT lprc

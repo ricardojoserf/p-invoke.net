@@ -1,6 +1,6 @@
 ## GetMenuItemRect
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern bool GetMenuItemRect(
    IntPtr hWnd,

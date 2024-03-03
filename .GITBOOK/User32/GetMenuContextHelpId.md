@@ -1,6 +1,6 @@
 ## GetMenuContextHelpId
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern uint GetMenuContextHelpId(
    IntPtr hmenu

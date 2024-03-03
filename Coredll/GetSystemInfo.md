@@ -1,6 +1,6 @@
 ## GetSystemInfo
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern void GetSystemInfo(
    ref SYSTEM_INFO lpSystemInfo

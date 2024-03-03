@@ -1,6 +1,6 @@
 ## ExtractIconEx
 
-```
+```csharp
 [DllImport("shell32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern uint ExtractIconExA(string lpszFile,
    int nIconIndex,

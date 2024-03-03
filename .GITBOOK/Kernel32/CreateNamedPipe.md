@@ -1,6 +1,6 @@
 ## CreateNamedPipe
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafePipeHandle CreateNamedPipe(
    string lpName,

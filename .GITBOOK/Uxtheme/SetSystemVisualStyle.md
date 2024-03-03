@@ -1,6 +1,6 @@
 ## SetSystemVisualStyle
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern void SetSystemVisualStyle(
    [MarshalAs(UnmanagedType.LPWStr)] string pszFilename,

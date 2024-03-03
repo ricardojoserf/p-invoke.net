@@ -1,6 +1,6 @@
 ## SQLAllocHandle
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLAllocHandle(
    SQL_HANDLE HandleType,

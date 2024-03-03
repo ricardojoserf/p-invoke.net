@@ -1,6 +1,6 @@
 ## SetWindowTheme
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT SetWindowTheme(
    HWND hwnd,

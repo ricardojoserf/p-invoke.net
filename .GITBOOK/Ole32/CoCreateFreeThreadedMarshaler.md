@@ -1,6 +1,6 @@
 ## CoCreateFreeThreadedMarshaler
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoCreateFreeThreadedMarshaler(
    IUnknown punkOuter,

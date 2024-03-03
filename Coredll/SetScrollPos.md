@@ -1,6 +1,6 @@
 ## SetScrollPos
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int SetScrollPos(
    IntPtr hWnd,

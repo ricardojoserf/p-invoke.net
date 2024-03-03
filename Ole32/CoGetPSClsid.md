@@ -1,6 +1,6 @@
 ## CoGetPSClsid
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoGetPSClsid(
    ref Guid riid,

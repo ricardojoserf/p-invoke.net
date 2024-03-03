@@ -1,6 +1,6 @@
 ## fread
 
-```
+```csharp
 [DllImport("msvcrt.dll", CallingConvention = CallingConvention.Cdecl, SetLastError = true)]
 public static extern size_t fread(
    IntPtr ptr,

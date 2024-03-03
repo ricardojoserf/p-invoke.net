@@ -1,6 +1,6 @@
 ## ImmSetOpenStatus
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool ImmSetOpenStatus(
    IntPtr hIMC,

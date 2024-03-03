@@ -1,6 +1,6 @@
 ## CoLoadLibrary
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoLoadLibrary(
    string lpszLibName,

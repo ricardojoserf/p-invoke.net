@@ -1,6 +1,6 @@
 ## SetMenuContextHelpId
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool SetMenuContextHelpId(
    IntPtr hMenu,

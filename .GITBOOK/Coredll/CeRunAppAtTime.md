@@ -1,6 +1,6 @@
 ## CeRunAppAtTime
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool CeRunAppAtTime(
    string lpszAppName,

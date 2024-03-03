@@ -1,6 +1,6 @@
 ## DestroyMenu
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool DestroyMenu(
    IntPtr hMenu

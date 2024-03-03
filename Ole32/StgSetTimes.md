@@ -1,6 +1,6 @@
 ## StgSetTimes
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StgSetTimes(
    [MarshalAs(UnmanagedType.LPWStr)] string lpszName,

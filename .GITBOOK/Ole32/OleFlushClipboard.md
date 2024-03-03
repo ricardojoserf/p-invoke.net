@@ -1,6 +1,6 @@
 ## OleFlushClipboard
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleFlushClipboard(
    

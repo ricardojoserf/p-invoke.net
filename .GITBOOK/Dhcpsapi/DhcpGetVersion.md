@@ -1,6 +1,6 @@
 ## DhcpGetVersion
 
-```
+```csharp
 [DllImport("dhcpsapi.dll", SetLastError = true)]
 public static extern uint DhcpGetVersion(
    IntPtr ServerIpAddress,

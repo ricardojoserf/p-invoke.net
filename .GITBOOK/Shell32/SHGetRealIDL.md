@@ -1,6 +1,6 @@
 ## SHGetRealIDL
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern int SHGetRealIDL(
    IntPtr pUnk,

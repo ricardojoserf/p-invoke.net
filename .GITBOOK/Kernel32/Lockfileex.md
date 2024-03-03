@@ -1,6 +1,6 @@
 ## Lockfileex
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool LockFileEx(IntPtr hFile,
    uint dwFlags,

@@ -1,6 +1,6 @@
 ## GetListBoxInfo
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern bool GetListBoxInfo(
    IntPtr hwnd

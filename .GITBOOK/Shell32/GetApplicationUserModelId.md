@@ -1,6 +1,6 @@
 ## GetApplicationUserModelId
 
-```
+```csharp
 [DllImport("Shell32.dll")][return: MarshalAs(UnmanagedType.U4)]
 public static extern uint GetApplicationUserModelId(
    IntPtr hProcess,

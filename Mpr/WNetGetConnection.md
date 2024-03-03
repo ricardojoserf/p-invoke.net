@@ -1,6 +1,6 @@
 ## WNetGetConnection
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint WNetGetConnection(
    string lpLocalName,

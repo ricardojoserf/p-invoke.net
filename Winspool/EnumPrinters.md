@@ -1,6 +1,6 @@
 ## EnumPrinters
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool EnumPrinters(
    uint Flags,

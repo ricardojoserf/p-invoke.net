@@ -1,6 +1,6 @@
 ## DsFreePasswordCredentials
 
-```
+```csharp
 [DllImport("ntdsapi.dll", SetLastError = true)]
 public static extern void DsFreePasswordCredentials(
    IntPtr AuthIdentity

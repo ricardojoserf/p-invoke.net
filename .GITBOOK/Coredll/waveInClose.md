@@ -1,6 +1,6 @@
 ## waveInClose
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveInClose(
    IntPtr hwi

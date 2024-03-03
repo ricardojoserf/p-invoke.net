@@ -1,6 +1,6 @@
 ## CryptUpdateProtectedState
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptUpdateProtectedState(
    ref IntPtr pOldSid,

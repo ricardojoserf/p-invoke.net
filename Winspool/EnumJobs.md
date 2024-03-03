@@ -1,6 +1,6 @@
 ## EnumJobs
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool EnumJobs(
    IntPtr hPrinter,

@@ -1,6 +1,6 @@
 ## BluetoothFindFirstRadio
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern IntPtr BluetoothFindFirstRadio(
    ref BLUETOOTH_FIND_RADIO_PARAMS pbtfrp,

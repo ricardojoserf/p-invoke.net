@@ -1,6 +1,6 @@
 ## SetWindowLong
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int SetWindowLong(
    IntPtr hWnd,

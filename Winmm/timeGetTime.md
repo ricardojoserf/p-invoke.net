@@ -1,6 +1,6 @@
 ## timeGetTime
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint timeGetTime(
    

@@ -1,6 +1,6 @@
 ## PathIsURL
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathIsURL(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

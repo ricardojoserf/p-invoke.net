@@ -1,6 +1,6 @@
 ## AddIPAddress
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern int AddIPAddress(
    uint Address,

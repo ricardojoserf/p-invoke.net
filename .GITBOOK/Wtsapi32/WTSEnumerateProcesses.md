@@ -1,6 +1,6 @@
 ## WTSEnumerateProcesses
 
-```
+```csharp
 [DllImport("wtsapi32.dll", SetLastError = true)]
 public static extern bool WTSEnumerateProcesses(
    IntPtr hServer,

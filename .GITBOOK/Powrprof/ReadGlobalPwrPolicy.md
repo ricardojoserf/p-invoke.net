@@ -1,6 +1,6 @@
 ## ReadGlobalPwrPolicy
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool ReadGlobalPwrPolicy(
    ref GLOBAL_POWER_POLICY pGlobalPowerPolicy

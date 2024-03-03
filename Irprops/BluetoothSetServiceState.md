@@ -1,6 +1,6 @@
 ## BluetoothSetServiceState
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothSetServiceState(
    IntPtr hRadio,

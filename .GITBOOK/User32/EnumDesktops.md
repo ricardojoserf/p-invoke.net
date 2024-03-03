@@ -1,6 +1,6 @@
 ## EnumDesktops
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern bool EnumDesktopsA(IntPtr hwinsta,
    EnumDesktopProc lpEnumFunc,

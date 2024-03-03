@@ -1,6 +1,6 @@
 ## RegQueryInfoKey
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int RegQueryInfoKey(
    IntPtr hKey,

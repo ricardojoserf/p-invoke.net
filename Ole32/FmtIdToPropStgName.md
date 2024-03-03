@@ -1,6 +1,6 @@
 ## FmtIdToPropStgName
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int FmtIdToPropStgName(
    ref Guid rfmtid,

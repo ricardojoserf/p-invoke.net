@@ -1,6 +1,6 @@
 ## PostKeybdMessage
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool PostKeybdMessage(
    IntPtr hwnd,

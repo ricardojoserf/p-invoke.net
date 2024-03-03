@@ -1,6 +1,6 @@
 ## CoGetMalloc
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoGetMalloc(
    uint dwMemContext,

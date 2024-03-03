@@ -1,6 +1,6 @@
 ## GetThemeSysString
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern HRESULT GetThemeSysString(
    IntPtr hTheme,

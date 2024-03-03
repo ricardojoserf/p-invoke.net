@@ -1,6 +1,6 @@
 ## CopyMemory
 
-```
+```csharp
 [DllImport("urlmon.dll", EntryPoint = "CopyMemory", SetLastError = false)]
 public static extern void CopyMemory(
    IntPtr dest,

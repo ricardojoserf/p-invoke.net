@@ -1,6 +1,6 @@
 ## CryptGetUserKey
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptGetUserKey(
    IntPtr hProv,

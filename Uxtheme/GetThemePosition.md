@@ -1,6 +1,6 @@
 ## GetThemePosition
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemePosition(
    IntPtr hTheme,

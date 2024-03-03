@@ -1,6 +1,6 @@
 ## SHSetKnownFolderPath
 
-```
+```csharp
 [DllImport("shell32.dll", CharSet = CharSet.Unicode)]
 public static extern int SHSetKnownFolderPath(
    ref Guid rfid,

@@ -1,6 +1,6 @@
 ## CM_Get_Device_ID_List_Size
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern int CM_Get_Device_ID_List_Size(
    out int pulLen,

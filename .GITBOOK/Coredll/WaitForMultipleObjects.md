@@ -1,6 +1,6 @@
 ## WaitForMultipleObjects
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint WaitForMultipleObjects(
    uint nCount,

@@ -1,6 +1,6 @@
 ## UuidCreateSequential
 
-```
+```csharp
 [DllImport("rpcrt4.dll", SetLastError = true)]
 public static extern int UuidCreateSequential(
    out Guid Uuid

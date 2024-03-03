@@ -1,6 +1,6 @@
 ## SCardGetAttrib
 
-```
+```csharp
 [DllImport("winscard.dll", SetLastError = true)]
 public static extern int SCardGetAttrib(
    IntPtr hCard,

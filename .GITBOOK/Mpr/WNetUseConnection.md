@@ -1,6 +1,6 @@
 ## WNetUseConnection
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint WNetUseConnection(
    IntPtr hwndOwner,

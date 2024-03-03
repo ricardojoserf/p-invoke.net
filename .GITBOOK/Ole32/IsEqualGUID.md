@@ -1,6 +1,6 @@
 ## IsEqualGUID
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int IsEqualGUID(
    ref Guid rguid1,

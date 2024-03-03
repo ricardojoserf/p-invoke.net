@@ -1,6 +1,6 @@
 ## SB_GETTEXT
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int SB_GETTEXT(
    IntPtr hwnd,

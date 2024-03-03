@@ -1,6 +1,6 @@
 ## WinIOCTL
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int WinIOCTL(
    uint Ioctl,

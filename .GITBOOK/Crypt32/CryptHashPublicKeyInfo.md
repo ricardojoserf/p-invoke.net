@@ -1,6 +1,6 @@
 ## CryptHashPublicKeyInfo
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptHashPublicKeyInfo(
    IntPtr hCryptProv,

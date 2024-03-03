@@ -1,6 +1,6 @@
 ## CredUIPromptForWindowsCredentials
 
-```
+```csharp
 [DllImport("Credui.dll", SetLastError = true)]
 public static extern CREDUI_RETURN CredUIPromptForWindowsCredentials(
    ref CREDUI_INFO pUiInfo,

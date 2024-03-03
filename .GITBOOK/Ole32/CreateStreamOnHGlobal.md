@@ -1,6 +1,6 @@
 ## CreateStreamOnHGlobal
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CreateStreamOnHGlobal(
    IntPtr hGlobal,

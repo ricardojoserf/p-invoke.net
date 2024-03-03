@@ -1,6 +1,6 @@
 ## HttpInitialize
 
-```
+```csharp
 [DllImport("Httpapi.dll", SetLastError = true)]
 public static extern uint HttpInitialize(
    HTTPAPI_VERSION Version,

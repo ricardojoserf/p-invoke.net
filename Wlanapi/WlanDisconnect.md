@@ -1,6 +1,6 @@
 ## WlanDisconnect
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanDisconnect(
    IntPtr hClientHandle,

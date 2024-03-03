@@ -1,6 +1,6 @@
 ## ImageList_Create
 
-```
+```csharp
 [DllImport("Comctl32.dll", SetLastError = true)]
 public static extern IntPtr ImageList_Create(
    int cx,

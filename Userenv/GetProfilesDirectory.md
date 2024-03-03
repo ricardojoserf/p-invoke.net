@@ -1,6 +1,6 @@
 ## GetProfilesDirectory
 
-```
+```csharp
 [DllImport("userenv.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern bool GetProfilesDirectory(
    [Out] StringBuilder lpProfileDir,

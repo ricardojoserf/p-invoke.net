@@ -1,6 +1,6 @@
 ## GetCurrentThemeName
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern HRESULT GetCurrentThemeName(
    StringBuilder pszThemeFileName,

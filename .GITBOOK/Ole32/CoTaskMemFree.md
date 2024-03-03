@@ -1,6 +1,6 @@
 ## CoTaskMemFree
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern void CoTaskMemFree(
    IntPtr pv

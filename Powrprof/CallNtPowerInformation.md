@@ -1,6 +1,6 @@
 ## CallNtPowerInformation
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern int CallNtPowerInformation(
    int InformationLevel,

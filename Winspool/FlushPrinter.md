@@ -1,6 +1,6 @@
 ## FlushPrinter
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool FlushPrinter(
    IntPtr hPrinter,

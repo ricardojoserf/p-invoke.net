@@ -1,6 +1,6 @@
 ## Waitfordebugevent
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool WaitForDebugEvent([Out] out DEBUG_EVENT lpDebugEvent,
    uint dwMilliseconds

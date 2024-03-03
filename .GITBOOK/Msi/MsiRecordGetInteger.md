@@ -1,6 +1,6 @@
 ## MsiRecordGetInteger
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiRecordGetInteger(
    IntPtr hRecord,

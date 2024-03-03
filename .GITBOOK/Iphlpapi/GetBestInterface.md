@@ -1,6 +1,6 @@
 ## GetBestInterface
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetBestInterface(
    uint DestAddr,

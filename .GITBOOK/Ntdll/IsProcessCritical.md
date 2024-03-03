@@ -1,6 +1,6 @@
 ## IsProcessCritical
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern bool IsProcessCritical(
    IntPtr hProcess,

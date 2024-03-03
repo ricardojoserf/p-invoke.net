@@ -1,6 +1,6 @@
 ## ReleaseDC
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int ReleaseDC(
    IntPtr hwnd,

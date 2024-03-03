@@ -1,6 +1,6 @@
 ## GetProcAddress
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.FunctionPtr)]
 public static extern IntPtr GetProcAddress(
    IntPtr hModule,

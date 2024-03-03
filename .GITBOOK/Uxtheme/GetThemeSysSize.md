@@ -1,6 +1,6 @@
 ## GetThemeSysSize
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemeSysSize(
    IntPtr hTheme,

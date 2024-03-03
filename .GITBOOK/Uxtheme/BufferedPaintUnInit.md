@@ -1,6 +1,6 @@
 ## BufferedPaintUnInit
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern void BufferedPaintUnInit(
    

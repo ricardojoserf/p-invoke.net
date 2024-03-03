@@ -1,6 +1,6 @@
 ## GlobalMemoryStatus
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern void GlobalMemoryStatus(
    ref MEMORYSTATUS lpBuffer

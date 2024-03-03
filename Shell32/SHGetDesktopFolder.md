@@ -1,6 +1,6 @@
 ## SHGetDesktopFolder
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern int SHGetDesktopFolder(
    out IShellFolder ppshf

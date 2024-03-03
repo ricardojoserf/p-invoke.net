@@ -1,6 +1,6 @@
 ## AssocQueryString
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int AssocQueryString(
    ASSOCF flags,

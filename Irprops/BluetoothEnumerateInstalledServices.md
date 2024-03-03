@@ -1,6 +1,6 @@
 ## BluetoothEnumerateInstalledServices
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothEnumerateInstalledServices(
    IntPtr hRadio,

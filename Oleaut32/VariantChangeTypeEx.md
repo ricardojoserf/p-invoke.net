@@ -1,6 +1,6 @@
 ## VariantChangeTypeEx
 
-```
+```csharp
 [DllImport("oleaut32.dll", SetLastError = true)]
 public static extern int VariantChangeTypeEx(
    IntPtr pvargDest,

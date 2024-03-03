@@ -1,6 +1,6 @@
 ## ColorRGBToHLS
 
-```
+```csharp
 [DllImport("shlwapi.dll")]
 public static extern uint ColorRGBToHLS(
    uint rgb,

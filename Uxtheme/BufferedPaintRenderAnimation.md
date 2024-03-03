@@ -1,6 +1,6 @@
 ## BufferedPaintRenderAnimation
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT BufferedPaintRenderAnimation(
    HWND hwnd,

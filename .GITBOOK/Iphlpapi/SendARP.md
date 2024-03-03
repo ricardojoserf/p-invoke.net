@@ -1,6 +1,6 @@
 ## SendARP
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint SendARP(
    uint DestIP,

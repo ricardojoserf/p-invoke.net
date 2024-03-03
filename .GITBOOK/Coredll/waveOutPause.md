@@ -1,6 +1,6 @@
 ## waveOutPause
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveOutPause(
    IntPtr hwo

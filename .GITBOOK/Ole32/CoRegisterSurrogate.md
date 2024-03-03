@@ -1,6 +1,6 @@
 ## CoRegisterSurrogate
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoRegisterSurrogate(
    IAdviseSink pSurrogate,

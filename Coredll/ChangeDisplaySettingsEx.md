@@ -1,6 +1,6 @@
 ## ChangeDisplaySettingsEx
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int ChangeDisplaySettingsEx(
    string lpszDeviceName,

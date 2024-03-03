@@ -1,6 +1,6 @@
 ## MsgWaitForMultipleObjectsEx
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern uint MsgWaitForMultipleObjectsEx(
    uint nCount,

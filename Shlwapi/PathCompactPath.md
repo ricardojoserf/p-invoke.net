@@ -1,6 +1,6 @@
 ## PathCompactPath
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathCompactPath(
    IntPtr hDC,

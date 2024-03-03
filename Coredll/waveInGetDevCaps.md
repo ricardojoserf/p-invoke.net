@@ -1,6 +1,6 @@
 ## waveInGetDevCaps
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveInGetDevCaps(
    uint uDeviceID,

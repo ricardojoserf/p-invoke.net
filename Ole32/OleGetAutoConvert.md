@@ -1,6 +1,6 @@
 ## OleGetAutoConvert
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleGetAutoConvert(
    ref Guid clsidOld,

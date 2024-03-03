@@ -1,6 +1,6 @@
 ## CoGetClassObject
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoGetClassObject(
    ref Guid rclsid,

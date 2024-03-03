@@ -1,6 +1,6 @@
 ## GetThemePropertyOrigin
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemePropertyOrigin(
    IntPtr hTheme,

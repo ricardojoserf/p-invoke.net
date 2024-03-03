@@ -1,6 +1,6 @@
 ## midiOutPrepareHeader
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiOutPrepareHeader(
    IntPtr hmo,

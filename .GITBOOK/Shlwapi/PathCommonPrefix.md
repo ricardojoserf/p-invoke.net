@@ -1,6 +1,6 @@
 ## PathCommonPrefix
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int PathCommonPrefix(
    [MarshalAs(UnmanagedType.LPWStr)] string pszFile1,

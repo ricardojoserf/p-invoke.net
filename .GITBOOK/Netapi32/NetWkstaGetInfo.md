@@ -1,6 +1,6 @@
 ## NetWkstaGetInfo
 
-```
+```csharp
 [DllImport("netapi32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern uint NetWkstaGetInfo(
    string ServerName,

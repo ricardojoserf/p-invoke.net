@@ -1,6 +1,6 @@
 ## GetPrinterData
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool GetPrinterData(
    IntPtr hPrinter,

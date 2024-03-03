@@ -1,6 +1,6 @@
 ## EnumProps
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern int EnumPropsA(IntPtr hWnd,
    PropEnumProc lpEnumFunc

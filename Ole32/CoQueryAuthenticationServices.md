@@ -1,6 +1,6 @@
 ## CoQueryAuthenticationServices
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoQueryAuthenticationServices(
    out uint pcAuthSvc,

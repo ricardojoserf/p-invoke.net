@@ -1,6 +1,6 @@
 ## waveInOpen
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveInOpen(
    out IntPtr phwi,

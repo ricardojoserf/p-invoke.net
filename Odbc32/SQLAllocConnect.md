@@ -1,6 +1,6 @@
 ## SQLAllocConnect
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLAllocConnect(
    IntPtr hEnv,

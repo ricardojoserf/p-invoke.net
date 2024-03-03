@@ -1,6 +1,6 @@
 ## WlanGetProfile
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanGetProfile(
    IntPtr hClientHandle,

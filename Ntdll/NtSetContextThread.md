@@ -1,6 +1,6 @@
 ## NtSetContextThread
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtSetContextThread(
    IntPtr hThread,

@@ -1,6 +1,6 @@
 ## DevicePowerClose
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool DevicePowerClose(
    IntPtr hPowerNotify

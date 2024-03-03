@@ -1,6 +1,6 @@
 ## DwmEnableBlurBehindWindow
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmEnableBlurBehindWindow(
    IntPtr hwnd,

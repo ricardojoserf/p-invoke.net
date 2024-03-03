@@ -1,6 +1,6 @@
 ## WNetGetLastError
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint WNetGetLastError(
    out uint lpError,

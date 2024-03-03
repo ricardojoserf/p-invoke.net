@@ -1,6 +1,6 @@
 ## RegCloseKey
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int RegCloseKey(
    IntPtr hKey

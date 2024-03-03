@@ -1,6 +1,6 @@
 ## waveOutOpen
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutOpen(
    out IntPtr phwo,

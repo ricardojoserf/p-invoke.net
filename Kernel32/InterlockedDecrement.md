@@ -1,6 +1,6 @@
 ## InterlockedDecrement
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.I4)]
 public static extern int InterlockedDecrement(
    ref int lpAddend

@@ -1,6 +1,6 @@
 ## DdeQueryString
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern uint DdeQueryStringA(IntPtr idInst,
    IntPtr hsz,

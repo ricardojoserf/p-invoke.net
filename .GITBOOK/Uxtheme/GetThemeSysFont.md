@@ -1,6 +1,6 @@
 ## GetThemeSysFont
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemeSysFont(
    IntPtr hTheme,

@@ -1,6 +1,6 @@
 ## Multibytetowidechar
 
-```
+```csharp
 [DllImport("Kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)][return: MarshalAs(UnmanagedType.U4)]
 public static extern int MultiByteToWideChar(uint CodePage,
    uint dwFlags,

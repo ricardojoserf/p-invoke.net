@@ -1,6 +1,6 @@
 ## AssocGetPerceivedType
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern int AssocGetPerceivedType(
    [MarshalAs(UnmanagedType.LPWStr)] string pszExt,

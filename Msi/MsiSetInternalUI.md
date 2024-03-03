@@ -1,6 +1,6 @@
 ## MsiSetInternalUI
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiSetInternalUI(
    uint dwUILevel,

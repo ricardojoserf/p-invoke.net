@@ -1,6 +1,6 @@
 ## FindNextFile
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool FindNextFile(
    SafeFindHandle hFindFile,

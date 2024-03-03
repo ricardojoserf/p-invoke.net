@@ -1,6 +1,6 @@
 ## CreateBindCtx
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CreateBindCtx(
    uint reserved,

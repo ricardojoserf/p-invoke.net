@@ -1,6 +1,6 @@
 ## GetMessage
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool GetMessage(
    out MSG lpMsg,

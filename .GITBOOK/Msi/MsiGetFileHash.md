@@ -1,6 +1,6 @@
 ## MsiGetFileHash
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiGetFileHash(
    [MarshalAs(UnmanagedType.LPTStr)] string szFilePath,

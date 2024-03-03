@@ -1,6 +1,6 @@
 ## PathCleanupSpec
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern void PathCleanupSpec(
    string pszDir,

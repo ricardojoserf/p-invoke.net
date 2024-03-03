@@ -1,6 +1,6 @@
 ## PathIsUNCServerShare
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathIsUNCServerShare(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

@@ -1,6 +1,6 @@
 ## Postqueuedcompletionstatus
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool PostQueuedCompletionStatus(IntPtr CompletionPort,
    uint dwNumberOfBytesTransferred,

@@ -1,6 +1,6 @@
 ## BeginBufferedAnimation
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT BeginBufferedAnimation(
    HWND hwnd,

@@ -1,6 +1,6 @@
 ## OleCreate
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreate(
    Guid rclsid,

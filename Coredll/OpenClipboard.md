@@ -1,6 +1,6 @@
 ## OpenClipboard
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool OpenClipboard(
    IntPtr hWndNewOwner

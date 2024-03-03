@@ -1,6 +1,6 @@
 ## SCardStatus
 
-```
+```csharp
 [DllImport("winscard.dll", SetLastError = true)]
 public static extern int SCardStatus(
    IntPtr hCard,

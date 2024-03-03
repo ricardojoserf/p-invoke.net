@@ -1,6 +1,6 @@
 ## PowerReadFriendlyName
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern uint PowerReadFriendlyName(
    IntPtr RootPowerKey,

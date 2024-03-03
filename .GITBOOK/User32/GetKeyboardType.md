@@ -1,6 +1,6 @@
 ## GetKeyboardType
 
-```
+```csharp
 [DllImport("User32.dll")][return: MarshalAs(UnmanagedType.U2)]
 public static extern ushort GetKeyboardType(
    uint nTypeFlag

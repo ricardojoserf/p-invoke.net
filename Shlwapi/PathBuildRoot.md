@@ -1,6 +1,6 @@
 ## PathBuildRoot
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathBuildRoot(
    StringBuilder pszPath,

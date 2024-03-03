@@ -1,6 +1,6 @@
 ## GetWindowContextHelpId
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern uint GetWindowContextHelpId(
    IntPtr hwnd

@@ -1,6 +1,6 @@
 ## CryptMsgCountersignEncoded
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptMsgCountersignEncoded(
    IntPtr hCryptMsg,

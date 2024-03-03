@@ -1,6 +1,6 @@
 ## RtlMoveMemory
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern void RtlMoveMemory(
    IntPtr Destination,

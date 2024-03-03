@@ -1,6 +1,6 @@
 ## InternetQueryOption
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern bool InternetQueryOption(
    IntPtr hInternet,

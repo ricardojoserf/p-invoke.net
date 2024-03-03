@@ -1,6 +1,6 @@
 ## GetAppliedGPOList
 
-```
+```csharp
 [DllImport("userenv.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern bool GetAppliedGPOList(
    uint dwFlags,

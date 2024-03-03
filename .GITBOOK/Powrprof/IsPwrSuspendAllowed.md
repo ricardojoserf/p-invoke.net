@@ -1,6 +1,6 @@
 ## IsPwrSuspendAllowed
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern bool IsPwrSuspendAllowed(
    

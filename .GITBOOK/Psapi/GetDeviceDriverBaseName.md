@@ -1,6 +1,6 @@
 ## GetDeviceDriverBaseName
 
-```
+```csharp
 [DllImport("psapi.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern uint GetDeviceDriverBaseName(
    IntPtr ImageBase,

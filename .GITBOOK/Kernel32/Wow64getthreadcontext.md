@@ -1,6 +1,6 @@
 ## Wow64getthreadcontext
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool Wow64GetThreadContext(IntPtr hThread,
    IntPtr lpContext

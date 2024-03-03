@@ -1,6 +1,6 @@
 ## ntohs
 
-```
+```csharp
 [DllImport("ws2_32.dll", SetLastError = true)]
 public static extern ushort ntohs(
    ushort netshort

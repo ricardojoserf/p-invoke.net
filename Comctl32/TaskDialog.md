@@ -1,6 +1,6 @@
 ## TaskDialog
 
-```
+```csharp
 [DllImport("Comctl32.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int TaskDialog(
    IntPtr hwndOwner,

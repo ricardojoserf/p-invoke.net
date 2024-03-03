@@ -1,6 +1,6 @@
 ## SQLDisconnect
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLDisconnect(
    IntPtr ConnectionHandle

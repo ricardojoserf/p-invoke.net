@@ -1,6 +1,6 @@
 ## HttpTerminate
 
-```
+```csharp
 [DllImport("Httpapi.dll", SetLastError = true)]
 public static extern uint HttpTerminate(
    uint Flags,

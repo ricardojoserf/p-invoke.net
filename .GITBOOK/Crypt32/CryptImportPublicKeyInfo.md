@@ -1,6 +1,6 @@
 ## CryptImportPublicKeyInfo
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CryptImportPublicKeyInfo(
    IntPtr hCryptProv,

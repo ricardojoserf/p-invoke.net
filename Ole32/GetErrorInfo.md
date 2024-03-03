@@ -1,6 +1,6 @@
 ## GetErrorInfo
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int GetErrorInfo(
    uint dwReserved,

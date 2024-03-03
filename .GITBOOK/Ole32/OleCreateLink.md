@@ -1,6 +1,6 @@
 ## OleCreateLink
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateLink(
    IOleClientSite pClientSite,

@@ -1,6 +1,6 @@
 ## PowerGetActiveScheme
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern uint PowerGetActiveScheme(
    IntPtr UserRootPowerKey,

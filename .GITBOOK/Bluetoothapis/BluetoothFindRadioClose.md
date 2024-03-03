@@ -1,6 +1,6 @@
 ## BluetoothFindRadioClose
 
-```
+```csharp
 [DllImport("BluetoothApis.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool BluetoothFindRadioClose(
    IntPtr hFind

@@ -1,6 +1,6 @@
 ## GetThemeDocumentationProperty
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern HRESULT GetThemeDocumentationProperty(
    [MarshalAs(UnmanagedType.LPWStr)] string pszThemeName,

@@ -1,6 +1,6 @@
 ## EnumPrinterDrivers
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool EnumPrinterDrivers(
    string pName,

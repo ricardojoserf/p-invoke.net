@@ -1,6 +1,6 @@
 ## DhcpEnumSubnetClients
 
-```
+```csharp
 [DllImport("dhcpsapi.dll", SetLastError = true)]
 public static extern uint DhcpEnumSubnetClients(
    IntPtr ServerIpAddress,

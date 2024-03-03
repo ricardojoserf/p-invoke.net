@@ -1,6 +1,6 @@
 ## memcmp
 
-```
+```csharp
 [DllImport("msvcrt.dll", CallingConvention = CallingConvention.Cdecl, SetLastError = true)]
 public static extern int memcmp(
    IntPtr ptr1,

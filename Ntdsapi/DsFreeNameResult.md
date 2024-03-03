@@ -1,6 +1,6 @@
 ## DsFreeNameResult
 
-```
+```csharp
 [DllImport("ntdsapi.dll", SetLastError = true)]
 public static extern void DsFreeNameResult(
    IntPtr pResult

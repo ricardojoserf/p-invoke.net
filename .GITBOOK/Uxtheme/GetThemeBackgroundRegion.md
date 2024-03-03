@@ -1,6 +1,6 @@
 ## GetThemeBackgroundRegion
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT GetThemeBackgroundRegion(
    IntPtr hTheme,

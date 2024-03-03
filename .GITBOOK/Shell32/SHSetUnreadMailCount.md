@@ -1,6 +1,6 @@
 ## SHSetUnreadMailCount
 
-```
+```csharp
 [DllImport("shell32.dll", CharSet = CharSet.Unicode)]
 public static extern int SHSetUnreadMailCount(
    string pszMailAddress,

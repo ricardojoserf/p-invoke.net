@@ -1,6 +1,6 @@
 ## Shell_NotifyIconGetRect
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern bool Shell_NotifyIconGetRect(
    ref NOTIFYICONIDENTIFIER identifier,

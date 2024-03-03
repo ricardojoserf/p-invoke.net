@@ -1,6 +1,6 @@
 ## GetRunningObjectTable
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int GetRunningObjectTable(
    uint reserved,

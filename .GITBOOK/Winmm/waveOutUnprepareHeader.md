@@ -1,6 +1,6 @@
 ## waveOutUnprepareHeader
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutUnprepareHeader(
    IntPtr hwo,

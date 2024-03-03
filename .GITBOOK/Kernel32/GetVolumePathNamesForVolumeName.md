@@ -1,6 +1,6 @@
 ## GetVolumePathNamesForVolumeName
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool GetVolumePathNamesForVolumeName(
    string lpszVolumeName,

@@ -1,6 +1,6 @@
 ## SQLAllocStmt
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLAllocStmt(
    IntPtr hdbc,

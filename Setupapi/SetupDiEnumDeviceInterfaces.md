@@ -1,6 +1,6 @@
 ## SetupDiEnumDeviceInterfaces
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true)]
 public static extern bool SetupDiEnumDeviceInterfaces(
    IntPtr DeviceInfoSet,

@@ -1,6 +1,6 @@
 ## PathStripPath
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern void PathStripPath(
    [MarshalAs(UnmanagedType.LPWStr)] string lpszPath

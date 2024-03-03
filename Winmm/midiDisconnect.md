@@ -1,6 +1,6 @@
 ## midiDisconnect
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiDisconnect(
    IntPtr hmi,

@@ -1,6 +1,6 @@
 ## SetWindowsHookExA
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern IntPtr SetWindowsHookExA(
    int idHook,

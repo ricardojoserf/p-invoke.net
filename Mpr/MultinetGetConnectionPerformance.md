@@ -1,6 +1,6 @@
 ## MultinetGetConnectionPerformance
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint MultinetGetConnectionPerformance(
    string pszRemoteName,

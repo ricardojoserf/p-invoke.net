@@ -1,6 +1,6 @@
 ## CoInternetSetFeatureEnabled
 
-```
+```csharp
 [DllImport("urlmon.dll", SetLastError = true)]
 public static extern int CoInternetSetFeatureEnabled(
    int FeatureEntry,

@@ -1,6 +1,6 @@
 ## GetExtendedTcpTable
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetExtendedTcpTable(
    IntPtr pTcpTable,

@@ -1,6 +1,6 @@
 ## GetFinalPathNameByHandle
 
-```
+```csharp
 [DllImport("kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern uint GetFinalPathNameByHandle(
    IntPtr hFile,

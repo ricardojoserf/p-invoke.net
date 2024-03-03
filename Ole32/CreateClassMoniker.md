@@ -1,6 +1,6 @@
 ## CreateClassMoniker
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CreateClassMoniker(
    ref Guid rclsid,

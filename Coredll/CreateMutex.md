@@ -1,6 +1,6 @@
 ## CreateMutex
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern IntPtr CreateMutex(
    IntPtr lpMutexAttributes,

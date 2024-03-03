@@ -1,6 +1,6 @@
 ## BufferedPaintStopAllAnimations
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT BufferedPaintStopAllAnimations(
    HWND hwnd

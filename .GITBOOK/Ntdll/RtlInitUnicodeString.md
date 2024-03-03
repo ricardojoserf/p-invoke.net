@@ -1,6 +1,6 @@
 ## RtlInitUnicodeString
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern void RtlInitUnicodeString(
    out UNICODE_STRING DestinationString,

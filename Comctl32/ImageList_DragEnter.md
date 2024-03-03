@@ -1,6 +1,6 @@
 ## ImageList_DragEnter
 
-```
+```csharp
 [DllImport("Comctl32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool ImageList_DragEnter(
    IntPtr hwndLock,

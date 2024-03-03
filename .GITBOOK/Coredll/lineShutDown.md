@@ -1,6 +1,6 @@
 ## lineShutDown
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int lineShutDown(
    IntPtr hLineApp

@@ -1,6 +1,6 @@
 ## NtSetTimerResolution
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtSetTimerResolution(
    uint DesiredResolution,

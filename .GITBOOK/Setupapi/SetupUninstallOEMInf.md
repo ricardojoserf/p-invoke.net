@@ -1,6 +1,6 @@
 ## SetupUninstallOEMInf
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern bool SetupUninstallOEMInf(
    string InfFileName,

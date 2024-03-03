@@ -1,6 +1,6 @@
 ## DlgDirListComboBox
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern int DlgDirListComboBoxA(IntPtr hDlg,
    [MarshalAs(UnmanagedType.LPStr)] StringBuilder lpPathSpec,

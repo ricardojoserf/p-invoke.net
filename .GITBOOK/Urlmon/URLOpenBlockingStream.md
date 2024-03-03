@@ -1,6 +1,6 @@
 ## URLOpenBlockingStream
 
-```
+```csharp
 [DllImport("urlmon.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern int URLOpenBlockingStream(
    IntPtr pCaller,

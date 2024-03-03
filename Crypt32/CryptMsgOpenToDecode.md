@@ -1,6 +1,6 @@
 ## CryptMsgOpenToDecode
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern IntPtr CryptMsgOpenToDecode(
    uint dwMsgEncodingType,

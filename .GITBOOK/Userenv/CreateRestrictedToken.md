@@ -1,6 +1,6 @@
 ## CreateRestrictedToken
 
-```
+```csharp
 [DllImport("userenv.dll", SetLastError = true)]
 public static extern bool CreateRestrictedToken(
    IntPtr ExistingTokenHandle,

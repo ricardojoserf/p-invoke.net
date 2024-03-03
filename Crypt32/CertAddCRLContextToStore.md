@@ -1,6 +1,6 @@
 ## CertAddCRLContextToStore
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern bool CertAddCRLContextToStore(
    IntPtr hCertStore,

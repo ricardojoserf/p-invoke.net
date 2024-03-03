@@ -1,6 +1,6 @@
 ## CreateMemoryResourceNotification
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafeMemoryResourceNotificationHandle CreateMemoryResourceNotification(
    MEMORY_RESOURCE_NOTIFICATION_TYPE notificationType

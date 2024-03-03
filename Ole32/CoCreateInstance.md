@@ -1,6 +1,6 @@
 ## CoCreateInstance
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoCreateInstance(
    ref Guid rclsid,

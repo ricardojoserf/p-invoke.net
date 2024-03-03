@@ -1,6 +1,6 @@
 ## waveInPrepareHeader
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveInPrepareHeader(
    IntPtr hwi,

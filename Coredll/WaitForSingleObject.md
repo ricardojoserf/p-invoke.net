@@ -1,6 +1,6 @@
 ## WaitForSingleObject
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint WaitForSingleObject(
    IntPtr hHandle,

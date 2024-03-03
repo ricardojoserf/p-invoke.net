@@ -1,6 +1,6 @@
 ## GetObject
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int GetObject(
    IntPtr hgdiobj,

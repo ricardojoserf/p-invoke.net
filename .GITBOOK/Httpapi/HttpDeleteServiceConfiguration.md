@@ -1,6 +1,6 @@
 ## HttpDeleteServiceConfiguration
 
-```
+```csharp
 [DllImport("Httpapi.dll", SetLastError = true)]
 public static extern uint HttpDeleteServiceConfiguration(
    IntPtr ServiceIntPtr,

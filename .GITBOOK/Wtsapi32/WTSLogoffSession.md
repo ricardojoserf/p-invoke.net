@@ -1,6 +1,6 @@
 ## WTSLogoffSession
 
-```
+```csharp
 [DllImport("wtsapi32.dll", SetLastError = true)]
 public static extern bool WTSLogoffSession(
    IntPtr hServer,

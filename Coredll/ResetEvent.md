@@ -1,6 +1,6 @@
 ## ResetEvent
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int ResetEvent(
    IntPtr hEvent

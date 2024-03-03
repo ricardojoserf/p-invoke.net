@@ -1,6 +1,6 @@
 ## FindFirstVolume
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.SafeHandle)]
 public static extern SafeFindVolumeHandle FindFirstVolume(
    StringBuilder lpszVolumeName,

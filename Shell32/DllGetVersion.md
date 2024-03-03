@@ -1,6 +1,6 @@
 ## DllGetVersion
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern int DllGetVersion(
    ref DLLVERSIONINFO pdvi

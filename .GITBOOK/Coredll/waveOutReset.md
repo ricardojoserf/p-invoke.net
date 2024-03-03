@@ -1,6 +1,6 @@
 ## waveOutReset
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveOutReset(
    IntPtr hwo

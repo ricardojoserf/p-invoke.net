@@ -1,6 +1,6 @@
 ## NetApiBufferAllocate
 
-```
+```csharp
 [DllImport("netapi32.dll", SetLastError = true)]
 public static extern uint NetApiBufferAllocate(
    uint ByteSize,

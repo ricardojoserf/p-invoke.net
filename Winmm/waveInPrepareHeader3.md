@@ -1,6 +1,6 @@
 ## waveInPrepareHeader3
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveInPrepareHeader3(
    IntPtr hwi,

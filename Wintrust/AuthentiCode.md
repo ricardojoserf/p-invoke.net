@@ -1,6 +1,6 @@
 ## AuthentiCode
 
-```
+```csharp
 [DllImport("wintrust.dll", SetLastError = true)]
 public static extern int AuthentiCode(
    IntPtr hwnd,

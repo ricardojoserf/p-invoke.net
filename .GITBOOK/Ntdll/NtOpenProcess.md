@@ -1,6 +1,6 @@
 ## NtOpenProcess
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtOpenProcess(
    out IntPtr ProcessHandle,

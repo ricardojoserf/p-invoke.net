@@ -1,6 +1,6 @@
 ## DeviceIOControl
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int DeviceIOControl(
    IntPtr hDevice,

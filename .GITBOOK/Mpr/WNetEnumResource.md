@@ -1,6 +1,6 @@
 ## WNetEnumResource
 
-```
+```csharp
 [DllImport("Mpr.dll", SetLastError = true)]
 public static extern uint WNetEnumResource(
    IntPtr hEnum,

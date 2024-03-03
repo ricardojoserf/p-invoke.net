@@ -1,6 +1,6 @@
 ## waveInStop
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern uint waveInStop(
    IntPtr hwi

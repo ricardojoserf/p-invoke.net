@@ -1,6 +1,6 @@
 ## CreateTimerQueueTimer
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool CreateTimerQueueTimer(
    out IntPtr phNewTimer,

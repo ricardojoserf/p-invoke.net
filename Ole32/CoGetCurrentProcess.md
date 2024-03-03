@@ -1,6 +1,6 @@
 ## CoGetCurrentProcess
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoGetCurrentProcess(
    out IntPtr lpdwProcessId

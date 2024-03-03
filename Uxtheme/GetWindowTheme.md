@@ -1,6 +1,6 @@
 ## GetWindowTheme
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern IntPtr GetWindowTheme(
    HWND hwnd

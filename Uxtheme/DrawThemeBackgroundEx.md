@@ -1,6 +1,6 @@
 ## DrawThemeBackgroundEx
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT DrawThemeBackgroundEx(
    IntPtr hTheme,

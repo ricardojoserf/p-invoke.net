@@ -1,6 +1,6 @@
 ## CoQueryClientBlanket
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoQueryClientBlanket(
    out IntPtr pAuthnSvc,

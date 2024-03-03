@@ -1,6 +1,6 @@
 ## SetupDiClassGuidsFromName
 
-```
+```csharp
 [DllImport("setupapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern bool SetupDiClassGuidsFromName(
    string ClassName,

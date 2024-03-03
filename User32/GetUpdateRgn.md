@@ -1,6 +1,6 @@
 ## GetUpdateRgn
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern IntPtr GetUpdateRgn(
    IntPtr hWnd,

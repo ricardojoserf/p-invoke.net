@@ -1,6 +1,6 @@
 ## NtQueryTimerResolution
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtQueryTimerResolution(
    out uint MaximumTime,

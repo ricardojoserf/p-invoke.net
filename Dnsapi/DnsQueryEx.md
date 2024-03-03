@@ -1,6 +1,6 @@
 ## DnsQueryEx
 
-```
+```csharp
 [DllImport("dnsapi.dll", SetLastError = true, CharSet = CharSet.Unicode)]
 public static extern int DnsQueryEx(
    ref DNS_QUERY_REQUEST pQueryRequest,

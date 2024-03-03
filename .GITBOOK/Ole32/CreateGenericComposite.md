@@ -1,6 +1,6 @@
 ## CreateGenericComposite
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CreateGenericComposite(
    ref IMoniker pmkFirst,

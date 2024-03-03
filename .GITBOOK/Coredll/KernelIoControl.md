@@ -1,6 +1,6 @@
 ## KernelIoControl
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern int KernelIoControl(
    int dwIoControlCode,

@@ -1,6 +1,6 @@
 ## ntohl
 
-```
+```csharp
 [DllImport("ws2_32.dll", SetLastError = true)]
 public static extern uint ntohl(
    uint netlong

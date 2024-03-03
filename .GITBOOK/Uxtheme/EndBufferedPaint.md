@@ -1,6 +1,6 @@
 ## EndBufferedPaint
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT EndBufferedPaint(
    IntPtr hbp,

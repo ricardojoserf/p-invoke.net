@@ -1,6 +1,6 @@
 ## SQLDriverConnect
 
-```
+```csharp
 [DllImport("odbc32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern int SQLDriverConnect(
    IntPtr hdbc,

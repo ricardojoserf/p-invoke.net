@@ -1,6 +1,6 @@
 ## FreeDDElParam
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool FreeDDElParam(
    uint msg,

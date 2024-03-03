@@ -1,6 +1,6 @@
 ## midiStreamStop
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiStreamStop(
    IntPtr hms

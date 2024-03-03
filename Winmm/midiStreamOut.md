@@ -1,6 +1,6 @@
 ## midiStreamOut
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiStreamOut(
    IntPtr hms,

@@ -1,6 +1,6 @@
 ## RegisterRawInputDevices
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool RegisterRawInputDevices(
    RAWINPUTDEVICE[] pRawInputDevices,

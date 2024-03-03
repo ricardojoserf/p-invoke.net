@@ -1,6 +1,6 @@
 ## NtCreateFile
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtCreateFile(
    out IntPtr FileHandle,

@@ -1,6 +1,6 @@
 ## InternetAttemptConnect
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern int InternetAttemptConnect(
    uint dwReserved

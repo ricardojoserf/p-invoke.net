@@ -1,6 +1,6 @@
 ## RegisterTypeLib
 
-```
+```csharp
 [DllImport("oleaut32.dll", CharSet = CharSet.Unicode, PreserveSig = false)]
 public static extern void RegisterTypeLib(
    ITypeLib ptlib,

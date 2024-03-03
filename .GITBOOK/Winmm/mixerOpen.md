@@ -1,6 +1,6 @@
 ## mixerOpen
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint mixerOpen(
    out IntPtr phmx,

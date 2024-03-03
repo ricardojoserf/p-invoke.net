@@ -1,6 +1,6 @@
 ## memcpy
 
-```
+```csharp
 [DllImport("msvcrt.dll", CallingConvention = CallingConvention.Cdecl, SetLastError = true)]
 public static extern IntPtr memcpy(
    IntPtr dest,

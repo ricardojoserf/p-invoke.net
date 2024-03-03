@@ -1,6 +1,6 @@
 ## StgOpenPropStg
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StgOpenPropStg(
    IUnknown pUnk,

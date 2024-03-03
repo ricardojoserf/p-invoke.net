@@ -1,6 +1,6 @@
 ## OpenThemeData
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern IntPtr OpenThemeData(
    HWND hwnd,

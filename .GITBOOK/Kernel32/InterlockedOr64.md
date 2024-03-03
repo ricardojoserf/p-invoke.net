@@ -1,6 +1,6 @@
 ## InterlockedOr64
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.U8)]
 public static extern ulong InterlockedOr64(
    ref long Destination,

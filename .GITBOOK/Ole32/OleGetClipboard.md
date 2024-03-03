@@ -1,6 +1,6 @@
 ## OleGetClipboard
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleGetClipboard(
    out IDataObject ppDataObj

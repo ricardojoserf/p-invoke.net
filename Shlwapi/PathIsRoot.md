@@ -1,6 +1,6 @@
 ## PathIsRoot
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern bool PathIsRoot(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

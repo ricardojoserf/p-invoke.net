@@ -1,6 +1,6 @@
 ## MsiViewExecute
 
-```
+```csharp
 [DllImport("msi.dll", CharSet = CharSet.Auto)]
 public static extern int MsiViewExecute(
    IntPtr hView,

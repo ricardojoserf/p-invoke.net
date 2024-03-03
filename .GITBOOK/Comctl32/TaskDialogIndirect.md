@@ -1,6 +1,6 @@
 ## TaskDialogIndirect
 
-```
+```csharp
 [DllImport("Comctl32.dll", SetLastError = true)]
 public static extern int TaskDialogIndirect(
    [In] ref TASKDIALOGCONFIG pTaskConfig,

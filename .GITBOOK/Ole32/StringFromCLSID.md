@@ -1,6 +1,6 @@
 ## StringFromCLSID
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StringFromCLSID(
    ref Guid rclsid,

@@ -1,6 +1,6 @@
 ## AppendMenu
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool AppendMenu(
    IntPtr hMenu,

@@ -1,6 +1,6 @@
 ## HitTestThemeBackground
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern HRESULT HitTestThemeBackground(
    IntPtr hTheme,

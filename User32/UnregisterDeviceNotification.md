@@ -1,6 +1,6 @@
 ## UnregisterDeviceNotification
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool UnregisterDeviceNotification(
    IntPtr hHandle

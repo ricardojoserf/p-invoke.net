@@ -1,6 +1,6 @@
 ## OleCreateFromFile
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateFromFile(
    [MarshalAs(UnmanagedType.LPStruct)] Guid rclsid,

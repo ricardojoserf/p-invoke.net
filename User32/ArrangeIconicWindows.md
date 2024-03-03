@@ -1,6 +1,6 @@
 ## ArrangeIconicWindows
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern uint ArrangeIconicWindows(
    IntPtr hWnd

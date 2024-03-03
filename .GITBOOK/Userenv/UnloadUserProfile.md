@@ -1,6 +1,6 @@
 ## UnloadUserProfile
 
-```
+```csharp
 [DllImport("userenv.dll", CharSet = CharSet.Unicode, SetLastError = true)]
 public static extern bool UnloadUserProfile(
    IntPtr hToken,

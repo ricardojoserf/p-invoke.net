@@ -1,6 +1,6 @@
 ## CreateWindowEx
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true, CharSet = CharSet.Ansi)]
 public static extern IntPtr CreateWindowExA(uint dwExStyle,
    string lpClassName,

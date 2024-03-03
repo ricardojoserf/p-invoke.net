@@ -1,6 +1,6 @@
 ## BluetoothRemoveDevice
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothRemoveDevice(
    ref Guid pbtAddress

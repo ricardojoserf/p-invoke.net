@@ -1,6 +1,6 @@
 ## IsOS
 
-```
+```csharp
 [DllImport("shlwapi.dll")]
 public static extern bool IsOS(
    OSVERSIONINFOEX osvi,

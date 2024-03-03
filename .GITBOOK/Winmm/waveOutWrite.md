@@ -1,6 +1,6 @@
 ## waveOutWrite
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutWrite(
    IntPtr hwo,

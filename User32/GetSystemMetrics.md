@@ -1,6 +1,6 @@
 ## GetSystemMetrics
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern int GetSystemMetrics(
    int nIndex

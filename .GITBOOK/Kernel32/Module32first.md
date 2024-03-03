@@ -1,6 +1,6 @@
 ## Module32first
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool Module32First(IntPtr hSnapshot,
    ref MODULEENTRY32 lpme

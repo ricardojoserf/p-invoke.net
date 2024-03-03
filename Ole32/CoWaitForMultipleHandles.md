@@ -1,6 +1,6 @@
 ## CoWaitForMultipleHandles
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoWaitForMultipleHandles(
    uint dwFlags,

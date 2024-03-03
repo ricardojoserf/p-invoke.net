@@ -1,6 +1,6 @@
 ## MiniDumpWriteDump
 
-```
+```csharp
 [DllImport("Dbghelp.dll", SetLastError = true)]
 public static extern bool MiniDumpWriteDump(
    IntPtr hProcess,

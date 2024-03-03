@@ -1,6 +1,6 @@
 ## Writeconsoleinput
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool WriteConsoleInput(IntPtr hConsoleInput,
    INPUT_RECORD[] lpBuffer,

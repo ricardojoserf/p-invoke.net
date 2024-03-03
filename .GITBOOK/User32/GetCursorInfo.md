@@ -1,6 +1,6 @@
 ## GetCursorInfo
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool GetCursorInfo(
    ref CURSORINFO pci

@@ -1,6 +1,6 @@
 ## BluetoothAuthenticateDevice
 
-```
+```csharp
 [DllImport("Irprops.dll", SetLastError = true)]
 public static extern uint BluetoothAuthenticateDevice(
    IntPtr hRadio,

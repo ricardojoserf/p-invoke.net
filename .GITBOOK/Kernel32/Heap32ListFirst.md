@@ -1,6 +1,6 @@
 ## Heap32ListFirst
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool Heap32ListFirst(
    IntPtr hSnapshot,

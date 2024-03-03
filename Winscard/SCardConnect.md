@@ -1,6 +1,6 @@
 ## SCardConnect
 
-```
+```csharp
 [DllImport("winscard.dll", SetLastError = true)]
 public static extern int SCardConnect(
    IntPtr hContext,

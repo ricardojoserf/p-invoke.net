@@ -1,6 +1,6 @@
 ## WinVerifyTrust
 
-```
+```csharp
 [DllImport("wintrust.dll", SetLastError = true)]
 public static extern uint WinVerifyTrust(
    IntPtr hWnd,

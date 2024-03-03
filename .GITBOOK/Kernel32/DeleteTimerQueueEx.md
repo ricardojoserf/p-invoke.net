@@ -1,6 +1,6 @@
 ## DeleteTimerQueueEx
 
-```
+```csharp
 [DllImport("kernel32.dll", SetLastError = true)] [return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool DeleteTimerQueueEx(
    IntPtr TimerQueue,

@@ -1,6 +1,6 @@
 ## NtWriteVirtualMemory
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtWriteVirtualMemory(
    IntPtr ProcessHandle,

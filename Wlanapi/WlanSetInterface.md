@@ -1,6 +1,6 @@
 ## WlanSetInterface
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint WlanSetInterface(
    IntPtr hClientHandle,

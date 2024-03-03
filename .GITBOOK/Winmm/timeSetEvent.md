@@ -1,6 +1,6 @@
 ## timeSetEvent
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint timeSetEvent(
    uint uDelay,

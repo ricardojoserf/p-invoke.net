@@ -1,6 +1,6 @@
 ## Mapviewoffile
 
-```
+```csharp
 [DllImport("Kernel32.dll")][return: MarshalAs(UnmanagedType.SysInt)]
 public static extern IntPtr MapViewOfFile(IntPtr hFileMappingObject,
    uint dwDesiredAccess,

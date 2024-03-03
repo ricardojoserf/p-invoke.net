@@ -1,6 +1,6 @@
 ## GetAsyncKeyState
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern short GetAsyncKeyState(
    Keys vKey

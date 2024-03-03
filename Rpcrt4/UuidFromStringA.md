@@ -1,6 +1,6 @@
 ## UuidFromStringA
 
-```
+```csharp
 [DllImport("rpcrt4.dll", SetLastError = true)]
 public static extern int UuidFromStringA(
    byte[] StringUuid,

@@ -1,6 +1,6 @@
 ## OleLockRunning
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleLockRunning(
    IOleObject pObject,

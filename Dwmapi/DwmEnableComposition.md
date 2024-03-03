@@ -1,6 +1,6 @@
 ## DwmEnableComposition
 
-```
+```csharp
 [DllImport("dwmapi.dll", SetLastError = true)]
 public static extern int DwmEnableComposition(
    bool fEnable

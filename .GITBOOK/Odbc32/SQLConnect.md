@@ -1,6 +1,6 @@
 ## SQLConnect
 
-```
+```csharp
 [DllImport("odbc32.dll", SetLastError = true)]
 public static extern int SQLConnect(
    IntPtr hdbc,

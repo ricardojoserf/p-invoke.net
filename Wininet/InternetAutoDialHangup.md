@@ -1,6 +1,6 @@
 ## InternetAutoDialHangup
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern bool InternetAutoDialHangup(
    IntPtr dwReserved

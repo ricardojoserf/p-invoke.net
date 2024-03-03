@@ -1,6 +1,6 @@
 ## Readconsoleoutput
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool ReadConsoleOutput(IntPtr hConsoleOutput,
    [Out] CHAR_INFO[] lpBuffer,

@@ -1,6 +1,6 @@
 ## PathMakeUniqueName
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern void PathMakeUniqueName(
    StringBuilder pszUniqueName,

@@ -1,6 +1,6 @@
 ## DeleteUrlCacheGroup
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true, CharSet = CharSet.Auto)]
 public static extern bool DeleteUrlCacheGroup(
    uint GroupId,

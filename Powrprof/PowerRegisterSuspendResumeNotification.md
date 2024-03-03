@@ -1,6 +1,6 @@
 ## PowerRegisterSuspendResumeNotification
 
-```
+```csharp
 [DllImport("powrprof.dll", SetLastError = true)]
 public static extern IntPtr PowerRegisterSuspendResumeNotification(
    uint Flags

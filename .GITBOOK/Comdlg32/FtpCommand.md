@@ -1,6 +1,6 @@
 ## FtpCommand
 
-```
+```csharp
 [DllImport("Comdlg32.dll", SetLastError = true)]
 public static extern bool FtpCommand(
    IntPtr hConnect,

@@ -1,6 +1,6 @@
 ## GetWindowLongPtr
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern IntPtr GetWindowLongPtr(
    IntPtr hWnd,

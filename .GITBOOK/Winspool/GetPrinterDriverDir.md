@@ -1,6 +1,6 @@
 ## GetPrinterDriverDir
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool GetPrinterDriverDir(
    string pName,

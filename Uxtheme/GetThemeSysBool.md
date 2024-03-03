@@ -1,6 +1,6 @@
 ## GetThemeSysBool
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern bool GetThemeSysBool(
    IntPtr hTheme,

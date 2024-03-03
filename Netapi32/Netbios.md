@@ -1,6 +1,6 @@
 ## Netbios
 
-```
+```csharp
 [DllImport("Netapi32.dll", CharSet = CharSet.Ansi, SetLastError = true)][return: MarshalAs(UnmanagedType.U4)]
 public static extern NERR Netbios(
    ref NCB ncb

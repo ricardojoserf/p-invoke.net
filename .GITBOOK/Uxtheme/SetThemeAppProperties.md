@@ -1,6 +1,6 @@
 ## SetThemeAppProperties
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern void SetThemeAppProperties(
    int dwFlags

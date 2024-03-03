@@ -1,6 +1,6 @@
 ## OpenThemeFile
 
-```
+```csharp
 [DllImport("uxtheme.dll", SetLastError = true)]
 public static extern IntPtr OpenThemeFile(
    [MarshalAs(UnmanagedType.LPWStr)] string pszThemeFile,

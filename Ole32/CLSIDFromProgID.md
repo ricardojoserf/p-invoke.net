@@ -1,6 +1,6 @@
 ## CLSIDFromProgID
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CLSIDFromProgID(
    [MarshalAs(UnmanagedType.LPWStr)] string lpszProgID,

@@ -1,6 +1,6 @@
 ## DhcpAddSubnetElementV5
 
-```
+```csharp
 [DllImport("dhcpsapi.dll", SetLastError = true)]
 public static extern uint DhcpAddSubnetElementV5(
    IntPtr ServerIpAddress,

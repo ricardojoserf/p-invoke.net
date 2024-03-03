@@ -1,6 +1,6 @@
 ## RtlNtStatusToDosError
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern uint RtlNtStatusToDosError(
    int Status

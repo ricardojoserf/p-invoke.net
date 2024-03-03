@@ -1,6 +1,6 @@
 ## PathRemoveBackslash
 
-```
+```csharp
 [DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
 public static extern IntPtr PathRemoveBackslash(
    [MarshalAs(UnmanagedType.LPWStr)] string pszPath

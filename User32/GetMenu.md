@@ -1,6 +1,6 @@
 ## GetMenu
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern IntPtr GetMenu(
    IntPtr hWnd

@@ -1,6 +1,6 @@
 ## CeSetUserNotificationEx
 
-```
+```csharp
 [DllImport("coredll.dll", SetLastError = true)]
 public static extern bool CeSetUserNotificationEx(
    IntPtr hNotification,

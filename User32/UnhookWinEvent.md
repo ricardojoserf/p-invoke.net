@@ -1,6 +1,6 @@
 ## UnhookWinEvent
 
-```
+```csharp
 [DllImport("user32.dll", SetLastError = true)]
 public static extern bool UnhookWinEvent(
    IntPtr hWinEventHook

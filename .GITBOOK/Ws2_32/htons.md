@@ -1,6 +1,6 @@
 ## htons
 
-```
+```csharp
 [DllImport("ws2_32.dll", SetLastError = true)]
 public static extern ushort htons(
    ushort hostshort

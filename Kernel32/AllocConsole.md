@@ -1,6 +1,6 @@
 ## AllocConsole
 
-```
+```csharp
 [DllImport("Kernel32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool AllocConsole(
    

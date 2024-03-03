@@ -1,6 +1,6 @@
 ## OleRegGetMiscStatus
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleRegGetMiscStatus(
    ref Guid clsid,

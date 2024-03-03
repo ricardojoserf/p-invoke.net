@@ -1,6 +1,6 @@
 ## InternetSetOption
 
-```
+```csharp
 [DllImport("wininet.dll", SetLastError = true)]
 public static extern bool InternetSetOption(
    IntPtr hInternet,

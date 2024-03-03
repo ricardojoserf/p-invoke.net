@@ -1,6 +1,6 @@
 ## GetMenuItemBitmaps
 
-```
+```csharp
 [DllImport("user32.dll")]
 public static extern bool GetMenuItemBitmaps(
    IntPtr hMenu,

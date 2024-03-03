@@ -1,6 +1,6 @@
 ## GetInterfaceInfo
 
-```
+```csharp
 [DllImport("Iphlpapi.dll", SetLastError = true)]
 public static extern uint GetInterfaceInfo(
    IntPtr pIfTable,

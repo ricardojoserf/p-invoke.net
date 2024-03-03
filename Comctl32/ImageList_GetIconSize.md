@@ -1,6 +1,6 @@
 ## ImageList_GetIconSize
 
-```
+```csharp
 [DllImport("Comctl32.dll", SetLastError = true)][return: MarshalAs(UnmanagedType.Bool)]
 public static extern bool ImageList_GetIconSize(
    IntPtr himl,

@@ -1,6 +1,6 @@
 ## EapHostPeerInvokeConfigUI
 
-```
+```csharp
 [DllImport("wlanapi.dll", SetLastError = true)]
 public static extern uint EapHostPeerInvokeConfigUI(
    [MarshalAs(UnmanagedType.LPWStr)] string profileName,

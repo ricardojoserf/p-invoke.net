@@ -1,6 +1,6 @@
 ## CoEnableCallCancellation
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoEnableCallCancellation(
    IUnknown punk,

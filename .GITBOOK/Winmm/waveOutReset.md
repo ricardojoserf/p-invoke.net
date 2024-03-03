@@ -1,6 +1,6 @@
 ## waveOutReset
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint waveOutReset(
    IntPtr hwo

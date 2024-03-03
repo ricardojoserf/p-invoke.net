@@ -1,6 +1,6 @@
 ## PrintDlg
 
-```
+```csharp
 [DllImport("Comdlg32.dll", SetLastError = true)]
 public static extern bool PrintDlg(
    ref PRINTDLG lppd

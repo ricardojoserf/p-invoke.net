@@ -1,6 +1,6 @@
 ## XcvData
 
-```
+```csharp
 [DllImport("winspool.drv", SetLastError = true)]
 public static extern bool XcvData(
    IntPtr hXcv,

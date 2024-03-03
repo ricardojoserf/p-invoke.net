@@ -1,6 +1,6 @@
 ## CoCopyProxy
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int CoCopyProxy(
    IUnknown pProxy,

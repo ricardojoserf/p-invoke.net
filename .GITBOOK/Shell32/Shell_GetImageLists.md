@@ -1,6 +1,6 @@
 ## Shell_GetImageLists
 
-```
+```csharp
 [DllImport("shell32.dll")]
 public static extern int Shell_GetImageLists(
    IntPtr[] ppshil,

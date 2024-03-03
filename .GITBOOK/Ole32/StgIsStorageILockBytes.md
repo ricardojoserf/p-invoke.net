@@ -1,6 +1,6 @@
 ## StgIsStorageILockBytes
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int StgIsStorageILockBytes(
    ILockBytes plkbyt

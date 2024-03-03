@@ -1,6 +1,6 @@
 ## OleCreateLinkToFileEx
 
-```
+```csharp
 [DllImport("ole32.dll", SetLastError = true)]
 public static extern int OleCreateLinkToFileEx(
    [MarshalAs(UnmanagedType.LPWStr)] string lpszFileName,

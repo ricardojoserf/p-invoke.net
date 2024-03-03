@@ -1,6 +1,6 @@
 ## kbhit
 
-```
+```csharp
 [DllImport("msvcrt.dll", CallingConvention = CallingConvention.Cdecl, SetLastError = true)]
 public static extern int kbhit(
    

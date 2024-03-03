@@ -1,6 +1,6 @@
 ## CertFindCertificateInCRL
 
-```
+```csharp
 [DllImport("Crypt32.dll", SetLastError = true)]
 public static extern IntPtr CertFindCertificateInCRL(
    IntPtr pCert,

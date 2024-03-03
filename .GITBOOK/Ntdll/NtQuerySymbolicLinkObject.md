@@ -1,6 +1,6 @@
 ## NtQuerySymbolicLinkObject
 
-```
+```csharp
 [DllImport("ntdll.dll", SetLastError = true)]
 public static extern int NtQuerySymbolicLinkObject(
    IntPtr LinkHandle,

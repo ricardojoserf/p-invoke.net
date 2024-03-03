@@ -1,6 +1,6 @@
 ## midiStreamRestart
 
-```
+```csharp
 [DllImport("winmm.dll", SetLastError = true)]
 public static extern uint midiStreamRestart(
    IntPtr hms
